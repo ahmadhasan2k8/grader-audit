@@ -1,0 +1,600 @@
+{"gold": "C", "snap_pred": "D", "snap_text_pred": "D", "snap_lastchar_pred": "B", "clean_pred": "D", "abstain": 0, "k": 4, "resp": "(D) None of the above"}
+{"gold": "A", "snap_pred": "C", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "C", "abstain": 0, "k": 4, "resp": "C"}
+{"gold": "C", "snap_pred": "B", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "B", "abstain": 0, "k": 4, "resp": "B"}
+{"gold": "C", "snap_pred": "C", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "C", "abstain": 0, "k": 4, "resp": "C"}
+{"gold": "B", "snap_pred": "A", "snap_text_pred": "B", "snap_lastchar_pred": "B", "clean_pred": "A", "abstain": 0, "k": 4, "resp": "A"}
+{"gold": "D", "snap_pred": "D", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "D", "abstain": 0, "k": 4, "resp": "D"}
+{"gold": "C", "snap_pred": "C", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "C", "abstain": 0, "k": 4, "resp": "C"}
+{"gold": "B", "snap_pred": "B", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "B", "abstain": 0, "k": 4, "resp": "B"}
+{"gold": "A", "snap_pred": "A", "snap_text_pred": "A", "snap_lastchar_pred": "A", "clean_pred": "A", "abstain": 0, "k": 4, "resp": "A"}
+{"gold": "C", "snap_pred": "C", "snap_text_pred": "C", "snap_lastchar_pred": "A", "clean_pred": "C", "abstain": 0, "k": 4, "resp": "(C) Indicates hemorrhage in sella turcica"}
+{"gold": "B", "snap_pred": "B", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "B", "abstain": 0, "k": 4, "resp": "B"}
+{"gold": "C", "snap_pred": "B", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "B", "abstain": 0, "k": 4, "resp": "B"}
+{"gold": "B", "snap_pred": "C", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "C", "abstain": 0, "k": 4, "resp": "C"}
+{"gold": "A", "snap_pred": "A", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "A", "abstain": 0, "k": 4, "resp": "A"}
+{"gold": "C", "snap_pred": "B", "snap_text_pred": "A", "snap_lastchar_pred": "A", "clean_pred": "B", "abstain": 0, "k": 4, "resp": "B"}
+{"gold": "B", "snap_pred": "B", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "B", "abstain": 0, "k": 4, "resp": "B"}
+{"gold": "B", "snap_pred": "B", "snap_text_pred": "D", "snap_lastchar_pred": "D", "clean_pred": "B", "abstain": 0, "k": 4, "resp": "B"}
+{"gold": "C", "snap_pred": "C", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "C", "abstain": 0, "k": 4, "resp": "C"}
+{"gold": "B", "snap_pred": "C", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "C", "abstain": 0, "k": 4, "resp": "C"}
+{"gold": "B", "snap_pred": "B", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "B", "abstain": 0, "k": 4, "resp": "B"}
+{"gold": "B", "snap_pred": "C", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "C", "abstain": 0, "k": 4, "resp": "C"}
+{"gold": "C", "snap_pred": "B", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "B", "abstain": 0, "k": 4, "resp": "B"}
+{"gold": "A", "snap_pred": "C", "snap_text_pred": "D", "snap_lastchar_pred": "D", "clean_pred": "C", "abstain": 0, "k": 4, "resp": "C"}
+{"gold": "A", "snap_pred": "B", "snap_text_pred": "B", "snap_lastchar_pred": "B", "clean_pred": "B", "abstain": 0, "k": 4, "resp": "B"}
+{"gold": "A", "snap_pred": "B", "snap_text_pred": "B", "snap_lastchar_pred": null, "clean_pred": "B", "abstain": 0, "k": 4, "resp": "The image shows a sequence of four panels depicting whisker stimulation in a rodent, likely for a neuroscience experiment. The panels show the whisker pad (vibrissal field) with different whiskers being stimulated.\n\n- The first panel shows the baseline or unstimulated state.\n- The second panel shows a stimulation event, with a dark spot indicating the stimulated whisker. Based on standard nomenclature and the position of the dark spot, this corresponds to the **D2 whisker**.\n- The third panel shows another stimulation event, with a different dark spot. This corresponds to the **Gamma whisker**.\n\nThe question asks which whiskers were stimulated in the second and third panels. The correct pairing is **D2 and Gamma whiskers**.\n\nTherefore, the correct answer is:\n\n**(B) D2 and Gamma whiskers**"}
+{"gold": "A", "snap_pred": "C", "snap_text_pred": "D", "snap_lastchar_pred": "D", "clean_pred": "C", "abstain": 0, "k": 4, "resp": "C"}
+{"gold": "B", "snap_pred": "B", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "B", "abstain": 0, "k": 4, "resp": "B"}
+{"gold": "A", "snap_pred": "B", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "B", "abstain": 0, "k": 4, "resp": "B"}
+{"gold": "A", "snap_pred": "A", "snap_text_pred": "D", "snap_lastchar_pred": null, "clean_pred": null, "abstain": 1, "k": 4, "resp": "The MRI image shows a mass in the brain, as evidenced by the coronal (B) and sagittal (A) views displaying cerebral structures. The mass is located within the cranial cavity, which is part of the **cranial space**. However, among the given options, none directly mention \"cranial space.\"\n\nLet\u2019s evaluate the options:\n\n- (A) Cervical space \u2014 refers to the neck region, below the skull.\n- (B) Thoracic space \u2014 refers to the chest, including the lungs and heart.\n- (C) Pelvic space \u2014 refers to the lower abdomen and pelvis.\n- (D) Abdominal space \u2014 refers to the area between the chest and pelvis.\n\nNone of these options correctly describe the space where the mass is located \u2014 it is in the **cranial space**. Since the question asks to choose from the given options, and none are correct, we must consider if there\u2019s a trick or misdirection.\n\nHowever, in the context of the image, the mass is clearly in the brain, which is cranial. But since the options are limited to cervical, thoracic, pelvic, or abdominal, and the mass is not in any of those, **none of the options are correct**"}
+{"gold": "C", "snap_pred": "C", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "C", "abstain": 0, "k": 4, "resp": "C"}
+{"gold": "B", "snap_pred": "C", "snap_text_pred": "A", "snap_lastchar_pred": "A", "clean_pred": "C", "abstain": 0, "k": 4, "resp": "C"}
+{"gold": "A", "snap_pred": "A", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "A", "abstain": 0, "k": 4, "resp": "A"}
+{"gold": "C", "snap_pred": "D", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "D", "abstain": 0, "k": 4, "resp": "D"}
+{"gold": "D", "snap_pred": "D", "snap_text_pred": "D", "snap_lastchar_pred": "C", "clean_pred": "D", "abstain": 0, "k": 4, "resp": "(D) Presence of lesions"}
+{"gold": "C", "snap_pred": "C", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "C", "abstain": 0, "k": 4, "resp": "C"}
+{"gold": "B", "snap_pred": "B", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "B", "abstain": 0, "k": 4, "resp": "B"}
+{"gold": "B", "snap_pred": "B", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "B", "abstain": 0, "k": 4, "resp": "B"}
+{"gold": "C", "snap_pred": "B", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "B", "abstain": 0, "k": 4, "resp": "B"}
+{"gold": "D", "snap_pred": "D", "snap_text_pred": "D", "snap_lastchar_pred": "D", "clean_pred": "D", "abstain": 0, "k": 4, "resp": "(D) Ultrasound"}
+{"gold": "D", "snap_pred": "B", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "B", "abstain": 0, "k": 4, "resp": "B"}
+{"gold": "D", "snap_pred": "D", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "D", "abstain": 0, "k": 4, "resp": "D"}
+{"gold": "C", "snap_pred": "A", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "A", "abstain": 0, "k": 4, "resp": "A"}
+{"gold": "C", "snap_pred": "D", "snap_text_pred": "D", "snap_lastchar_pred": "D", "clean_pred": "D", "abstain": 0, "k": 4, "resp": "(D) Pons"}
+{"gold": "B", "snap_pred": "B", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "B", "abstain": 0, "k": 4, "resp": "B"}
+{"gold": "B", "snap_pred": "B", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "B", "abstain": 0, "k": 4, "resp": "B"}
+{"gold": "A", "snap_pred": "B", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "B", "abstain": 0, "k": 4, "resp": "B"}
+{"gold": "B", "snap_pred": "C", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "C", "abstain": 0, "k": 4, "resp": "C"}
+{"gold": "A", "snap_pred": "C", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "C", "abstain": 0, "k": 4, "resp": "C"}
+{"gold": "B", "snap_pred": "C", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "C", "abstain": 0, "k": 4, "resp": "C"}
+{"gold": "B", "snap_pred": "B", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "B", "abstain": 0, "k": 4, "resp": "B"}
+{"gold": "A", "snap_pred": "A", "snap_text_pred": "A", "snap_lastchar_pred": "A", "clean_pred": "A", "abstain": 0, "k": 4, "resp": "(A) Normal"}
+{"gold": "B", "snap_pred": "D", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "D", "abstain": 0, "k": 4, "resp": "D"}
+{"gold": "B", "snap_pred": "B", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "B", "abstain": 0, "k": 4, "resp": "B"}
+{"gold": "B", "snap_pred": "B", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "B", "abstain": 0, "k": 4, "resp": "B"}
+{"gold": "B", "snap_pred": "A", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "A", "abstain": 0, "k": 4, "resp": "A"}
+{"gold": "C", "snap_pred": "B", "snap_text_pred": "B", "snap_lastchar_pred": "C", "clean_pred": "B", "abstain": 0, "k": 4, "resp": "(B) The location of the CT molecule."}
+{"gold": "B", "snap_pred": "B", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "B", "abstain": 0, "k": 4, "resp": "B"}
+{"gold": "C", "snap_pred": "A", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "A", "abstain": 0, "k": 4, "resp": "A"}
+{"gold": "B", "snap_pred": "D", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "D", "abstain": 0, "k": 4, "resp": "D"}
+{"gold": "A", "snap_pred": "A", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "A", "abstain": 0, "k": 4, "resp": "A"}
+{"gold": "C", "snap_pred": "A", "snap_text_pred": "A", "snap_lastchar_pred": "A", "clean_pred": "A", "abstain": 0, "k": 4, "resp": "A"}
+{"gold": "D", "snap_pred": "A", "snap_text_pred": "B", "snap_lastchar_pred": "D", "clean_pred": "B", "abstain": 0, "k": 4, "resp": "(B) A cell-free area on a femtosecond laser-treated bone screw."}
+{"gold": "D", "snap_pred": "A", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "A", "abstain": 0, "k": 4, "resp": "A"}
+{"gold": "D", "snap_pred": "B", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "B", "abstain": 0, "k": 4, "resp": "B"}
+{"gold": "B", "snap_pred": "B", "snap_text_pred": "C", "snap_lastchar_pred": "C", "clean_pred": "B", "abstain": 0, "k": 4, "resp": "B"}
+{"gold": "C", "snap_pred": "C", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "C", "abstain": 0, "k": 4, "resp": "C"}
+{"gold": "C", "snap_pred": "C", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "C", "abstain": 0, "k": 4, "resp": "C"}
+{"gold": "C", "snap_pred": "C", "snap_text_pred": "A", "snap_lastchar_pred": "A", "clean_pred": "C", "abstain": 0, "k": 4, "resp": "C"}
+{"gold": "C", "snap_pred": "C", "snap_text_pred": "C", "snap_lastchar_pred": "A", "clean_pred": "C", "abstain": 0, "k": 4, "resp": "(C) Location of the sonar probe"}
+{"gold": "A", "snap_pred": "A", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "A", "abstain": 0, "k": 4, "resp": "A"}
+{"gold": "C", "snap_pred": "C", "snap_text_pred": "A", "snap_lastchar_pred": "A", "clean_pred": "C", "abstain": 0, "k": 4, "resp": "C"}
+{"gold": "B", "snap_pred": "B", "snap_text_pred": "D", "snap_lastchar_pred": "D", "clean_pred": "D", "abstain": 0, "k": 4, "resp": "(D) Blue"}
+{"gold": "C", "snap_pred": "B", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "B", "abstain": 0, "k": 4, "resp": "B"}
+{"gold": "B", "snap_pred": "B", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "B", "abstain": 0, "k": 4, "resp": "B"}
+{"gold": "D", "snap_pred": "D", "snap_text_pred": "D", "snap_lastchar_pred": "A", "clean_pred": "D", "abstain": 0, "k": 4, "resp": "(D) Hypointense"}
+{"gold": "A", "snap_pred": "B", "snap_text_pred": "C", "snap_lastchar_pred": "C", "clean_pred": "B", "abstain": 0, "k": 4, "resp": "B"}
+{"gold": "A", "snap_pred": "A", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "A", "abstain": 0, "k": 4, "resp": "A"}
+{"gold": "B", "snap_pred": "C", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "C", "abstain": 0, "k": 4, "resp": "C"}
+{"gold": "D", "snap_pred": "C", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "C", "abstain": 0, "k": 4, "resp": "C"}
+{"gold": "C", "snap_pred": "C", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "C", "abstain": 0, "k": 4, "resp": "C"}
+{"gold": "A", "snap_pred": "B", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "B", "abstain": 0, "k": 4, "resp": "B"}
+{"gold": "B", "snap_pred": "C", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "C", "abstain": 0, "k": 4, "resp": "C"}
+{"gold": "A", "snap_pred": "C", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "C", "abstain": 0, "k": 4, "resp": "C"}
+{"gold": "D", "snap_pred": "C", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "C", "abstain": 0, "k": 4, "resp": "C"}
+{"gold": "B", "snap_pred": "B", "snap_text_pred": "B", "snap_lastchar_pred": "B", "clean_pred": "B", "abstain": 0, "k": 4, "resp": "B"}
+{"gold": "C", "snap_pred": "C", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "C", "abstain": 0, "k": 4, "resp": "C"}
+{"gold": "B", "snap_pred": "B", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "B", "abstain": 0, "k": 4, "resp": "B"}
+{"gold": "C", "snap_pred": "B", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "B", "abstain": 0, "k": 4, "resp": "B"}
+{"gold": "A", "snap_pred": "B", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "B", "abstain": 0, "k": 4, "resp": "B"}
+{"gold": "B", "snap_pred": "C", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "C", "abstain": 0, "k": 4, "resp": "C"}
+{"gold": "C", "snap_pred": "C", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "C", "abstain": 0, "k": 4, "resp": "C"}
+{"gold": "B", "snap_pred": "B", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "B", "abstain": 0, "k": 4, "resp": "B"}
+{"gold": "B", "snap_pred": "B", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "B", "abstain": 0, "k": 4, "resp": "B"}
+{"gold": "C", "snap_pred": "C", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "C", "abstain": 0, "k": 4, "resp": "C"}
+{"gold": "A", "snap_pred": "D", "snap_text_pred": "A", "snap_lastchar_pred": "A", "clean_pred": "D", "abstain": 0, "k": 4, "resp": "D"}
+{"gold": "D", "snap_pred": "A", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "A", "abstain": 0, "k": 4, "resp": "A"}
+{"gold": "A", "snap_pred": "D", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "D", "abstain": 0, "k": 4, "resp": "D"}
+{"gold": "C", "snap_pred": "C", "snap_text_pred": "C", "snap_lastchar_pred": "C", "clean_pred": "C", "abstain": 0, "k": 4, "resp": "C"}
+{"gold": "C", "snap_pred": "D", "snap_text_pred": "D", "snap_lastchar_pred": "C", "clean_pred": "D", "abstain": 0, "k": 4, "resp": "(D) Sitting down"}
+{"gold": "B", "snap_pred": "B", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "B", "abstain": 0, "k": 4, "resp": "B"}
+{"gold": "A", "snap_pred": "A", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "A", "abstain": 0, "k": 4, "resp": "A"}
+{"gold": "A", "snap_pred": "A", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "A", "abstain": 0, "k": 4, "resp": "A"}
+{"gold": "B", "snap_pred": "B", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "B", "abstain": 0, "k": 4, "resp": "B"}
+{"gold": "A", "snap_pred": "B", "snap_text_pred": "B", "snap_lastchar_pred": "A", "clean_pred": "B", "abstain": 0, "k": 4, "resp": "(B) right"}
+{"gold": "B", "snap_pred": "C", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "C", "abstain": 0, "k": 4, "resp": "C"}
+{"gold": "A", "snap_pred": "A", "snap_text_pred": "A", "snap_lastchar_pred": "A", "clean_pred": "A", "abstain": 0, "k": 4, "resp": "(A) Red"}
+{"gold": "C", "snap_pred": "C", "snap_text_pred": "B", "snap_lastchar_pred": "B", "clean_pred": "C", "abstain": 0, "k": 4, "resp": "C"}
+{"gold": "A", "snap_pred": "C", "snap_text_pred": "C", "snap_lastchar_pred": "C", "clean_pred": "C", "abstain": 0, "k": 4, "resp": "C"}
+{"gold": "C", "snap_pred": "C", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "C", "abstain": 0, "k": 4, "resp": "C"}
+{"gold": "C", "snap_pred": "C", "snap_text_pred": "A", "snap_lastchar_pred": "A", "clean_pred": "C", "abstain": 0, "k": 4, "resp": "C"}
+{"gold": "A", "snap_pred": "A", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "A", "abstain": 0, "k": 4, "resp": "A"}
+{"gold": "B", "snap_pred": "B", "snap_text_pred": "B", "snap_lastchar_pred": "B", "clean_pred": "B", "abstain": 0, "k": 4, "resp": "(B) It has been removed"}
+{"gold": "A", "snap_pred": "B", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "B", "abstain": 0, "k": 4, "resp": "B"}
+{"gold": "B", "snap_pred": "B", "snap_text_pred": "B", "snap_lastchar_pred": "B", "clean_pred": "B", "abstain": 0, "k": 4, "resp": "B"}
+{"gold": "C", "snap_pred": "B", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "B", "abstain": 0, "k": 4, "resp": "B"}
+{"gold": "A", "snap_pred": "B", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "B", "abstain": 0, "k": 4, "resp": "B"}
+{"gold": "C", "snap_pred": "A", "snap_text_pred": "C", "snap_lastchar_pred": "C", "clean_pred": "C", "abstain": 0, "k": 4, "resp": "(C) An underlying mass"}
+{"gold": "D", "snap_pred": "D", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "D", "abstain": 0, "k": 4, "resp": "D"}
+{"gold": "D", "snap_pred": "A", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "A", "abstain": 0, "k": 4, "resp": "A"}
+{"gold": "B", "snap_pred": "C", "snap_text_pred": "C", "snap_lastchar_pred": "C", "clean_pred": "C", "abstain": 0, "k": 4, "resp": "C"}
+{"gold": "D", "snap_pred": "D", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "D", "abstain": 0, "k": 4, "resp": "D"}
+{"gold": "B", "snap_pred": "B", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "B", "abstain": 0, "k": 4, "resp": "B"}
+{"gold": "A", "snap_pred": "A", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "A", "abstain": 0, "k": 4, "resp": "A"}
+{"gold": "C", "snap_pred": "C", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "C", "abstain": 0, "k": 4, "resp": "C"}
+{"gold": "B", "snap_pred": "C", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "C", "abstain": 0, "k": 4, "resp": "C"}
+{"gold": "A", "snap_pred": "A", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "B", "abstain": 0, "k": 4, "resp": "A, B"}
+{"gold": "D", "snap_pred": "C", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "C", "abstain": 0, "k": 4, "resp": "C"}
+{"gold": "D", "snap_pred": "D", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "D", "abstain": 0, "k": 4, "resp": "D"}
+{"gold": "C", "snap_pred": "B", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "B", "abstain": 0, "k": 4, "resp": "B"}
+{"gold": "B", "snap_pred": "C", "snap_text_pred": "A", "snap_lastchar_pred": "A", "clean_pred": "C", "abstain": 0, "k": 4, "resp": "C"}
+{"gold": "C", "snap_pred": "C", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "C", "abstain": 0, "k": 4, "resp": "C"}
+{"gold": "B", "snap_pred": "A", "snap_text_pred": "A", "snap_lastchar_pred": "A", "clean_pred": "A", "abstain": 0, "k": 4, "resp": "(A) Vessels"}
+{"gold": "A", "snap_pred": "D", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "D", "abstain": 0, "k": 4, "resp": "D"}
+{"gold": "C", "snap_pred": "C", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "C", "abstain": 0, "k": 4, "resp": "C"}
+{"gold": "B", "snap_pred": "B", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "B", "abstain": 0, "k": 4, "resp": "B"}
+{"gold": "B", "snap_pred": "B", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "B", "abstain": 0, "k": 4, "resp": "B"}
+{"gold": "C", "snap_pred": "D", "snap_text_pred": "D", "snap_lastchar_pred": "D", "clean_pred": "D", "abstain": 0, "k": 4, "resp": "D"}
+{"gold": "C", "snap_pred": "C", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "C", "abstain": 0, "k": 4, "resp": "C"}
+{"gold": "D", "snap_pred": "C", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "C", "abstain": 0, "k": 4, "resp": "C"}
+{"gold": "A", "snap_pred": "B", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "B", "abstain": 0, "k": 4, "resp": "B"}
+{"gold": "B", "snap_pred": "B", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "B", "abstain": 0, "k": 4, "resp": "B"}
+{"gold": "A", "snap_pred": "B", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "B", "abstain": 0, "k": 4, "resp": "B"}
+{"gold": "A", "snap_pred": "A", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "A", "abstain": 0, "k": 4, "resp": "A"}
+{"gold": "B", "snap_pred": "B", "snap_text_pred": "B", "snap_lastchar_pred": "B", "clean_pred": "B", "abstain": 0, "k": 4, "resp": "B"}
+{"gold": "B", "snap_pred": "B", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "B", "abstain": 0, "k": 4, "resp": "B"}
+{"gold": "D", "snap_pred": "D", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "D", "abstain": 0, "k": 4, "resp": "D"}
+{"gold": "A", "snap_pred": "A", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "A", "abstain": 0, "k": 4, "resp": "A"}
+{"gold": "C", "snap_pred": "C", "snap_text_pred": "B", "snap_lastchar_pred": "B", "clean_pred": "C", "abstain": 0, "k": 4, "resp": "C"}
+{"gold": "C", "snap_pred": "B", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "B", "abstain": 0, "k": 4, "resp": "B"}
+{"gold": "D", "snap_pred": "B", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "B", "abstain": 0, "k": 4, "resp": "B"}
+{"gold": "A", "snap_pred": "A", "snap_text_pred": "B", "snap_lastchar_pred": "B", "clean_pred": "A", "abstain": 0, "k": 4, "resp": "A"}
+{"gold": "B", "snap_pred": "B", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "B", "abstain": 0, "k": 4, "resp": "B"}
+{"gold": "B", "snap_pred": "C", "snap_text_pred": "A", "snap_lastchar_pred": "A", "clean_pred": "C", "abstain": 0, "k": 4, "resp": "C"}
+{"gold": "C", "snap_pred": "D", "snap_text_pred": "C", "snap_lastchar_pred": "C", "clean_pred": "D", "abstain": 0, "k": 4, "resp": "D"}
+{"gold": "D", "snap_pred": "C", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "C", "abstain": 0, "k": 4, "resp": "C"}
+{"gold": "A", "snap_pred": "A", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "A", "abstain": 0, "k": 4, "resp": "A"}
+{"gold": "D", "snap_pred": "C", "snap_text_pred": "C", "snap_lastchar_pred": "C", "clean_pred": "C", "abstain": 0, "k": 4, "resp": "C"}
+{"gold": "D", "snap_pred": "C", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "C", "abstain": 0, "k": 4, "resp": "C"}
+{"gold": "C", "snap_pred": "C", "snap_text_pred": "D", "snap_lastchar_pred": "D", "clean_pred": "C", "abstain": 0, "k": 4, "resp": "C"}
+{"gold": "B", "snap_pred": "B", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "B", "abstain": 0, "k": 4, "resp": "B"}
+{"gold": "B", "snap_pred": "D", "snap_text_pred": "D", "snap_lastchar_pred": "D", "clean_pred": "D", "abstain": 0, "k": 4, "resp": "(D) No information given"}
+{"gold": "A", "snap_pred": "C", "snap_text_pred": "B", "snap_lastchar_pred": "B", "clean_pred": "C", "abstain": 0, "k": 4, "resp": "C"}
+{"gold": "B", "snap_pred": "C", "snap_text_pred": "B", "snap_lastchar_pred": "B", "clean_pred": "C", "abstain": 0, "k": 4, "resp": "C"}
+{"gold": "B", "snap_pred": "C", "snap_text_pred": "A", "snap_lastchar_pred": "A", "clean_pred": "C", "abstain": 0, "k": 4, "resp": "C"}
+{"gold": "A", "snap_pred": "C", "snap_text_pred": "A", "snap_lastchar_pred": "A", "clean_pred": "C", "abstain": 0, "k": 4, "resp": "C"}
+{"gold": "C", "snap_pred": "C", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "C", "abstain": 0, "k": 4, "resp": "C"}
+{"gold": "A", "snap_pred": "B", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "B", "abstain": 0, "k": 4, "resp": "B"}
+{"gold": "A", "snap_pred": "A", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "A", "abstain": 0, "k": 4, "resp": "A"}
+{"gold": "B", "snap_pred": "B", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "B", "abstain": 0, "k": 4, "resp": "B"}
+{"gold": "D", "snap_pred": "D", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "D", "abstain": 0, "k": 4, "resp": "D"}
+{"gold": "B", "snap_pred": "A", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "A", "abstain": 0, "k": 4, "resp": "A"}
+{"gold": "A", "snap_pred": "A", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "A", "abstain": 0, "k": 4, "resp": "A"}
+{"gold": "C", "snap_pred": "A", "snap_text_pred": "A", "snap_lastchar_pred": "A", "clean_pred": "A", "abstain": 0, "k": 4, "resp": "(A) The false lumen"}
+{"gold": "A", "snap_pred": "C", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "C", "abstain": 0, "k": 4, "resp": "C"}
+{"gold": "B", "snap_pred": "B", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "B", "abstain": 0, "k": 4, "resp": "B"}
+{"gold": "B", "snap_pred": "C", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "C", "abstain": 0, "k": 4, "resp": "C"}
+{"gold": "A", "snap_pred": "A", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "A", "abstain": 0, "k": 4, "resp": "A"}
+{"gold": "B", "snap_pred": "B", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "B", "abstain": 0, "k": 4, "resp": "B"}
+{"gold": "D", "snap_pred": "C", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "C", "abstain": 0, "k": 4, "resp": "C"}
+{"gold": "C", "snap_pred": "C", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "C", "abstain": 0, "k": 4, "resp": "C"}
+{"gold": "A", "snap_pred": "A", "snap_text_pred": "A", "snap_lastchar_pred": "C", "clean_pred": "A", "abstain": 0, "k": 4, "resp": "(A) Black."}
+{"gold": "A", "snap_pred": "A", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "A", "abstain": 0, "k": 4, "resp": "A"}
+{"gold": "A", "snap_pred": "A", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "A", "abstain": 0, "k": 4, "resp": "A"}
+{"gold": "A", "snap_pred": "A", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "A", "abstain": 0, "k": 4, "resp": "A"}
+{"gold": "C", "snap_pred": "D", "snap_text_pred": "D", "snap_lastchar_pred": "C", "clean_pred": "D", "abstain": 0, "k": 4, "resp": "(D) High positivity"}
+{"gold": "B", "snap_pred": "A", "snap_text_pred": "C", "snap_lastchar_pred": "C", "clean_pred": "A", "abstain": 0, "k": 4, "resp": "A"}
+{"gold": "C", "snap_pred": "C", "snap_text_pred": "A", "snap_lastchar_pred": "A", "clean_pred": "C", "abstain": 0, "k": 4, "resp": "C"}
+{"gold": "C", "snap_pred": "B", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "B", "abstain": 0, "k": 4, "resp": "B"}
+{"gold": "D", "snap_pred": "C", "snap_text_pred": "D", "snap_lastchar_pred": "D", "clean_pred": "C", "abstain": 0, "k": 4, "resp": "C"}
+{"gold": "B", "snap_pred": "C", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "C", "abstain": 0, "k": 4, "resp": "C"}
+{"gold": "B", "snap_pred": "B", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "B", "abstain": 0, "k": 4, "resp": "B"}
+{"gold": "C", "snap_pred": "C", "snap_text_pred": "B", "snap_lastchar_pred": "B", "clean_pred": "C", "abstain": 0, "k": 4, "resp": "C"}
+{"gold": "C", "snap_pred": "D", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "D", "abstain": 0, "k": 4, "resp": "D"}
+{"gold": "B", "snap_pred": "C", "snap_text_pred": "B", "snap_lastchar_pred": "B", "clean_pred": "C", "abstain": 0, "k": 4, "resp": "C"}
+{"gold": "C", "snap_pred": "C", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "C", "abstain": 0, "k": 4, "resp": "C"}
+{"gold": "C", "snap_pred": "B", "snap_text_pred": "B", "snap_lastchar_pred": "B", "clean_pred": "B", "abstain": 0, "k": 4, "resp": "B"}
+{"gold": "B", "snap_pred": "B", "snap_text_pred": "A", "snap_lastchar_pred": "A", "clean_pred": "B", "abstain": 0, "k": 4, "resp": "B"}
+{"gold": "B", "snap_pred": "B", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "B", "abstain": 0, "k": 4, "resp": "B"}
+{"gold": "C", "snap_pred": "C", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "C", "abstain": 0, "k": 4, "resp": "C"}
+{"gold": "A", "snap_pred": "B", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "B", "abstain": 0, "k": 4, "resp": "B"}
+{"gold": "C", "snap_pred": "B", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "B", "abstain": 0, "k": 4, "resp": "B"}
+{"gold": "C", "snap_pred": "B", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "B", "abstain": 0, "k": 4, "resp": "B"}
+{"gold": "C", "snap_pred": "B", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "B", "abstain": 0, "k": 4, "resp": "B"}
+{"gold": "C", "snap_pred": "C", "snap_text_pred": "C", "snap_lastchar_pred": "C", "clean_pred": "C", "abstain": 0, "k": 4, "resp": "C"}
+{"gold": "C", "snap_pred": "C", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "C", "abstain": 0, "k": 4, "resp": "C"}
+{"gold": "C", "snap_pred": "B", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "B", "abstain": 0, "k": 4, "resp": "B"}
+{"gold": "A", "snap_pred": "B", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "B", "abstain": 0, "k": 4, "resp": "B"}
+{"gold": "A", "snap_pred": "B", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "B", "abstain": 0, "k": 4, "resp": "B"}
+{"gold": "A", "snap_pred": "D", "snap_text_pred": "D", "snap_lastchar_pred": "D", "clean_pred": "D", "abstain": 0, "k": 4, "resp": "(D) The vertebral suspension system"}
+{"gold": "A", "snap_pred": "A", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "A", "abstain": 0, "k": 4, "resp": "A"}
+{"gold": "D", "snap_pred": "C", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "C", "abstain": 0, "k": 4, "resp": "C"}
+{"gold": "C", "snap_pred": "B", "snap_text_pred": "B", "snap_lastchar_pred": "A", "clean_pred": "B", "abstain": 0, "k": 4, "resp": "(B) Two."}
+{"gold": "D", "snap_pred": "C", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "C", "abstain": 0, "k": 4, "resp": "C"}
+{"gold": "A", "snap_pred": "A", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "A", "abstain": 0, "k": 4, "resp": "A"}
+{"gold": "A", "snap_pred": "A", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "A", "abstain": 0, "k": 4, "resp": "A"}
+{"gold": "C", "snap_pred": "D", "snap_text_pred": "D", "snap_lastchar_pred": "B", "clean_pred": "D", "abstain": 0, "k": 4, "resp": "(D) SDP residues."}
+{"gold": "B", "snap_pred": "B", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "B", "abstain": 0, "k": 4, "resp": "B"}
+{"gold": "B", "snap_pred": "B", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "B", "abstain": 0, "k": 4, "resp": "B"}
+{"gold": "D", "snap_pred": "B", "snap_text_pred": "C", "snap_lastchar_pred": "C", "clean_pred": "B", "abstain": 0, "k": 4, "resp": "B"}
+{"gold": "D", "snap_pred": "B", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "B", "abstain": 0, "k": 4, "resp": "B"}
+{"gold": "C", "snap_pred": "A", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "A", "abstain": 0, "k": 4, "resp": "A"}
+{"gold": "B", "snap_pred": "C", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "C", "abstain": 0, "k": 4, "resp": "C"}
+{"gold": "C", "snap_pred": "C", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "C", "abstain": 0, "k": 4, "resp": "C"}
+{"gold": "C", "snap_pred": "A", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "A", "abstain": 0, "k": 4, "resp": "A"}
+{"gold": "C", "snap_pred": "C", "snap_text_pred": "A", "snap_lastchar_pred": "A", "clean_pred": "C", "abstain": 0, "k": 4, "resp": "C"}
+{"gold": "B", "snap_pred": "B", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "B", "abstain": 0, "k": 4, "resp": "B"}
+{"gold": "B", "snap_pred": "C", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "C", "abstain": 0, "k": 4, "resp": "C"}
+{"gold": "A", "snap_pred": "C", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "C", "abstain": 0, "k": 4, "resp": "C"}
+{"gold": "A", "snap_pred": "D", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "D", "abstain": 0, "k": 4, "resp": "D"}
+{"gold": "C", "snap_pred": "C", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "C", "abstain": 0, "k": 4, "resp": "C"}
+{"gold": "C", "snap_pred": "B", "snap_text_pred": "B", "snap_lastchar_pred": "A", "clean_pred": "B", "abstain": 0, "k": 4, "resp": "(B) Blue"}
+{"gold": "B", "snap_pred": "B", "snap_text_pred": "B", "snap_lastchar_pred": "A", "clean_pred": "B", "abstain": 0, "k": 4, "resp": "(B) Blue"}
+{"gold": "B", "snap_pred": "A", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "A", "abstain": 0, "k": 4, "resp": "A"}
+{"gold": "B", "snap_pred": "B", "snap_text_pred": "B", "snap_lastchar_pred": "C", "clean_pred": "B", "abstain": 0, "k": 4, "resp": "(B) CT and ultrasound images."}
+{"gold": "C", "snap_pred": "C", "snap_text_pred": "C", "snap_lastchar_pred": "A", "clean_pred": "C", "abstain": 0, "k": 4, "resp": "(C) Ultrasound of the abdomen."}
+{"gold": "B", "snap_pred": "A", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "A", "abstain": 0, "k": 4, "resp": "A"}
+{"gold": "B", "snap_pred": "C", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "C", "abstain": 0, "k": 4, "resp": "C"}
+{"gold": "B", "snap_pred": "A", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "A", "abstain": 0, "k": 4, "resp": "A"}
+{"gold": "D", "snap_pred": "A", "snap_text_pred": "C", "snap_lastchar_pred": "C", "clean_pred": "A", "abstain": 0, "k": 4, "resp": "A"}
+{"gold": "C", "snap_pred": "B", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "B", "abstain": 0, "k": 4, "resp": "B"}
+{"gold": "C", "snap_pred": "B", "snap_text_pred": "B", "snap_lastchar_pred": "B", "clean_pred": "B", "abstain": 0, "k": 4, "resp": "B"}
+{"gold": "C", "snap_pred": "B", "snap_text_pred": "B", "snap_lastchar_pred": "B", "clean_pred": "B", "abstain": 0, "k": 4, "resp": "B"}
+{"gold": "A", "snap_pred": "A", "snap_text_pred": "D", "snap_lastchar_pred": "D", "clean_pred": "A", "abstain": 0, "k": 4, "resp": "A"}
+{"gold": "B", "snap_pred": "B", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "B", "abstain": 0, "k": 4, "resp": "B"}
+{"gold": "B", "snap_pred": "B", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "B", "abstain": 0, "k": 4, "resp": "B"}
+{"gold": "A", "snap_pred": "C", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "C", "abstain": 0, "k": 4, "resp": "C"}
+{"gold": "B", "snap_pred": "A", "snap_text_pred": "C", "snap_lastchar_pred": "B", "clean_pred": "C", "abstain": 0, "k": 4, "resp": "The image shows micro-CT scans of a bone defect in a canine (dog) model, with annotations indicating \"Ti/Al alloy\" (titanium/aluminum alloy) implants and \"NB\" (new bone) formation over time. The context of the study is bone regeneration in a dog, and the anatomical location is the femur, as indicated by the reference to \"dog femur\" in the original caption of the image.\n\nTherefore, the correct answer is:\n\n(C) Dog femur"}
+{"gold": "A", "snap_pred": "B", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "B", "abstain": 0, "k": 4, "resp": "B"}
+{"gold": "C", "snap_pred": "B", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "B", "abstain": 0, "k": 4, "resp": "B"}
+{"gold": "D", "snap_pred": "C", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "C", "abstain": 0, "k": 4, "resp": "C"}
+{"gold": "B", "snap_pred": "D", "snap_text_pred": "D", "snap_lastchar_pred": "A", "clean_pred": "D", "abstain": 0, "k": 4, "resp": "(D) Locations of muographic observation stations."}
+{"gold": "D", "snap_pred": "D", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "D", "abstain": 0, "k": 4, "resp": "D"}
+{"gold": "C", "snap_pred": "C", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "C", "abstain": 0, "k": 4, "resp": "C"}
+{"gold": "D", "snap_pred": "C", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "C", "abstain": 0, "k": 4, "resp": "C"}
+{"gold": "A", "snap_pred": "A", "snap_text_pred": "D", "snap_lastchar_pred": "D", "clean_pred": "A", "abstain": 0, "k": 4, "resp": "A"}
+{"gold": "C", "snap_pred": "C", "snap_text_pred": "B", "snap_lastchar_pred": "B", "clean_pred": "C", "abstain": 0, "k": 4, "resp": "C"}
+{"gold": "A", "snap_pred": "C", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "C", "abstain": 0, "k": 4, "resp": "C"}
+{"gold": "B", "snap_pred": "D", "snap_text_pred": "D", "snap_lastchar_pred": "A", "clean_pred": "D", "abstain": 0, "k": 4, "resp": "(D) Upper part"}
+{"gold": "D", "snap_pred": "C", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "C", "abstain": 0, "k": 4, "resp": "C"}
+{"gold": "C", "snap_pred": "C", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "C", "abstain": 0, "k": 4, "resp": "C"}
+{"gold": "C", "snap_pred": "C", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "C", "abstain": 0, "k": 4, "resp": "C"}
+{"gold": "D", "snap_pred": "C", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "C", "abstain": 0, "k": 4, "resp": "C"}
+{"gold": "B", "snap_pred": "D", "snap_text_pred": "D", "snap_lastchar_pred": "A", "clean_pred": "D", "abstain": 0, "k": 4, "resp": "(D) Portal vein pentafurcation"}
+{"gold": "B", "snap_pred": "B", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "B", "abstain": 0, "k": 4, "resp": "B"}
+{"gold": "A", "snap_pred": "A", "snap_text_pred": "A", "snap_lastchar_pred": "C", "clean_pred": "A", "abstain": 0, "k": 4, "resp": "(A) The lipid droplets"}
+{"gold": "D", "snap_pred": "D", "snap_text_pred": "D", "snap_lastchar_pred": "A", "clean_pred": "D", "abstain": 0, "k": 4, "resp": "(D) Spongy mesophyll cells"}
+{"gold": "B", "snap_pred": "A", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "A", "abstain": 0, "k": 4, "resp": "A"}
+{"gold": "A", "snap_pred": "A", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "A", "abstain": 0, "k": 4, "resp": "A"}
+{"gold": "B", "snap_pred": "B", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "B", "abstain": 0, "k": 4, "resp": "B"}
+{"gold": "C", "snap_pred": "D", "snap_text_pred": "D", "snap_lastchar_pred": "D", "clean_pred": "D", "abstain": 0, "k": 4, "resp": "(D) Image filter."}
+{"gold": "D", "snap_pred": "C", "snap_text_pred": "D", "snap_lastchar_pred": "D", "clean_pred": "C", "abstain": 0, "k": 4, "resp": "C"}
+{"gold": "A", "snap_pred": "A", "snap_text_pred": "D", "snap_lastchar_pred": "D", "clean_pred": "A", "abstain": 0, "k": 4, "resp": "A"}
+{"gold": "D", "snap_pred": "B", "snap_text_pred": "B", "snap_lastchar_pred": "B", "clean_pred": "B", "abstain": 0, "k": 4, "resp": "B"}
+{"gold": "A", "snap_pred": "D", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "D", "abstain": 0, "k": 4, "resp": "D"}
+{"gold": "C", "snap_pred": "C", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "C", "abstain": 0, "k": 4, "resp": "C"}
+{"gold": "B", "snap_pred": "A", "snap_text_pred": "C", "snap_lastchar_pred": null, "clean_pred": "A", "abstain": 0, "k": 4, "resp": "None of the options (A, B, C, D) are correct. The MRI images show the brain's white matter, but not as a \"complete band\" \u2014 rather, they show the brain's anatomy, including the lateral ventricles and surrounding structures. The images are axial T2-weighted MRI slices, which typically show cerebrospinal fluid (CSF) as bright and white matter as grayish-white. The \"band\" seen in the images is likely the lateral ventricles, not a \"band of white matter\" or any other type of matter. The question is misleading or based on a misinterpretation.\n\nHowever, since the question asks to choose from the given options, and assuming it's a trick question or misphrased, none of the options accurately describe what the MRI reveals. But if forced to pick the most plausible based on typical MRI anatomy (where white matter appears as the main parenchymal tissue surrounding CSF), then (A) \"A complete band of white matter\" might be the least incorrect, though still inaccurate.\n\nBut strictly speaking, the correct answer is that none of the options are correct.\n\nSince the instruction is to answer with the option's letter, and assuming the question expects a choice despite its"}
+{"gold": "B", "snap_pred": "B", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "B", "abstain": 0, "k": 4, "resp": "B"}
+{"gold": "C", "snap_pred": "C", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "C", "abstain": 0, "k": 4, "resp": "C"}
+{"gold": "B", "snap_pred": "C", "snap_text_pred": "C", "snap_lastchar_pred": "C", "clean_pred": "C", "abstain": 0, "k": 4, "resp": "C"}
+{"gold": "B", "snap_pred": "D", "snap_text_pred": "D", "snap_lastchar_pred": "B", "clean_pred": "D", "abstain": 0, "k": 4, "resp": "(D) Lower eyelid"}
+{"gold": "B", "snap_pred": "B", "snap_text_pred": "D", "snap_lastchar_pred": "D", "clean_pred": "B", "abstain": 0, "k": 4, "resp": "B"}
+{"gold": "B", "snap_pred": "D", "snap_text_pred": "D", "snap_lastchar_pred": "D", "clean_pred": "D", "abstain": 0, "k": 4, "resp": "(D) None of the above."}
+{"gold": "C", "snap_pred": "B", "snap_text_pred": "A", "snap_lastchar_pred": "A", "clean_pred": "B", "abstain": 0, "k": 4, "resp": "B"}
+{"gold": "C", "snap_pred": "B", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "B", "abstain": 0, "k": 4, "resp": "B"}
+{"gold": "D", "snap_pred": "A", "snap_text_pred": "A", "snap_lastchar_pred": null, "clean_pred": null, "abstain": 1, "k": 4, "resp": "The ultrasound images show different regions of the thigh, specifically focusing on the femoral artery and surrounding structures. The images are labeled with anatomical regions: SF-A (superficial femoral artery), RF (rectus femoris), VI-A (vastus intermedius anterior), VL (vastus lateralis), VI-L (vastus intermedius lateralis), and BF (biceps femoris). These labels are present in images D, E, and F.\n\nLooking at the options:\n\n- (A) G and H \u2014 These are histograms of echo intensity, not anatomical regions.\n- (B) A and D \u2014 Image A is not labeled with anatomical regions; it's a general ultrasound image. Image D shows SF-A, RF, VI-A \u2014 these are thigh regions.\n- (C) C and F \u2014 Image C is a general ultrasound image. Image F shows SF-P, BF \u2014 these are thigh regions.\n- (D) B and E \u2014 Image B is a general ultrasound image. Image E shows SF-L, VL, VI-L \u2014 these are thigh regions.\n\nThe question asks for \"regions of the thigh\" represented. Images D, E, and F all show thigh regions. Among the options, (B) includes"}
+{"gold": "B", "snap_pred": "C", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "C", "abstain": 0, "k": 4, "resp": "C"}
+{"gold": "B", "snap_pred": "C", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "C", "abstain": 0, "k": 4, "resp": "C"}
+{"gold": "B", "snap_pred": "A", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "A", "abstain": 0, "k": 4, "resp": "A"}
+{"gold": "B", "snap_pred": "B", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "B", "abstain": 0, "k": 4, "resp": "B"}
+{"gold": "C", "snap_pred": "C", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "C", "abstain": 0, "k": 4, "resp": "C"}
+{"gold": "A", "snap_pred": "A", "snap_text_pred": "D", "snap_lastchar_pred": "C", "clean_pred": "D", "abstain": 0, "k": 4, "resp": "(D) Axial cell files"}
+{"gold": "A", "snap_pred": "D", "snap_text_pred": "D", "snap_lastchar_pred": "D", "clean_pred": "D", "abstain": 0, "k": 4, "resp": "(D) Pseudo-Schiff"}
+{"gold": "B", "snap_pred": "C", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "C", "abstain": 0, "k": 4, "resp": "C"}
+{"gold": "D", "snap_pred": "D", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "D", "abstain": 0, "k": 4, "resp": "D"}
+{"gold": "A", "snap_pred": "A", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "A", "abstain": 0, "k": 4, "resp": "A"}
+{"gold": "A", "snap_pred": "A", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "A", "abstain": 0, "k": 4, "resp": "A"}
+{"gold": "B", "snap_pred": "A", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "A", "abstain": 0, "k": 4, "resp": "A"}
+{"gold": "C", "snap_pred": "C", "snap_text_pred": "A", "snap_lastchar_pred": "A", "clean_pred": "C", "abstain": 0, "k": 4, "resp": "C"}
+{"gold": "D", "snap_pred": "C", "snap_text_pred": "A", "snap_lastchar_pred": "A", "clean_pred": "C", "abstain": 0, "k": 4, "resp": "C"}
+{"gold": "B", "snap_pred": "B", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "B", "abstain": 0, "k": 4, "resp": "B"}
+{"gold": "C", "snap_pred": "C", "snap_text_pred": "C", "snap_lastchar_pred": "C", "clean_pred": "C", "abstain": 0, "k": 4, "resp": "(C) Representative regions of the lung parenchyma"}
+{"gold": "A", "snap_pred": "B", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "B", "abstain": 0, "k": 4, "resp": "B"}
+{"gold": "B", "snap_pred": "B", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "B", "abstain": 0, "k": 4, "resp": "B"}
+{"gold": "A", "snap_pred": "D", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "D", "abstain": 0, "k": 4, "resp": "D"}
+{"gold": "D", "snap_pred": "C", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "C", "abstain": 0, "k": 4, "resp": "C"}
+{"gold": "C", "snap_pred": "C", "snap_text_pred": "A", "snap_lastchar_pred": "A", "clean_pred": "C", "abstain": 0, "k": 4, "resp": "C"}
+{"gold": "D", "snap_pred": "C", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "C", "abstain": 0, "k": 4, "resp": "C"}
+{"gold": "C", "snap_pred": "B", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "B", "abstain": 0, "k": 4, "resp": "B"}
+{"gold": "D", "snap_pred": "A", "snap_text_pred": "D", "snap_lastchar_pred": "D", "clean_pred": "A", "abstain": 0, "k": 4, "resp": "A"}
+{"gold": "C", "snap_pred": "C", "snap_text_pred": "B", "snap_lastchar_pred": "B", "clean_pred": "C", "abstain": 0, "k": 4, "resp": "C"}
+{"gold": "B", "snap_pred": "B", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "B", "abstain": 0, "k": 4, "resp": "B"}
+{"gold": "B", "snap_pred": "B", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "B", "abstain": 0, "k": 4, "resp": "B"}
+{"gold": "B", "snap_pred": "B", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "B", "abstain": 0, "k": 4, "resp": "B"}
+{"gold": "B", "snap_pred": "B", "snap_text_pred": "C", "snap_lastchar_pred": "C", "clean_pred": "B", "abstain": 0, "k": 4, "resp": "B"}
+{"gold": "B", "snap_pred": "C", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "C", "abstain": 0, "k": 4, "resp": "C"}
+{"gold": "B", "snap_pred": "C", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "C", "abstain": 0, "k": 4, "resp": "C"}
+{"gold": "C", "snap_pred": "C", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "C", "abstain": 0, "k": 4, "resp": "C"}
+{"gold": "B", "snap_pred": "B", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "B", "abstain": 0, "k": 4, "resp": "B"}
+{"gold": "A", "snap_pred": "B", "snap_text_pred": "D", "snap_lastchar_pred": "D", "clean_pred": "B", "abstain": 0, "k": 4, "resp": "B"}
+{"gold": "A", "snap_pred": "B", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "B", "abstain": 0, "k": 4, "resp": "B"}
+{"gold": "A", "snap_pred": "A", "snap_text_pred": "C", "snap_lastchar_pred": "C", "clean_pred": "A", "abstain": 0, "k": 4, "resp": "A"}
+{"gold": "C", "snap_pred": "B", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "B", "abstain": 0, "k": 4, "resp": "B"}
+{"gold": "C", "snap_pred": "C", "snap_text_pred": "D", "snap_lastchar_pred": "D", "clean_pred": "C", "abstain": 0, "k": 4, "resp": "C"}
+{"gold": "B", "snap_pred": "A", "snap_text_pred": "B", "snap_lastchar_pred": "B", "clean_pred": "A", "abstain": 0, "k": 4, "resp": "A"}
+{"gold": "C", "snap_pred": "C", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "C", "abstain": 0, "k": 4, "resp": "C"}
+{"gold": "A", "snap_pred": "C", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "C", "abstain": 0, "k": 4, "resp": "C"}
+{"gold": "A", "snap_pred": "D", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "D", "abstain": 0, "k": 4, "resp": "D"}
+{"gold": "D", "snap_pred": "C", "snap_text_pred": "C", "snap_lastchar_pred": "C", "clean_pred": "C", "abstain": 0, "k": 4, "resp": "C"}
+{"gold": "A", "snap_pred": "A", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "A", "abstain": 0, "k": 4, "resp": "A"}
+{"gold": "D", "snap_pred": "D", "snap_text_pred": "D", "snap_lastchar_pred": "A", "clean_pred": "D", "abstain": 0, "k": 4, "resp": "(D) Patient 2 after transplantation"}
+{"gold": "B", "snap_pred": "C", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "C", "abstain": 0, "k": 4, "resp": "C"}
+{"gold": "A", "snap_pred": "B", "snap_text_pred": "A", "snap_lastchar_pred": "A", "clean_pred": "B", "abstain": 0, "k": 4, "resp": "B"}
+{"gold": "D", "snap_pred": "B", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "B", "abstain": 0, "k": 4, "resp": "B"}
+{"gold": "A", "snap_pred": "B", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "B", "abstain": 0, "k": 4, "resp": "B"}
+{"gold": "B", "snap_pred": "C", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "C", "abstain": 0, "k": 4, "resp": "C"}
+{"gold": "A", "snap_pred": "A", "snap_text_pred": "B", "snap_lastchar_pred": "B", "clean_pred": "A", "abstain": 0, "k": 4, "resp": "A"}
+{"gold": "B", "snap_pred": "C", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "C", "abstain": 0, "k": 4, "resp": "C"}
+{"gold": "C", "snap_pred": "C", "snap_text_pred": "C", "snap_lastchar_pred": "C", "clean_pred": "C", "abstain": 0, "k": 4, "resp": "C"}
+{"gold": "A", "snap_pred": "B", "snap_text_pred": "D", "snap_lastchar_pred": "B", "clean_pred": "D", "abstain": 0, "k": 4, "resp": "The CT angiography images show a complex congenital heart anomaly, specifically a **double aortic arch (DAO)**, which is a type of **aortic arch anomaly**. In DAO, there are two arches of the aorta that arise from the heart and course around the trachea and esophagus, often compressing these structures. This is a **congenital abnormality** of the aortic arch.\n\nLooking at the images:\n- Image (a) shows the ascending aorta (AA), descending aorta (DA), and the left atrial appendage (LAA), with the aortic arch (AAc) and its branches (LPA, LPV, LMB) visible.\n- Image (b) shows the aortic arch (AAc) and its branches (LPA, LPV, LMB), along with the trachea (T), esophagus (Oe), and the descending aorta (DA). The presence of two aortic arches (one on the left and one on the right) is implied by the anatomy shown, which is characteristic of DAO.\n\nThe question asks for the abnormality observed. The correct answer is **(D) None of the above**, because the abnormality is"}
+{"gold": "A", "snap_pred": "A", "snap_text_pred": "C", "snap_lastchar_pred": "C", "clean_pred": "A", "abstain": 0, "k": 4, "resp": "A"}
+{"gold": "B", "snap_pred": "B", "snap_text_pred": "C", "snap_lastchar_pred": "C", "clean_pred": "B", "abstain": 0, "k": 4, "resp": "B"}
+{"gold": "C", "snap_pred": "C", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "C", "abstain": 0, "k": 4, "resp": "C"}
+{"gold": "B", "snap_pred": "B", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "B", "abstain": 0, "k": 4, "resp": "B"}
+{"gold": "C", "snap_pred": "C", "snap_text_pred": "C", "snap_lastchar_pred": "C", "clean_pred": "C", "abstain": 0, "k": 4, "resp": "C"}
+{"gold": "C", "snap_pred": "C", "snap_text_pred": "A", "snap_lastchar_pred": "A", "clean_pred": "C", "abstain": 0, "k": 4, "resp": "C"}
+{"gold": "C", "snap_pred": "B", "snap_text_pred": "C", "snap_lastchar_pred": "C", "clean_pred": "B", "abstain": 0, "k": 4, "resp": "B"}
+{"gold": "C", "snap_pred": "C", "snap_text_pred": "B", "snap_lastchar_pred": "B", "clean_pred": "C", "abstain": 0, "k": 4, "resp": "C"}
+{"gold": "B", "snap_pred": "B", "snap_text_pred": "B", "snap_lastchar_pred": "A", "clean_pred": "B", "abstain": 0, "k": 4, "resp": "(B) PSNPs"}
+{"gold": "A", "snap_pred": "B", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "B", "abstain": 0, "k": 4, "resp": "B"}
+{"gold": "C", "snap_pred": "B", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "B", "abstain": 0, "k": 4, "resp": "B"}
+{"gold": "C", "snap_pred": "B", "snap_text_pred": "C", "snap_lastchar_pred": null, "clean_pred": "C", "abstain": 0, "k": 4, "resp": "The question asks where the nodular lesions were found in the left lung, and the options refer to lung segments (S8, S9, S10, S11). However, the provided images (a, b, c) are chest CT scans showing cardiac and mediastinal structures, with no clear visualization of lung segments or specific nodular lesions in the left lung. The images show the heart, great vessels, and some mediastinal structures, but do not clearly demonstrate nodular lesions in the lung parenchyma.\n\nSince the images do not provide sufficient detail to identify the specific lung segment (S8, S9, S10, S11) where nodular lesions are located, and no additional text or context is provided, it is not possible to determine the correct answer from the given information.\n\nHowever, if we assume this is a multiple-choice question based on a prior context (e.g., a radiology case or textbook question) where the answer is known to be S10, then the answer would be:\n\n(C) S10\n\nBut strictly based on the images provided, no definitive answer can be given.\n\nGiven the instruction to answer with the option's letter from the given choices directly, and assuming this is a"}
+{"gold": "A", "snap_pred": "C", "snap_text_pred": "A", "snap_lastchar_pred": null, "clean_pred": null, "abstain": 1, "k": 4, "resp": "The question asks where the nodular lesions were found in the right lung, with options referring to lung segments (S1, S2, S3, S4). However, the provided images (a, b, c) are chest CT scans showing cardiac and mediastinal structures, with no clear visualization of lung segments or specific nodular lesions in the right lung. The images show the heart, great vessels, and some mediastinal structures, but do not clearly demonstrate nodular lesions in the lung parenchyma.\n\nSince there is no visual evidence in the images to determine the location of nodular lesions in the right lung, and the question is presented as a multiple-choice question with no accompanying description of lesion locations, it is impossible to definitively answer based on the given information.\n\nHowever, if we assume this is a test question and the images are meant to be interpreted as showing lesions in the right lung (which they do not clearly show), and if we must choose from the given options, we would need additional context.\n\nGiven the lack of visual evidence of nodular lesions in the right lung in the provided images, and since the question is presented as if it has a definitive answer, we must conclude that the question is flawed or the images are not sufficient"}
+{"gold": "B", "snap_pred": "A", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "A", "abstain": 0, "k": 4, "resp": "A"}
+{"gold": "D", "snap_pred": "D", "snap_text_pred": "D", "snap_lastchar_pred": "D", "clean_pred": "D", "abstain": 0, "k": 4, "resp": "(D) G"}
+{"gold": "D", "snap_pred": "D", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "D", "abstain": 0, "k": 4, "resp": "D"}
+{"gold": "A", "snap_pred": "A", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "A", "abstain": 0, "k": 4, "resp": "A"}
+{"gold": "B", "snap_pred": "A", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "A", "abstain": 0, "k": 4, "resp": "A"}
+{"gold": "C", "snap_pred": "C", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "C", "abstain": 0, "k": 4, "resp": "C"}
+{"gold": "B", "snap_pred": "B", "snap_text_pred": "D", "snap_lastchar_pred": "D", "clean_pred": "B", "abstain": 0, "k": 4, "resp": "B"}
+{"gold": "C", "snap_pred": "B", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "B", "abstain": 0, "k": 4, "resp": "B"}
+{"gold": "A", "snap_pred": "A", "snap_text_pred": "C", "snap_lastchar_pred": "C", "clean_pred": "A", "abstain": 0, "k": 4, "resp": "A"}
+{"gold": "C", "snap_pred": "C", "snap_text_pred": "B", "snap_lastchar_pred": "B", "clean_pred": "C", "abstain": 0, "k": 4, "resp": "C"}
+{"gold": "A", "snap_pred": "D", "snap_text_pred": "D", "snap_lastchar_pred": "A", "clean_pred": "D", "abstain": 0, "k": 4, "resp": "(D) 3D photoacoustic."}
+{"gold": "B", "snap_pred": "D", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "D", "abstain": 0, "k": 4, "resp": "D"}
+{"gold": "B", "snap_pred": "B", "snap_text_pred": "C", "snap_lastchar_pred": "C", "clean_pred": "B", "abstain": 0, "k": 4, "resp": "B"}
+{"gold": "B", "snap_pred": "B", "snap_text_pred": "C", "snap_lastchar_pred": "C", "clean_pred": "B", "abstain": 0, "k": 4, "resp": "B"}
+{"gold": "C", "snap_pred": "C", "snap_text_pred": "D", "snap_lastchar_pred": "D", "clean_pred": "C", "abstain": 0, "k": 4, "resp": "C"}
+{"gold": "B", "snap_pred": "C", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "C", "abstain": 0, "k": 4, "resp": "C"}
+{"gold": "A", "snap_pred": "A", "snap_text_pred": "C", "snap_lastchar_pred": "C", "clean_pred": "A", "abstain": 0, "k": 4, "resp": "A"}
+{"gold": "D", "snap_pred": "D", "snap_text_pred": "D", "snap_lastchar_pred": "D", "clean_pred": "D", "abstain": 0, "k": 4, "resp": "(D) Left upper extremity"}
+{"gold": "B", "snap_pred": "B", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "B", "abstain": 0, "k": 4, "resp": "B"}
+{"gold": "C", "snap_pred": "C", "snap_text_pred": "C", "snap_lastchar_pred": "C", "clean_pred": "C", "abstain": 0, "k": 4, "resp": "C"}
+{"gold": "A", "snap_pred": "A", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "A", "abstain": 0, "k": 4, "resp": "A"}
+{"gold": "D", "snap_pred": "B", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "B", "abstain": 0, "k": 4, "resp": "B"}
+{"gold": "D", "snap_pred": "D", "snap_text_pred": "D", "snap_lastchar_pred": "D", "clean_pred": "D", "abstain": 0, "k": 4, "resp": "(D) red."}
+{"gold": "D", "snap_pred": "D", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "D", "abstain": 0, "k": 4, "resp": "D"}
+{"gold": "A", "snap_pred": "C", "snap_text_pred": "B", "snap_lastchar_pred": "B", "clean_pred": "C", "abstain": 0, "k": 4, "resp": "C"}
+{"gold": "C", "snap_pred": "A", "snap_text_pred": "C", "snap_lastchar_pred": "C", "clean_pred": "A", "abstain": 0, "k": 4, "resp": "A"}
+{"gold": "A", "snap_pred": "A", "snap_text_pred": "A", "snap_lastchar_pred": "A", "clean_pred": "A", "abstain": 0, "k": 4, "resp": "A"}
+{"gold": "A", "snap_pred": "A", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "A", "abstain": 0, "k": 4, "resp": "A"}
+{"gold": "A", "snap_pred": "C", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "C", "abstain": 0, "k": 4, "resp": "C"}
+{"gold": "C", "snap_pred": "D", "snap_text_pred": "A", "snap_lastchar_pred": "A", "clean_pred": "D", "abstain": 0, "k": 4, "resp": "D"}
+{"gold": "C", "snap_pred": "C", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "C", "abstain": 0, "k": 4, "resp": "C"}
+{"gold": "C", "snap_pred": "B", "snap_text_pred": "B", "snap_lastchar_pred": "A", "clean_pred": "B", "abstain": 0, "k": 4, "resp": "(B) Middle row"}
+{"gold": "D", "snap_pred": "B", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "B", "abstain": 0, "k": 4, "resp": "B"}
+{"gold": "B", "snap_pred": "B", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "B", "abstain": 0, "k": 4, "resp": "B"}
+{"gold": "A", "snap_pred": "D", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "D", "abstain": 0, "k": 4, "resp": "D"}
+{"gold": "D", "snap_pred": "D", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "D", "abstain": 0, "k": 4, "resp": "D"}
+{"gold": "B", "snap_pred": "B", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "B", "abstain": 0, "k": 4, "resp": "B"}
+{"gold": "C", "snap_pred": "C", "snap_text_pred": "C", "snap_lastchar_pred": "C", "clean_pred": "C", "abstain": 0, "k": 4, "resp": "(C) air"}
+{"gold": "C", "snap_pred": "A", "snap_text_pred": "B", "snap_lastchar_pred": "B", "clean_pred": "B", "abstain": 0, "k": 4, "resp": "The endoscopic score for the anastomosis shown in image b is 2.\n\nIn endoscopic scoring systems for anastomotic healing (commonly used in studies of gastrointestinal anastomoses, such as in colorectal or esophageal surgery), scores typically range from 0 to 4, with 0 indicating no healing or ulceration, and 4 indicating complete healing with a smooth, intact mucosa.\n\nIn image b, the anastomosis shows a visible defect or ulceration with some granulation tissue, but not yet complete healing. The yellow outline highlights the area of concern, which appears to be a healing ulcer with some erythema and irregularity, but not yet fully healed.\n\nA score of 2 typically indicates \u201cpartial healing\u201d or \u201cearly healing with some ulceration or irregularity.\u201d This matches the appearance in image b.\n\nTherefore, the correct answer is:\n\n(B) 2"}
+{"gold": "C", "snap_pred": "D", "snap_text_pred": "D", "snap_lastchar_pred": "C", "clean_pred": "D", "abstain": 0, "k": 4, "resp": "(D) supine"}
+{"gold": "D", "snap_pred": "C", "snap_text_pred": "A", "snap_lastchar_pred": "A", "clean_pred": "C", "abstain": 0, "k": 4, "resp": "C"}
+{"gold": "A", "snap_pred": "D", "snap_text_pred": "D", "snap_lastchar_pred": "A", "clean_pred": "D", "abstain": 0, "k": 4, "resp": "(D) Transillumination image"}
+{"gold": "A", "snap_pred": "A", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "A", "abstain": 0, "k": 4, "resp": "A"}
+{"gold": "A", "snap_pred": "C", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "C", "abstain": 0, "k": 4, "resp": "C"}
+{"gold": "B", "snap_pred": "D", "snap_text_pred": "D", "snap_lastchar_pred": "A", "clean_pred": "D", "abstain": 0, "k": 4, "resp": "(D) Transillumination image"}
+{"gold": "C", "snap_pred": "B", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "B", "abstain": 0, "k": 4, "resp": "B"}
+{"gold": "C", "snap_pred": "C", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "C", "abstain": 0, "k": 4, "resp": "C"}
+{"gold": "C", "snap_pred": "C", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "C", "abstain": 0, "k": 4, "resp": "C"}
+{"gold": "D", "snap_pred": "A", "snap_text_pred": "A", "snap_lastchar_pred": "A", "clean_pred": "A", "abstain": 0, "k": 4, "resp": "A"}
+{"gold": "A", "snap_pred": "A", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "A", "abstain": 0, "k": 4, "resp": "A"}
+{"gold": "B", "snap_pred": "B", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "B", "abstain": 0, "k": 4, "resp": "B"}
+{"gold": "C", "snap_pred": "A", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "A", "abstain": 0, "k": 4, "resp": "A"}
+{"gold": "C", "snap_pred": "D", "snap_text_pred": "C", "snap_lastchar_pred": "C", "clean_pred": "D", "abstain": 0, "k": 4, "resp": "D"}
+{"gold": "B", "snap_pred": "B", "snap_text_pred": "B", "snap_lastchar_pred": "B", "clean_pred": "B", "abstain": 0, "k": 4, "resp": "(B) Two"}
+{"gold": "A", "snap_pred": "A", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "A", "abstain": 0, "k": 4, "resp": "A"}
+{"gold": "B", "snap_pred": "B", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "B", "abstain": 0, "k": 4, "resp": "B"}
+{"gold": "D", "snap_pred": "B", "snap_text_pred": "B", "snap_lastchar_pred": "D", "clean_pred": "B", "abstain": 0, "k": 4, "resp": "(B) Pistillate flower in anthesis"}
+{"gold": "A", "snap_pred": "A", "snap_text_pred": "A", "snap_lastchar_pred": "A", "clean_pred": "A", "abstain": 0, "k": 4, "resp": "(A) red and blue"}
+{"gold": "D", "snap_pred": "D", "snap_text_pred": "D", "snap_lastchar_pred": "C", "clean_pred": "D", "abstain": 0, "k": 4, "resp": "(D) directional power Doppler image of upward and downward flow"}
+{"gold": "B", "snap_pred": "B", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "B", "abstain": 0, "k": 4, "resp": "B"}
+{"gold": "C", "snap_pred": "B", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "B", "abstain": 0, "k": 4, "resp": "B"}
+{"gold": "C", "snap_pred": "C", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "C", "abstain": 0, "k": 4, "resp": "C"}
+{"gold": "D", "snap_pred": "B", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "B", "abstain": 0, "k": 4, "resp": "B"}
+{"gold": "A", "snap_pred": "A", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "A", "abstain": 0, "k": 4, "resp": "A"}
+{"gold": "A", "snap_pred": "D", "snap_text_pred": "A", "snap_lastchar_pred": "A", "clean_pred": "D", "abstain": 0, "k": 4, "resp": "D"}
+{"gold": "B", "snap_pred": "B", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "B", "abstain": 0, "k": 4, "resp": "B"}
+{"gold": "C", "snap_pred": "C", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "C", "abstain": 0, "k": 4, "resp": "C"}
+{"gold": "D", "snap_pred": "C", "snap_text_pred": "D", "snap_lastchar_pred": "D", "clean_pred": "C", "abstain": 0, "k": 4, "resp": "C"}
+{"gold": "C", "snap_pred": "C", "snap_text_pred": "C", "snap_lastchar_pred": "C", "clean_pred": "C", "abstain": 0, "k": 4, "resp": "C"}
+{"gold": "A", "snap_pred": "C", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "C", "abstain": 0, "k": 4, "resp": "C"}
+{"gold": "A", "snap_pred": "C", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "C", "abstain": 0, "k": 4, "resp": "C"}
+{"gold": "D", "snap_pred": "D", "snap_text_pred": "D", "snap_lastchar_pred": "C", "clean_pred": "D", "abstain": 0, "k": 4, "resp": "(D) Lateral rotation of a pediculated flap."}
+{"gold": "C", "snap_pred": "C", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "C", "abstain": 0, "k": 4, "resp": "C"}
+{"gold": "B", "snap_pred": "C", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "C", "abstain": 0, "k": 4, "resp": "C"}
+{"gold": "D", "snap_pred": "D", "snap_text_pred": "D", "snap_lastchar_pred": "D", "clean_pred": "D", "abstain": 0, "k": 4, "resp": "D"}
+{"gold": "B", "snap_pred": "A", "snap_text_pred": "D", "snap_lastchar_pred": "D", "clean_pred": "D", "abstain": 0, "k": 4, "resp": "(D) All of the above."}
+{"gold": "C", "snap_pred": "B", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "B", "abstain": 0, "k": 4, "resp": "B"}
+{"gold": "D", "snap_pred": "A", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "A", "abstain": 0, "k": 4, "resp": "A"}
+{"gold": "B", "snap_pred": "C", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "C", "abstain": 0, "k": 4, "resp": "C"}
+{"gold": "D", "snap_pred": "D", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "D", "abstain": 0, "k": 4, "resp": "D"}
+{"gold": "D", "snap_pred": "D", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "D", "abstain": 0, "k": 4, "resp": "D"}
+{"gold": "B", "snap_pred": "B", "snap_text_pred": "B", "snap_lastchar_pred": "B", "clean_pred": "B", "abstain": 0, "k": 4, "resp": "(B) No"}
+{"gold": "B", "snap_pred": "B", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "B", "abstain": 0, "k": 4, "resp": "B"}
+{"gold": "B", "snap_pred": "A", "snap_text_pred": "B", "snap_lastchar_pred": "B", "clean_pred": "B", "abstain": 0, "k": 4, "resp": "The question asks what is shown in the biotinylated samples in panel (L) of the figure.\n\nLooking at panel (L):\n- It shows Western blot analysis with three lanes: \"Total\", \"Surface\", and a bar graph labeled \"surface\" on the right.\n- The lanes are labeled \"Cont\" (control) and \"Amph\" (amphipathic compound treatment).\n- The blot is probed for \"Biotinylated DOR\" (as indicated by the y-axis label: \"Biotinylated DOR\").\n- The \"Total\" lane shows the total protein, while the \"Surface\" lane shows the surface-exposed protein (biotinylated).\n- The bar graph on the right quantifies the \"surface\" signal, which is the amount of biotinylated DOR that is surface-exposed.\n\nTherefore, the biotinylated samples in (L) show the amount of DOR (Delta Opioid Receptor) that is biotinylated and thus surface-exposed.\n\nThe correct answer is (B) D2R band intensity \u2014 but wait, the label says \"Biotinylated DOR\", not D2R. D2R is"}
+{"gold": "D", "snap_pred": "A", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "A", "abstain": 0, "k": 4, "resp": "A"}
+{"gold": "D", "snap_pred": "B", "snap_text_pred": "A", "snap_lastchar_pred": "A", "clean_pred": "B", "abstain": 0, "k": 4, "resp": "B"}
+{"gold": "A", "snap_pred": "B", "snap_text_pred": "A", "snap_lastchar_pred": "A", "clean_pred": "B", "abstain": 0, "k": 4, "resp": "B"}
+{"gold": "D", "snap_pred": "A", "snap_text_pred": "A", "snap_lastchar_pred": "A", "clean_pred": "A", "abstain": 0, "k": 4, "resp": "The image shows a dental implant placed in the mandibular arch, with the implant positioned in the area where the second molar would typically be. The LMSF (Lateral Molar Segmental Flap) technique is often used for implant placement in the posterior mandible, particularly in the molar region, to access the bone and preserve the buccal plate. Given the location and the typical use of the LMSF technique, the implant is positioned in the molar position.\n\nTherefore, the correct answer is:\n\n(A) Molar position"}
+{"gold": "B", "snap_pred": "B", "snap_text_pred": "B", "snap_lastchar_pred": "A", "clean_pred": "B", "abstain": 0, "k": 4, "resp": "(B) Porous surface of microparticle"}
+{"gold": "C", "snap_pred": "C", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "C", "abstain": 0, "k": 4, "resp": "C"}
+{"gold": "B", "snap_pred": "D", "snap_text_pred": "D", "snap_lastchar_pred": "D", "clean_pred": "D", "abstain": 0, "k": 4, "resp": "(D) One image has higher fluorescence intensity than the other."}
+{"gold": "C", "snap_pred": "C", "snap_text_pred": "C", "snap_lastchar_pred": "A", "clean_pred": "C", "abstain": 0, "k": 4, "resp": "(C) 3D segmentations of the visual system"}
+{"gold": "A", "snap_pred": "A", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "A", "abstain": 0, "k": 4, "resp": "A"}
+{"gold": "B", "snap_pred": "B", "snap_text_pred": "A", "snap_lastchar_pred": "A", "clean_pred": "B", "abstain": 0, "k": 4, "resp": "B"}
+{"gold": "A", "snap_pred": "A", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "A", "abstain": 0, "k": 4, "resp": "A"}
+{"gold": "B", "snap_pred": "B", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "B", "abstain": 0, "k": 4, "resp": "B"}
+{"gold": "B", "snap_pred": "A", "snap_text_pred": "C", "snap_lastchar_pred": "C", "clean_pred": "A", "abstain": 0, "k": 4, "resp": "A"}
+{"gold": "D", "snap_pred": "D", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "D", "abstain": 0, "k": 4, "resp": "D"}
+{"gold": "C", "snap_pred": "A", "snap_text_pred": "B", "snap_lastchar_pred": "B", "clean_pred": "A", "abstain": 0, "k": 4, "resp": "A"}
+{"gold": "B", "snap_pred": "B", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "B", "abstain": 0, "k": 4, "resp": "B"}
+{"gold": "B", "snap_pred": "B", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "B", "abstain": 0, "k": 4, "resp": "B"}
+{"gold": "D", "snap_pred": "D", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "D", "abstain": 0, "k": 4, "resp": "D"}
+{"gold": "B", "snap_pred": "C", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "C", "abstain": 0, "k": 4, "resp": "C"}
+{"gold": "A", "snap_pred": "A", "snap_text_pred": "A", "snap_lastchar_pred": "C", "clean_pred": "A", "abstain": 0, "k": 4, "resp": "(A) Measuring the increases in cross-sectional area."}
+{"gold": "B", "snap_pred": "B", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "B", "abstain": 0, "k": 4, "resp": "B"}
+{"gold": "C", "snap_pred": "C", "snap_text_pred": "B", "snap_lastchar_pred": "B", "clean_pred": "C", "abstain": 0, "k": 4, "resp": "C"}
+{"gold": "B", "snap_pred": "B", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "B", "abstain": 0, "k": 4, "resp": "B"}
+{"gold": "C", "snap_pred": "C", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "C", "abstain": 0, "k": 4, "resp": "C"}
+{"gold": "B", "snap_pred": "B", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "B", "abstain": 0, "k": 4, "resp": "B"}
+{"gold": "D", "snap_pred": "D", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "D", "abstain": 0, "k": 4, "resp": "D"}
+{"gold": "C", "snap_pred": "C", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "C", "abstain": 0, "k": 4, "resp": "C"}
+{"gold": "B", "snap_pred": "B", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "B", "abstain": 0, "k": 4, "resp": "B"}
+{"gold": "B", "snap_pred": "C", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "C", "abstain": 0, "k": 4, "resp": "C"}
+{"gold": "B", "snap_pred": "A", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "A", "abstain": 0, "k": 4, "resp": "A"}
+{"gold": "B", "snap_pred": "B", "snap_text_pred": "D", "snap_lastchar_pred": "D", "clean_pred": "B", "abstain": 0, "k": 4, "resp": "B"}
+{"gold": "A", "snap_pred": "A", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "A", "abstain": 0, "k": 4, "resp": "A"}
+{"gold": "B", "snap_pred": "D", "snap_text_pred": "D", "snap_lastchar_pred": "D", "clean_pred": "D", "abstain": 0, "k": 4, "resp": "(D) Represents the abnormal region."}
+{"gold": "A", "snap_pred": "A", "snap_text_pred": "C", "snap_lastchar_pred": "C", "clean_pred": "A", "abstain": 0, "k": 4, "resp": "A"}
+{"gold": "B", "snap_pred": "B", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "B", "abstain": 0, "k": 4, "resp": "B"}
+{"gold": "B", "snap_pred": "B", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "B", "abstain": 0, "k": 4, "resp": "B"}
+{"gold": "A", "snap_pred": "C", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "C", "abstain": 0, "k": 4, "resp": "C"}
+{"gold": "C", "snap_pred": "B", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "B", "abstain": 0, "k": 4, "resp": "B"}
+{"gold": "B", "snap_pred": "B", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "B", "abstain": 0, "k": 4, "resp": "B"}
+{"gold": "A", "snap_pred": "A", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "A", "abstain": 0, "k": 4, "resp": "A"}
+{"gold": "B", "snap_pred": "B", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "B", "abstain": 0, "k": 4, "resp": "B"}
+{"gold": "D", "snap_pred": "D", "snap_text_pred": "D", "snap_lastchar_pred": "B", "clean_pred": "D", "abstain": 0, "k": 4, "resp": "(D) Pituitary gland"}
+{"gold": "B", "snap_pred": "B", "snap_text_pred": "B", "snap_lastchar_pred": "B", "clean_pred": "B", "abstain": 0, "k": 4, "resp": "(B) Bottom"}
+{"gold": "B", "snap_pred": "B", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "B", "abstain": 0, "k": 4, "resp": "B"}
+{"gold": "B", "snap_pred": "B", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "B", "abstain": 0, "k": 4, "resp": "B"}
+{"gold": "C", "snap_pred": "C", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "C", "abstain": 0, "k": 4, "resp": "C"}
+{"gold": "D", "snap_pred": "B", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "B", "abstain": 0, "k": 4, "resp": "B"}
+{"gold": "C", "snap_pred": "B", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "B", "abstain": 0, "k": 4, "resp": "B"}
+{"gold": "A", "snap_pred": "A", "snap_text_pred": "A", "snap_lastchar_pred": "A", "clean_pred": "A", "abstain": 0, "k": 4, "resp": "A"}
+{"gold": "B", "snap_pred": "A", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "A", "abstain": 0, "k": 4, "resp": "A"}
+{"gold": "B", "snap_pred": "A", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "A", "abstain": 0, "k": 4, "resp": "A"}
+{"gold": "C", "snap_pred": "D", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "D", "abstain": 0, "k": 4, "resp": "D"}
+{"gold": "C", "snap_pred": "C", "snap_text_pred": "B", "snap_lastchar_pred": "B", "clean_pred": "C", "abstain": 0, "k": 4, "resp": "C"}
+{"gold": "D", "snap_pred": "D", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "D", "abstain": 0, "k": 4, "resp": "D"}
+{"gold": "C", "snap_pred": "B", "snap_text_pred": "B", "snap_lastchar_pred": "B", "clean_pred": "B", "abstain": 0, "k": 4, "resp": "B"}
+{"gold": "C", "snap_pred": "A", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "A", "abstain": 0, "k": 4, "resp": "A"}
+{"gold": "B", "snap_pred": "B", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "B", "abstain": 0, "k": 4, "resp": "B"}
+{"gold": "A", "snap_pred": "A", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "A", "abstain": 0, "k": 4, "resp": "A"}
+{"gold": "D", "snap_pred": "D", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "D", "abstain": 0, "k": 4, "resp": "D"}
+{"gold": "D", "snap_pred": "C", "snap_text_pred": "B", "snap_lastchar_pred": "B", "clean_pred": "C", "abstain": 0, "k": 4, "resp": "C"}
+{"gold": "B", "snap_pred": "B", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "B", "abstain": 0, "k": 4, "resp": "B"}
+{"gold": "A", "snap_pred": "B", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "B", "abstain": 0, "k": 4, "resp": "B"}
+{"gold": "A", "snap_pred": "A", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "A", "abstain": 0, "k": 4, "resp": "A"}
+{"gold": "D", "snap_pred": "C", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "C", "abstain": 0, "k": 4, "resp": "C"}
+{"gold": "B", "snap_pred": "B", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "B", "abstain": 0, "k": 4, "resp": "B"}
+{"gold": "C", "snap_pred": "A", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "A", "abstain": 0, "k": 4, "resp": "A"}
+{"gold": "C", "snap_pred": "B", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "B", "abstain": 0, "k": 4, "resp": "B"}
+{"gold": "A", "snap_pred": "C", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "C", "abstain": 0, "k": 4, "resp": "C"}
+{"gold": "B", "snap_pred": "C", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "C", "abstain": 0, "k": 4, "resp": "C"}
+{"gold": "C", "snap_pred": "C", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "C", "abstain": 0, "k": 4, "resp": "C"}
+{"gold": "D", "snap_pred": "D", "snap_text_pred": "D", "snap_lastchar_pred": "D", "clean_pred": "D", "abstain": 0, "k": 4, "resp": "(D) Parotid gland"}
+{"gold": "D", "snap_pred": "B", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "B", "abstain": 0, "k": 4, "resp": "B"}
+{"gold": "C", "snap_pred": "C", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "C", "abstain": 0, "k": 4, "resp": "C"}
+{"gold": "C", "snap_pred": "C", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "C", "abstain": 0, "k": 4, "resp": "C"}
+{"gold": "B", "snap_pred": "C", "snap_text_pred": "B", "snap_lastchar_pred": "B", "clean_pred": "C", "abstain": 0, "k": 4, "resp": "C"}
+{"gold": "D", "snap_pred": "A", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "A", "abstain": 0, "k": 4, "resp": "A"}
+{"gold": "D", "snap_pred": "C", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "C", "abstain": 0, "k": 4, "resp": "C"}
+{"gold": "D", "snap_pred": "A", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "A", "abstain": 0, "k": 4, "resp": "A"}
+{"gold": "C", "snap_pred": "C", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "C", "abstain": 0, "k": 4, "resp": "C"}
+{"gold": "C", "snap_pred": "C", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "C", "abstain": 0, "k": 4, "resp": "C"}
+{"gold": "C", "snap_pred": "C", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "C", "abstain": 0, "k": 4, "resp": "C"}
+{"gold": "C", "snap_pred": "C", "snap_text_pred": "D", "snap_lastchar_pred": "D", "clean_pred": "C", "abstain": 0, "k": 4, "resp": "C"}
+{"gold": "B", "snap_pred": "D", "snap_text_pred": "D", "snap_lastchar_pred": "C", "clean_pred": "D", "abstain": 0, "k": 4, "resp": "(D) Non-specific"}
+{"gold": "C", "snap_pred": "C", "snap_text_pred": "A", "snap_lastchar_pred": "A", "clean_pred": "C", "abstain": 0, "k": 4, "resp": "C"}
+{"gold": "B", "snap_pred": "B", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "B", "abstain": 0, "k": 4, "resp": "B"}
+{"gold": "C", "snap_pred": "B", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "B", "abstain": 0, "k": 4, "resp": "B"}
+{"gold": "C", "snap_pred": "B", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "B", "abstain": 0, "k": 4, "resp": "B"}
+{"gold": "C", "snap_pred": "C", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "C", "abstain": 0, "k": 4, "resp": "C"}
+{"gold": "B", "snap_pred": "B", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "B", "abstain": 0, "k": 4, "resp": "B"}
+{"gold": "A", "snap_pred": "A", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "A", "abstain": 0, "k": 4, "resp": "A"}
+{"gold": "C", "snap_pred": "D", "snap_text_pred": "D", "snap_lastchar_pred": "D", "clean_pred": "D", "abstain": 0, "k": 4, "resp": "(D) Four"}
+{"gold": "C", "snap_pred": "C", "snap_text_pred": "C", "snap_lastchar_pred": "C", "clean_pred": "C", "abstain": 0, "k": 4, "resp": "C"}
+{"gold": "B", "snap_pred": "C", "snap_text_pred": "C", "snap_lastchar_pred": "B", "clean_pred": "C", "abstain": 0, "k": 4, "resp": "(C) proportions of Phox2a-positive neurons"}
+{"gold": "C", "snap_pred": "C", "snap_text_pred": "C", "snap_lastchar_pred": "C", "clean_pred": "C", "abstain": 0, "k": 4, "resp": "C"}
+{"gold": "A", "snap_pred": "A", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "A", "abstain": 0, "k": 4, "resp": "A"}
+{"gold": "B", "snap_pred": "B", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "B", "abstain": 0, "k": 4, "resp": "B"}
+{"gold": "C", "snap_pred": "B", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "B", "abstain": 0, "k": 4, "resp": "B"}
+{"gold": "B", "snap_pred": "A", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "A", "abstain": 0, "k": 4, "resp": "A"}
+{"gold": "B", "snap_pred": "B", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "B", "abstain": 0, "k": 4, "resp": "B"}
+{"gold": "C", "snap_pred": "C", "snap_text_pred": "C", "snap_lastchar_pred": "C", "clean_pred": "C", "abstain": 0, "k": 4, "resp": "C"}
+{"gold": "C", "snap_pred": "D", "snap_text_pred": "D", "snap_lastchar_pred": "D", "clean_pred": "D", "abstain": 0, "k": 4, "resp": "(D) Over the left heart border."}
+{"gold": "B", "snap_pred": "C", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "C", "abstain": 0, "k": 4, "resp": "C"}
+{"gold": "D", "snap_pred": "B", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "B", "abstain": 0, "k": 4, "resp": "B"}
+{"gold": "C", "snap_pred": "C", "snap_text_pred": "D", "snap_lastchar_pred": "D", "clean_pred": "C", "abstain": 0, "k": 4, "resp": "C"}
+{"gold": "D", "snap_pred": "D", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "D", "abstain": 0, "k": 4, "resp": "D"}
+{"gold": "A", "snap_pred": "A", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "A", "abstain": 0, "k": 4, "resp": "A"}
+{"gold": "D", "snap_pred": "B", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "B", "abstain": 0, "k": 4, "resp": "B"}
+{"gold": "B", "snap_pred": "B", "snap_text_pred": "D", "snap_lastchar_pred": "D", "clean_pred": "B", "abstain": 0, "k": 4, "resp": "B"}
+{"gold": "C", "snap_pred": "A", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "A", "abstain": 0, "k": 4, "resp": "A"}
+{"gold": "A", "snap_pred": "C", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "C", "abstain": 0, "k": 4, "resp": "C"}
+{"gold": "B", "snap_pred": "B", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "B", "abstain": 0, "k": 4, "resp": "B"}
+{"gold": "B", "snap_pred": "B", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "B", "abstain": 0, "k": 4, "resp": "B"}
+{"gold": "A", "snap_pred": "A", "snap_text_pred": "D", "snap_lastchar_pred": "D", "clean_pred": "A", "abstain": 0, "k": 4, "resp": "A"}
+{"gold": "C", "snap_pred": "C", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "C", "abstain": 0, "k": 4, "resp": "C"}
+{"gold": "C", "snap_pred": "C", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "C", "abstain": 0, "k": 4, "resp": "C"}
+{"gold": "C", "snap_pred": "B", "snap_text_pred": "D", "snap_lastchar_pred": "D", "clean_pred": "B", "abstain": 0, "k": 4, "resp": "B"}
+{"gold": "A", "snap_pred": "B", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "B", "abstain": 0, "k": 4, "resp": "B"}
+{"gold": "C", "snap_pred": "C", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "C", "abstain": 0, "k": 4, "resp": "C"}
+{"gold": "B", "snap_pred": "A", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "A", "abstain": 0, "k": 4, "resp": "A"}
+{"gold": "B", "snap_pred": "B", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "B", "abstain": 0, "k": 4, "resp": "B"}
+{"gold": "B", "snap_pred": "C", "snap_text_pred": "C", "snap_lastchar_pred": "C", "clean_pred": "C", "abstain": 0, "k": 4, "resp": "C"}
+{"gold": "B", "snap_pred": "B", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "B", "abstain": 0, "k": 4, "resp": "B"}
+{"gold": "A", "snap_pred": "C", "snap_text_pred": "B", "snap_lastchar_pred": "B", "clean_pred": "C", "abstain": 0, "k": 4, "resp": "C"}
+{"gold": "A", "snap_pred": "A", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "A", "abstain": 0, "k": 4, "resp": "A"}
+{"gold": "B", "snap_pred": "C", "snap_text_pred": "A", "snap_lastchar_pred": "A", "clean_pred": "C", "abstain": 0, "k": 4, "resp": "C"}
+{"gold": "B", "snap_pred": "A", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "A", "abstain": 0, "k": 4, "resp": "A"}
+{"gold": "D", "snap_pred": "A", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "A", "abstain": 0, "k": 4, "resp": "A"}
+{"gold": "C", "snap_pred": "C", "snap_text_pred": "B", "snap_lastchar_pred": "B", "clean_pred": "C", "abstain": 0, "k": 4, "resp": "C"}
+{"gold": "A", "snap_pred": "A", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "A", "abstain": 0, "k": 4, "resp": "A"}
+{"gold": "C", "snap_pred": "C", "snap_text_pred": "A", "snap_lastchar_pred": "A", "clean_pred": "C", "abstain": 0, "k": 4, "resp": "C"}
+{"gold": "B", "snap_pred": "C", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "C", "abstain": 0, "k": 4, "resp": "C"}
+{"gold": "C", "snap_pred": "C", "snap_text_pred": "A", "snap_lastchar_pred": "A", "clean_pred": "C", "abstain": 0, "k": 4, "resp": "C"}
+{"gold": "C", "snap_pred": "C", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "C", "abstain": 0, "k": 4, "resp": "C"}
+{"gold": "A", "snap_pred": "B", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "B", "abstain": 0, "k": 4, "resp": "B"}
+{"gold": "B", "snap_pred": "B", "snap_text_pred": "B", "snap_lastchar_pred": "A", "clean_pred": "B", "abstain": 0, "k": 4, "resp": "(B) Stage II (c)"}
+{"gold": "C", "snap_pred": "B", "snap_text_pred": "D", "snap_lastchar_pred": "D", "clean_pred": "B", "abstain": 0, "k": 4, "resp": "B"}
+{"gold": "B", "snap_pred": "B", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "B", "abstain": 0, "k": 4, "resp": "B"}
+{"gold": "D", "snap_pred": "D", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "D", "abstain": 0, "k": 4, "resp": "D"}
+{"gold": "D", "snap_pred": "D", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "D", "abstain": 0, "k": 4, "resp": "D"}
+{"gold": "A", "snap_pred": "C", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "C", "abstain": 0, "k": 4, "resp": "C"}
+{"gold": "D", "snap_pred": "C", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "C", "abstain": 0, "k": 4, "resp": "C"}
+{"gold": "A", "snap_pred": "D", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "D", "abstain": 0, "k": 4, "resp": "D"}
+{"gold": "C", "snap_pred": "A", "snap_text_pred": "A", "snap_lastchar_pred": "A", "clean_pred": "A", "abstain": 0, "k": 4, "resp": "A"}
+{"gold": "B", "snap_pred": "C", "snap_text_pred": "B", "snap_lastchar_pred": "B", "clean_pred": "C", "abstain": 0, "k": 4, "resp": "C"}
+{"gold": "C", "snap_pred": "B", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "B", "abstain": 0, "k": 4, "resp": "B"}
+{"gold": "D", "snap_pred": "A", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "A", "abstain": 0, "k": 4, "resp": "A"}
+{"gold": "B", "snap_pred": "A", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "A", "abstain": 0, "k": 4, "resp": "A"}
+{"gold": "C", "snap_pred": "C", "snap_text_pred": "D", "snap_lastchar_pred": "D", "clean_pred": "C", "abstain": 0, "k": 4, "resp": "C"}
+{"gold": "C", "snap_pred": "C", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "C", "abstain": 0, "k": 4, "resp": "C"}
+{"gold": "B", "snap_pred": "B", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "B", "abstain": 0, "k": 4, "resp": "B"}
+{"gold": "D", "snap_pred": "C", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "C", "abstain": 0, "k": 4, "resp": "C"}
+{"gold": "B", "snap_pred": "C", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "C", "abstain": 0, "k": 4, "resp": "C"}
+{"gold": "A", "snap_pred": "A", "snap_text_pred": "C", "snap_lastchar_pred": "C", "clean_pred": "C", "abstain": 0, "k": 4, "resp": "(C) A and B"}
+{"gold": "C", "snap_pred": "C", "snap_text_pred": "C", "snap_lastchar_pred": "C", "clean_pred": "C", "abstain": 0, "k": 4, "resp": "(C) Head"}
+{"gold": "B", "snap_pred": "B", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "B", "abstain": 0, "k": 4, "resp": "B"}
+{"gold": "B", "snap_pred": "D", "snap_text_pred": "D", "snap_lastchar_pred": "D", "clean_pred": "D", "abstain": 0, "k": 4, "resp": "(D) axial"}
+{"gold": "C", "snap_pred": "C", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "C", "abstain": 0, "k": 4, "resp": "C"}
+{"gold": "C", "snap_pred": "B", "snap_text_pred": "A", "snap_lastchar_pred": "A", "clean_pred": "B", "abstain": 0, "k": 4, "resp": "B"}
+{"gold": "D", "snap_pred": "D", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "D", "abstain": 0, "k": 4, "resp": "D"}
+{"gold": "B", "snap_pred": "B", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "B", "abstain": 0, "k": 4, "resp": "B"}
+{"gold": "C", "snap_pred": "C", "snap_text_pred": "B", "snap_lastchar_pred": "B", "clean_pred": "C", "abstain": 0, "k": 4, "resp": "C"}
+{"gold": "A", "snap_pred": "A", "snap_text_pred": "A", "snap_lastchar_pred": "A", "clean_pred": "A", "abstain": 0, "k": 4, "resp": "A"}
+{"gold": "B", "snap_pred": "B", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "B", "abstain": 0, "k": 4, "resp": "B"}
+{"gold": "C", "snap_pred": "C", "snap_text_pred": null, "snap_lastchar_pred": null, "clean_pred": "C", "abstain": 0, "k": 4, "resp": "C"}

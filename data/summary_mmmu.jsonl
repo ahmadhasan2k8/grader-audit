@@ -1,0 +1,5 @@
+{"model": "gemma-4-e4b", "benchmark": "mmmu", "n": 150, "mmmu_acc": 0.4, "strict_acc": 0.3333, "abstain_rate": 0.3467, "random_fire_rate": 0.2733, "fired_correct": 6, "artifact_mmmu_minus_strict": 0.0667, "elapsed_min": 12.3}
+{"model": "qwen2.5-vl-7b", "benchmark": "mmmu", "n": 150, "mmmu_acc": 0.5133, "strict_acc": 0.4933, "abstain_rate": 0.06, "random_fire_rate": 0.04, "fired_correct": 1, "artifact_mmmu_minus_strict": 0.02, "elapsed_min": 1.9}
+{"model": "qwen3-vl-8b", "benchmark": "mmmu", "n": 150, "mmmu_acc": 0.5333, "strict_acc": 0.46, "abstain_rate": 0.24, "random_fire_rate": 0.1733, "fired_correct": 7, "artifact_mmmu_minus_strict": 0.0733, "elapsed_min": 9.0}
+{"model": "pixtral-12b", "benchmark": "mmmu", "n": 150, "mmmu_acc": 0.3533, "strict_acc": 0.3267, "abstain_rate": 0.2267, "random_fire_rate": 0.16, "fired_correct": 4, "artifact_mmmu_minus_strict": 0.0267, "elapsed_min": 9.5}
+{"model": "llama-3.2-11b", "benchmark": "mmmu", "n": 150, "mmmu_acc": 0.44, "strict_acc": 0.3067, "abstain_rate": 0.2933, "random_fire_rate": 0.2067, "fired_correct": 13, "artifact_mmmu_minus_strict": 0.1333, "elapsed_min": 19.2}

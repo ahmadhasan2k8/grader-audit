@@ -1,0 +1,13 @@
+{"model": "gemma-4-e4b", "n": 1670, "benchmark": "anomalyov_yesno", "anomalyov_acc": 0.6329, "strict_acc": 0.6329, "logit_acc": 0.6329, "abstain_rate": 0.0, "elapsed_min": 6.3}
+{"model": "qwen2.5-vl-7b", "n": 1670, "benchmark": "anomalyov_yesno", "anomalyov_acc": 0.6042, "strict_acc": 0.6042, "logit_acc": 0.6042, "abstain_rate": 0.0, "elapsed_min": 9.4}
+{"model": "qwen3-vl-8b", "n": 1670, "benchmark": "anomalyov_yesno", "anomalyov_acc": 0.8102, "strict_acc": 0.8102, "logit_acc": 0.8102, "abstain_rate": 0.0, "elapsed_min": 8.8}
+{"model": "pixtral-12b", "n": 1670, "benchmark": "anomalyov_yesno", "anomalyov_acc": 0.4689, "strict_acc": 0.3695, "logit_acc": 0.6401, "abstain_rate": 0.3898, "elapsed_min": 34.5}
+{"model": "llama-3.2-11b", "n": 1670, "benchmark": "anomalyov_yesno", "anomalyov_acc": 0.7365, "strict_acc": 0.7365, "logit_acc": 0.7365, "abstain_rate": 0.0, "elapsed_min": 32.5}
+{"model": "gemma-4-e4b", "dataset": "visa", "n": 2141, "benchmark": "anomalyov_yesno", "anomalyov_acc": 0.5633, "strict_acc": 0.5633, "logit_acc": 0.5633, "abstain_rate": 0.0, "elapsed_min": 7.8}
+{"model": "qwen2.5-vl-7b", "dataset": "visa", "n": 2141, "benchmark": "anomalyov_yesno", "anomalyov_acc": 0.5936, "strict_acc": 0.5936, "logit_acc": 0.5936, "abstain_rate": 0.0, "elapsed_min": 10.2}
+{"model": "qwen3-vl-8b", "dataset": "visa", "n": 2141, "benchmark": "anomalyov_yesno", "anomalyov_acc": 0.6945, "strict_acc": 0.6945, "logit_acc": 0.6945, "abstain_rate": 0.0, "elapsed_min": 9.3}
+{"model": "pixtral-12b", "dataset": "visa", "n": 2141, "benchmark": "anomalyov_yesno", "anomalyov_acc": 0.567, "strict_acc": 0.5544, "logit_acc": 0.5712, "abstain_rate": 0.0276, "elapsed_min": 28.6}
+{"model": "llama-3.2-11b", "dataset": "visa", "n": 2141, "benchmark": "anomalyov_yesno", "anomalyov_acc": 0.6095, "strict_acc": 0.6095, "logit_acc": 0.6095, "abstain_rate": 0.0, "elapsed_min": 41.5}
+{"model": "gemma-4-e4b-8bit", "dataset": "mvtec", "n": 1670, "benchmark": "anomalyov_yesno", "anomalyov_acc": 0.6671, "strict_acc": 0.6671, "logit_acc": 0.6671, "abstain_rate": 0.0, "elapsed_min": 8.4}
+{"model": "gemma-4-e2b", "dataset": "mvtec", "n": 1670, "benchmark": "anomalyov_yesno", "anomalyov_acc": 0.3605, "strict_acc": 0.3605, "logit_acc": 0.3605, "abstain_rate": 0.0, "elapsed_min": 4.5}
+{"model": "gemma-4-e2b", "dataset": "visa", "n": 2141, "benchmark": "anomalyov_yesno", "anomalyov_acc": 0.4722, "strict_acc": 0.4722, "logit_acc": 0.4722, "abstain_rate": 0.0, "elapsed_min": 5.6}

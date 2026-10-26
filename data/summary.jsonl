@@ -1,0 +1,20 @@
+{"model": "gemma-4-e4b", "n": 1670, "mmad_fuzzy_acc": 0.7359, "strict_acc": 0.7359, "soft_logit_acc": 0.7359, "fuzzy_inflation": 0.0, "abstain_rate": 0.0, "elapsed_min": 7.1}
+{"model": "qwen2.5-vl-7b", "n": 1670, "mmad_fuzzy_acc": 0.7713, "strict_acc": 0.7713, "soft_logit_acc": 0.7713, "fuzzy_inflation": 0.0, "abstain_rate": 0.0, "elapsed_min": 10.9}
+{"model": "qwen3-vl-8b", "n": 1670, "mmad_fuzzy_acc": 0.8365, "strict_acc": 0.8365, "soft_logit_acc": 0.8365, "fuzzy_inflation": 0.0, "abstain_rate": 0.0, "elapsed_min": 10.6}
+{"model": "pixtral-12b", "n": 1670, "mmad_fuzzy_acc": 0.6557, "strict_acc": 0.4437, "soft_logit_acc": 0.603, "fuzzy_inflation": 0.212, "abstain_rate": 0.2928, "elapsed_min": 33.3}
+{"model": "llama-3.2-11b", "n": 1670, "mmad_fuzzy_acc": 0.7413, "strict_acc": 0.5216, "soft_logit_acc": 0.7665, "fuzzy_inflation": 0.2198, "abstain_rate": 0.3695, "elapsed_min": 38.4}
+{"model": "llava-1.5-7b", "n": 100, "mmad_fuzzy_acc": 0.8, "strict_acc": 0.8, "soft_logit_acc": 0.8, "fuzzy_inflation": 0.0, "abstain_rate": 0.0, "elapsed_min": 0.7}
+{"model": "pixtral-12b", "n": 300, "mmad_fuzzy_acc": 0.5233, "strict_acc": 0.2567, "soft_logit_acc": 0.52, "fuzzy_inflation": 0.2667, "abstain_rate": 0.4233, "elapsed_min": 11.0}
+{"model": "llama-3.2-11b", "n": 300, "mmad_fuzzy_acc": 0.6333, "strict_acc": 0.4467, "soft_logit_acc": 0.68, "fuzzy_inflation": 0.1867, "abstain_rate": 0.2633, "elapsed_min": 11.7}
+{"model": "gemma-4-e4b", "dataset": "visa", "n": 2141, "mmad_fuzzy_acc": 0.6698, "strict_acc": 0.6698, "soft_logit_acc": 0.6698, "fuzzy_inflation": 0.0, "abstain_rate": 0.0, "elapsed_min": 8.2}
+{"model": "qwen2.5-vl-7b", "dataset": "visa", "n": 2141, "mmad_fuzzy_acc": 0.6777, "strict_acc": 0.6777, "soft_logit_acc": 0.6777, "fuzzy_inflation": 0.0, "abstain_rate": 0.0, "elapsed_min": 11.3}
+{"model": "qwen3-vl-8b", "dataset": "visa", "n": 2141, "mmad_fuzzy_acc": 0.6936, "strict_acc": 0.6936, "soft_logit_acc": 0.6936, "fuzzy_inflation": 0.0, "abstain_rate": 0.0, "elapsed_min": 11.4}
+{"model": "pixtral-12b", "dataset": "visa", "n": 2141, "mmad_fuzzy_acc": 0.5684, "strict_acc": 0.5283, "soft_logit_acc": 0.5656, "fuzzy_inflation": 0.0402, "abstain_rate": 0.071, "elapsed_min": 29.4}
+{"model": "llama-3.2-11b", "dataset": "visa", "n": 2141, "mmad_fuzzy_acc": 0.6418, "strict_acc": 0.5535, "soft_logit_acc": 0.6492, "fuzzy_inflation": 0.0883, "abstain_rate": 0.1859, "elapsed_min": 44.5}
+{"model": "gemma-4-e2b", "dataset": "mvtec", "n": 8, "mmad_fuzzy_acc": 1.0, "strict_acc": 1.0, "soft_logit_acc": 1.0, "fuzzy_inflation": 0.0, "abstain_rate": 0.0, "elapsed_min": 0.1}
+{"model": "gemma-4-e4b-8bit", "dataset": "mvtec", "n": 8, "mmad_fuzzy_acc": 1.0, "strict_acc": 1.0, "soft_logit_acc": 1.0, "fuzzy_inflation": 0.0, "abstain_rate": 0.0, "elapsed_min": 0.1}
+{"model": "pixtral-12b", "dataset": "mvtec", "n": 1670, "mmad_fuzzy_acc": 0.6557, "strict_acc": 0.4437, "soft_logit_acc": 0.603, "fuzzy_inflation": 0.212, "abstain_rate": 0.2928, "elapsed_min": 32.7}
+{"model": "llama-3.2-11b", "dataset": "mvtec", "n": 1670, "mmad_fuzzy_acc": 0.7413, "strict_acc": 0.5216, "soft_logit_acc": 0.7665, "fuzzy_inflation": 0.2198, "abstain_rate": 0.3695, "elapsed_min": 38.0}
+{"model": "gemma-4-e4b-8bit", "dataset": "mvtec", "n": 1670, "mmad_fuzzy_acc": 0.7012, "strict_acc": 0.7012, "soft_logit_acc": 0.7012, "fuzzy_inflation": 0.0, "abstain_rate": 0.0, "elapsed_min": 8.9}
+{"model": "gemma-4-e2b", "dataset": "mvtec", "n": 1670, "mmad_fuzzy_acc": 0.4659, "strict_acc": 0.4659, "soft_logit_acc": 0.4659, "fuzzy_inflation": 0.0, "abstain_rate": 0.0, "elapsed_min": 4.7}
+{"model": "gemma-4-e2b", "dataset": "visa", "n": 2141, "mmad_fuzzy_acc": 0.4862, "strict_acc": 0.4862, "soft_logit_acc": 0.4862, "fuzzy_inflation": 0.0, "abstain_rate": 0.0, "elapsed_min": 6.0}

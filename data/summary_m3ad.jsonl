@@ -1,0 +1,13 @@
+{"model": "gemma-4-e4b", "n": 1670, "benchmark": "m3ad_tag", "m3ad_acc": 0.5814, "lenient_acc": 0.5814, "logit_acc": 0.5581, "abstain_rate": 0.0, "elapsed_min": 12.7}
+{"model": "qwen2.5-vl-7b", "n": 1670, "benchmark": "m3ad_tag", "m3ad_acc": 0.6377, "lenient_acc": 0.6383, "logit_acc": 0.4605, "abstain_rate": 0.0024, "elapsed_min": 14.4}
+{"model": "qwen3-vl-8b", "n": 1670, "benchmark": "m3ad_tag", "m3ad_acc": 0.7707, "lenient_acc": 0.7707, "logit_acc": 0.8228, "abstain_rate": 0.0, "elapsed_min": 14.2}
+{"model": "pixtral-12b", "n": 1670, "benchmark": "m3ad_tag", "m3ad_acc": 0.0976, "lenient_acc": 0.1395, "logit_acc": 0.6545, "abstain_rate": 0.8174, "elapsed_min": 45.8}
+{"model": "llama-3.2-11b", "n": 1670, "benchmark": "m3ad_tag", "m3ad_acc": 0.2719, "lenient_acc": 0.3467, "logit_acc": 0.2796, "abstain_rate": 0.2629, "elapsed_min": 37.0}
+{"model": "gemma-4-e4b", "dataset": "visa", "n": 2141, "benchmark": "m3ad_tag", "m3ad_acc": 0.5376, "lenient_acc": 0.5376, "logit_acc": 0.5586, "abstain_rate": 0.0, "elapsed_min": 16.4}
+{"model": "qwen2.5-vl-7b", "dataset": "visa", "n": 2141, "benchmark": "m3ad_tag", "m3ad_acc": 0.6067, "lenient_acc": 0.6067, "logit_acc": 0.5138, "abstain_rate": 0.0005, "elapsed_min": 16.2}
+{"model": "qwen3-vl-8b", "dataset": "visa", "n": 2141, "benchmark": "m3ad_tag", "m3ad_acc": 0.6773, "lenient_acc": 0.6773, "logit_acc": 0.6805, "abstain_rate": 0.0, "elapsed_min": 16.7}
+{"model": "pixtral-12b", "dataset": "visa", "n": 2141, "benchmark": "m3ad_tag", "m3ad_acc": 0.3055, "lenient_acc": 0.3134, "logit_acc": 0.553, "abstain_rate": 0.3405, "elapsed_min": 44.7}
+{"model": "llama-3.2-11b", "dataset": "visa", "n": 2141, "benchmark": "m3ad_tag", "m3ad_acc": 0.2055, "lenient_acc": 0.4923, "logit_acc": 0.4699, "abstain_rate": 0.5778, "elapsed_min": 44.6}
+{"model": "gemma-4-e4b-8bit", "dataset": "mvtec", "n": 1670, "benchmark": "m3ad_tag", "m3ad_acc": 0.5772, "lenient_acc": 0.5772, "logit_acc": 0.624, "abstain_rate": 0.0, "elapsed_min": 24.2}
+{"model": "gemma-4-e2b", "dataset": "mvtec", "n": 1670, "benchmark": "m3ad_tag", "m3ad_acc": 0.6138, "lenient_acc": 0.6138, "logit_acc": 0.2659, "abstain_rate": 0.0, "elapsed_min": 9.2}
+{"model": "gemma-4-e2b", "dataset": "visa", "n": 2141, "benchmark": "m3ad_tag", "m3ad_acc": 0.5287, "lenient_acc": 0.5287, "logit_acc": 0.4409, "abstain_rate": 0.0, "elapsed_min": 12.0}

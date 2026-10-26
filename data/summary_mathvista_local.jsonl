@@ -1,0 +1,5 @@
+{"test_model": "gemma-4-e4b", "extractor": "qwen3-vl-8b", "n": 540, "official_snap_acc": 0.55, "clean_abstain_acc": 0.5463, "snap_fire_rate": 0.0278, "abstain_rate": 0.0278, "artifact": 0.0037}
+{"test_model": "qwen2.5-vl-7b", "extractor": "qwen3-vl-8b", "n": 540, "official_snap_acc": 0.6111, "clean_abstain_acc": 0.6, "snap_fire_rate": 0.0278, "abstain_rate": 0.0278, "artifact": 0.0111}
+{"test_model": "qwen3-vl-8b", "extractor": "qwen3-vl-8b", "n": 540, "official_snap_acc": 0.613, "clean_abstain_acc": 0.6093, "snap_fire_rate": 0.013, "abstain_rate": 0.013, "artifact": 0.0037}
+{"test_model": "pixtral-12b", "extractor": "qwen3-vl-8b", "n": 540, "official_snap_acc": 0.513, "clean_abstain_acc": 0.4963, "snap_fire_rate": 0.0426, "abstain_rate": 0.0426, "artifact": 0.0167}
+{"test_model": "llama-3.2-11b", "extractor": "qwen3-vl-8b", "n": 540, "official_snap_acc": 0.5704, "clean_abstain_acc": 0.563, "snap_fire_rate": 0.0352, "abstain_rate": 0.0352, "artifact": 0.0074}

@@ -1,0 +1,17 @@
+# Tier-2 (optional): regenerate the model-output logs from scratch on a 16 GB GPU.
+# Requires nvidia-docker / --gpus all. After building, fetch data and run the per-benchmark scripts:
+#   docker build -f Dockerfile.gpu -t grader-audit-gpu .
+#   docker run --gpus all --rm -v $PWD/data:/work/data grader-audit-gpu \
+#       bash scripts/fetch_datasets.sh
+#   docker run --gpus all --rm -v $PWD/data:/work/data grader-audit-gpu \
+#       python src/rescore.py --model pixtral-12b --datasets DS-MVTec
+# By default it runs the Tier-1 reproduction + validation (so the image is verifiable without a GPU run).
+FROM pytorch/pytorch:2.2.0-cuda12.1-cudnn8-runtime
+
+WORKDIR /work
+RUN apt-get update && apt-get install -y --no-install-recommends git && rm -rf /var/lib/apt/lists/*
+COPY requirements-gpu.txt requirements-cpu.txt ./
+RUN pip install --no-cache-dir -r requirements-gpu.txt
+COPY . .
+
+CMD ["sh", "-c", "python reproduce.py && python validate.py"]

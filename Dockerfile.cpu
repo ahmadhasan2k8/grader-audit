@@ -1,0 +1,12 @@
+# Tier-1: fully turnkey reproduction. Only Docker is required on the host -- no Python, no GPU, no data.
+#   docker build -f Dockerfile.cpu -t grader-audit .
+#   docker run --rm grader-audit
+# Builds, reproduces every paper number into results/, then self-validates (prints VALIDATION PASSED).
+FROM python:3.11-slim
+
+WORKDIR /work
+COPY requirements-cpu.txt .
+RUN pip install --no-cache-dir -r requirements-cpu.txt
+COPY . .
+
+CMD ["sh", "-c", "python reproduce.py && python validate.py"]

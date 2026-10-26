@@ -1,0 +1,3 @@
+# Tier-1 reproduction (no GPU, no dataset): reproduce + validate every paper number from released logs.
+matplotlib>=3.5
+scipy>=1.7

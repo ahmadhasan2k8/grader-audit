@@ -1,0 +1,5 @@
+{"model": "gemma-4-e4b", "benchmark": "mathvista", "n": 540, "fuzzy_acc": 0.3722, "clean_acc": 0.2167, "abstain_rate": 0.6, "snap_rate": 0.6, "artifact_fuzzy_minus_clean": 0.1556, "elapsed_min": 18.8}
+{"model": "qwen2.5-vl-7b", "benchmark": "mathvista", "n": 540, "fuzzy_acc": 0.5944, "clean_acc": 0.537, "abstain_rate": 0.3, "snap_rate": 0.3, "artifact_fuzzy_minus_clean": 0.0574, "elapsed_min": 7.4}
+{"model": "qwen3-vl-8b", "benchmark": "mathvista", "n": 540, "fuzzy_acc": 0.5926, "clean_acc": 0.5426, "abstain_rate": 0.2611, "snap_rate": 0.2611, "artifact_fuzzy_minus_clean": 0.05, "elapsed_min": 8.0}
+{"model": "pixtral-12b", "benchmark": "mathvista", "n": 540, "fuzzy_acc": 0.3481, "clean_acc": 0.213, "abstain_rate": 0.5574, "snap_rate": 0.5574, "artifact_fuzzy_minus_clean": 0.1352, "elapsed_min": 17.8}
+{"model": "llama-3.2-11b", "benchmark": "mathvista", "n": 540, "fuzzy_acc": 0.3407, "clean_acc": 0.2241, "abstain_rate": 0.6056, "snap_rate": 0.6056, "artifact_fuzzy_minus_clean": 0.1167, "elapsed_min": 26.9}

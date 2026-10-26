@@ -1,0 +1,3 @@
+{"model": "gemma-4-e4b", "dataset": "mvtec", "n": 800, "paraphrase_accs": {"p1": 0.6825, "p2": 0.4662, "p3": 0.4625}, "within_format_swing": 0.22, "yes_rates": {"p1": 0.455, "p2": 0.191, "p3": 0.188}}
+{"model": "qwen2.5-vl-7b", "dataset": "mvtec", "n": 800, "paraphrase_accs": {"p1": 0.6388, "p2": 0.555, "p3": 0.4487}, "within_format_swing": 0.19, "yes_rates": {"p1": 0.371, "p2": 0.287, "p3": 0.174}}
+{"model": "qwen3-vl-8b", "dataset": "mvtec", "n": 800, "paraphrase_accs": {"p1": 0.83, "p2": 0.73, "p3": 0.7113}, "within_format_swing": 0.1187, "yes_rates": {"p1": 0.635, "p2": 0.5, "p3": 0.461}}

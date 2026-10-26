@@ -1,0 +1,11 @@
+# Tier-2 (optional, GPU): regenerate the model-output logs from scratch. Requires a single 16 GB GPU.
+# Includes the Tier-1 deps.
+-r requirements-cpu.txt
+torch>=2.1
+transformers>=4.45
+unsloth>=2024.8
+bitsandbytes>=0.43
+accelerate>=0.30
+datasets>=2.18
+pillow>=9.0
+huggingface-hub>=0.23

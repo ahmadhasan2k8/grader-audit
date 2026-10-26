@@ -1,0 +1,540 @@
+{"gt": "145\u00b0", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "We are given triangle $ \\triangle ABC $ with angle $ \\angle A = 110^\\circ $, and the angle bisectors $ OB $ and $ OC $ intersecting at point $ O $. We are to find $ \\angle BOC $.\n\n---\n\nSince $ OB $ and $ OC $ are"}
+{"gt": "97", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "We are given a pentagon $EFGHJ$ with angles labeled in terms of $x$:\n\n- $\\angle E = x^\\circ$\n- $\\angle F = (x + 20)^\\circ$\n- $\\angle G = (x + 5)^\\circ$\n- $\\angle H"}
+{"gt": "6cm", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "We are given a line segment with points A, D, C, B in that order.\n\nGiven:\n- CB = 4.0\n- DB = 7.0\n- D is the midpoint of AC\n\nWe are to find the length of AC.\n\n---\n\nFirst, note that since D is the midpoint"}
+{"gt": "quarter", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 5, "resp": "quarter past"}
+{"gt": "Yes", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 2, "resp": "No"}
+{"gt": "8", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "8"}
+{"gt": "E", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 5, "resp": "E"}
+{"gt": "Yes", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "Yes"}
+{"gt": "Yes", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 2, "resp": "No"}
+{"gt": "Common water flea", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "Common water flea"}
+{"gt": "5", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "\u5728Rt\u25b3ABC\u4e2d\uff0c\u2220ACB\uff1d90\u00b0\uff0cD\u662f\u659c\u8fb9AB\u7684\u4e2d\u70b9\u3002\n\n\u6839\u636e\u76f4\u89d2\u4e09\u89d2\u5f62\u7684\u6027\u8d28\uff1a**\u76f4\u89d2\u4e09\u89d2\u5f62\u659c\u8fb9\u4e0a\u7684\u4e2d\u7ebf\u7b49\u4e8e\u659c\u8fb9\u7684\u4e00\u534a**\u3002\n\n\u5df2\u77e5AB = 10\uff0cD\u662fAB\u7684\u4e2d\u70b9\uff0c"}
+{"gt": "Does Linda's snowboard slide down a hill", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "Does Linda's snowboard slide down a hill in less time when it has a layer of wax or when it does not have a layer of wax?"}
+{"gt": "No", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "No"}
+{"gt": "equal to", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 3, "resp": "larger than"}
+{"gt": "no", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "no"}
+{"gt": "no", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "no"}
+{"gt": "no", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "no"}
+{"gt": "8.5", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "We are given a circle with diameter $\\overline{AB}$, and point $C$ on the circle, forming triangle $ABC$. We are told $AC = 8$ inches, $BC = 15$ inches, and we are to find the radius.\n\nSince $\\overline{AB}$ is"}
+{"gt": "70\u00b0", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "We are given a circle with chords AB and CD intersecting at point E. We are told:\n\n- \u2220D = 35\u00b0 (this is \u2220ADC, angle at D)\n- \u2220AEC = 105\u00b0\n- We are to find \u2220C, which is \ufffd"}
+{"gt": "No", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "No"}
+{"gt": "70\u00b0", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "We are given a parallelogram ABCD, with AB = AC, and \u2220CAB = 40\u00b0. We are to find \u2220D.\n\nFirst, note that in parallelogram ABCD:\n- Opposite sides are parallel: AB \u2225 CD, AD \u2225 BC.\n- Opp"}
+{"gt": "4\u03c0cm", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "We are given a sector of paper with central angle 120.0\u00b0 and radius 6.0. When rolled into a cone, the **arc length of the sector becomes the circumference of the base of the cone**.\n\n---\n\n### Step 1: Find the arc length of the sector\n\nThe formula"}
+{"gt": "No", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "No"}
+{"gt": "35\u00b0", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "We are given a circle with center O, diameter AB, chords EF and EB, and point E is the midpoint of arc FEB (meaning arc FE = arc EB). EF intersects AB at point C. We are told \u2220AOF = 40\u00b0, and we are to find \u2220F,"}
+{"gt": "odd", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 2, "resp": "neither"}
+{"gt": "May", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 3, "resp": "May"}
+{"gt": "Adults spider population would decrease", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "Adults spider population would decrease"}
+{"gt": "38", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "We are given a rectangle $TXYW$ (since all angles are right angles, as marked), with diagonals $TW$ and $YX$ intersecting at point $Z$.\n\nWe are told:\n- $\\angle TYZ = 52^\\circ$\n- $\\angle WYZ = 3"}
+{"gt": "The population of predatory insects woul", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "The population of predatory insects would increase."}
+{"gt": "Yes", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "Yes"}
+{"gt": "10", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 5, "resp": "We are given that the ratio of the length of $ \\overline{AB} $ to the length of $ \\overline{AC} $ is $ 2 : 5 $, and that $ AC = 25 $.\n\nThis means that for every 5 units of $ AC $, $ AB"}
+{"gt": "30\u00b0", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "30\u00b0"}
+{"gt": "yes", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "yes"}
+{"gt": "64\u00b0", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "We are given a circle with center $O$, diameter $AB$, and chord $CD$. We are told that $\\angle ADC = 26^\\circ$, and we are to find $\\angle CAB$.\n\n---\n\n### Step 1: Use the property of angles in a circle\n\nRecall that **angles subt"}
+{"gt": "no", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "no"}
+{"gt": "4", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "We are given a rhombus $ABCD$ with $AB = 5$, and diagonals intersecting at $O$. Also, $E$ and $F$ are midpoints of sides $AB$ and $AD$ respectively. We are to find the length of segment $EF$.\n\n---\n\n###"}
+{"gt": "sample A", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 3, "resp": "sample A"}
+{"gt": "Yes", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 2, "resp": "No"}
+{"gt": "A", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 6, "resp": "B"}
+{"gt": "4cm", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "We are given that the elastic band AB has a total length of 16 cm when stretched straight. The midpoint C is pulled vertically upward to point D, which is 6 cm above C. We are to find how much the elastic band is stretched, i.e., the increase in total length.\n\nSince C is"}
+{"gt": "D", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 6, "resp": "B"}
+{"gt": "no", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "no"}
+{"gt": "decrease", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "decrease"}
+{"gt": "60\u00b0", "fuzzy_ok": 1, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "We are given a cyclic quadrilateral $ABCD$ inscribed in circle $O$, with point $E$ on the extension of $AD$. We are told that $\\angle ABC = 60^\\circ$, and we are to find $\\angle CDE$.\n\n---\n\n### Step 1: Use properties of"}
+{"gt": "Crabs and limpets will decrease", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "Crabs and limpets will decrease"}
+{"gt": "6", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "We are given that a square is inscribed in a circle of area $18\\pi$ square units, and we are to find the length of a side of the square.\n\n---\n\n**Step 1: Find the radius of the circle.**\n\nThe area of a circle is given by:\n\n$$\nA ="}
+{"gt": "Yes", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "Yes"}
+{"gt": "RFT U13B", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 7, "resp": "ICL"}
+{"gt": "surplus", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "surplus"}
+{"gt": "No", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "No"}
+{"gt": "No", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "No"}
+{"gt": "27\u00b0", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "\u6211\u4eec\u6765\u9010\u6b65\u5206\u6790\u9898\u76ee\u3002\n\n\u5df2\u77e5\uff1a\n- D \u662f \u25b3ABC \u5185\u4e00\u70b9\u3002\n- CD \u5e73\u5206 \u2220ACB\uff0c\u5373 \u2220ACD = \u2220BCD\u3002\n- BD \u22a5 CD\uff0c\u5373 \u2220BDC = 90\u00b0\u3002\n- \u2220A = \u2220"}
+{"gt": "80\u00b0", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "We are given that lines AB and CD intersect at point O, and that OD bisects \u2220AOE. Also, \u2220BOC = 50\u00b0. We are to find \u2220EOB.\n\n---\n\nFirst, note that \u2220BOC and \u2220AOD are vertical angles (since"}
+{"gt": "white one", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 5, "resp": "white one"}
+{"gt": "Linear", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "Lanceolate"}
+{"gt": "yes", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "yes"}
+{"gt": "quarter", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 5, "resp": "quarter past"}
+{"gt": "No", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "No"}
+{"gt": "No", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "No"}
+{"gt": "9.45", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "We are given a circle with center $M$, and a tangent line $KL$ touching the circle at point $K$. We are told that $MK = x$, $ML = 17$, and $KL = 10$. We are to find the value of $x$.\n\nSince $KL$"}
+{"gt": "Acuminate", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "Acuminate"}
+{"gt": "[0, 2]", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "[0, 2]"}
+{"gt": "20\u00b0", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "We are given a circle with center $O$, and a point $P$ outside the circle. Lines $PA$ and $PB$ intersect the circle at points $C$ and $D$ respectively, so that $A, C$ are on one line from $P$, and $B, D$ are"}
+{"gt": "No", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "No"}
+{"gt": "D", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 5, "resp": "C"}
+{"gt": "Whorled", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "Whorled"}
+{"gt": "plants increase", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "plants increase"}
+{"gt": "2", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "\u6211\u4eec\u6765\u6c42\u89e3\u57284\u00d74\u6b63\u65b9\u5f62\u7f51\u683c\u4e2d\uff0cAD\u7684\u957f\u5ea6\uff0c\u5176\u4e2dAD\u22a5BC\u4e8eD\uff0cA\u3001B\u3001C\u5728\u683c\u70b9\u4e0a\u3002\n\n\u9996\u5148\uff0c\u6211\u4eec\u901a\u8fc7\u5750\u6807\u6cd5\u6765\u89e3\u9898\u3002\u8bbe\u7f51\u683c\u5de6\u4e0b\u89d2\u4e3a\u539f\u70b9(0,0)\uff0c\u5219\uff1a\n\n- \u70b9B\u5728"}
+{"gt": "which design would have the greatest dis", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 3, "resp": "which design would have the greatest distance between the concert area and the road"}
+{"gt": "Yes", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 2, "resp": "No"}
+{"gt": "No", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "No"}
+{"gt": "Yes", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "Yes"}
+{"gt": "no", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "no"}
+{"gt": "soup", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "water"}
+{"gt": "4.40\u7c73", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "We are given a ladder AB leaning against a wall, with point B on the ground and point A on the wall. Point D is on the ladder, and we are given:\n\n- Distance from foot of ladder B to wall: 1.6 meters (this is the horizontal distance from B to the wall, so"}
+{"gt": "No", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "No"}
+{"gt": "3", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "We are given a parallelogram ABCD, with CE bisecting \u2220BCD and intersecting AD at point E. Also, DE = 3.0. We are to find the length of AB.\n\n---\n\n**Step 1: Understand the properties of a parallelogram.**\n\nIn parallelog"}
+{"gt": "sample B", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 3, "resp": "sample B"}
+{"gt": "Decurrent", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "Decurrent"}
+{"gt": "55\u00b0", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "65\u00b0"}
+{"gt": "40\u00b0", "fuzzy_ok": 1, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "We are given a circle with center $O$, and points $A$, $B$, $C$ on the circle. The line $CD$ is tangent to the circle at point $C$, and we are told that $\\angle DCB = 40^\\circ$. We are to find $\\angle CAB$"}
+{"gt": "(u1, u2) = (0, 0)", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "(u1, u2) = (0, 0)"}
+{"gt": "44\u00b0", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "44\u00b0"}
+{"gt": "mice", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "mice"}
+{"gt": "No", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "No"}
+{"gt": "yes", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "yes"}
+{"gt": "12", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "12"}
+{"gt": "35\u00b0", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "In parallelogram $ABCD$, we are given:\n\n- $CE \\perp AB$, so $\\angle CEB = 90^\\circ$.\n- $\\angle D = 55^\\circ$.\n\nIn a parallelogram, opposite angles are equal, and consecutive angles are supplementary.\n\nSo,"}
+{"gt": "B", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 6, "resp": "D"}
+{"gt": "(b)", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 5, "resp": "(c)"}
+{"gt": "smaller than", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 3, "resp": "smaller than"}
+{"gt": "no", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "no"}
+{"gt": "No", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "No"}
+{"gt": "Yes", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "Yes"}
+{"gt": "2", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "We are given that triangle $QRS$ is equilateral, so all three sides are equal.\n\nThe side lengths are:\n- $QR = 4x$\n- $RS = 2x + 1$\n- $QS = 6x - 1$\n\nSince it's equilateral, we can set any"}
+{"gt": "Yes", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "Yes"}
+{"gt": "55\u00b0", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "We are given a diagram with points A, C on the sides of angle \u2220FBD, BE bisects \u2220FBD, CE bisects \u2220ACD, and AE is connected. We are told \u2220BEC = 35\u00b0, and we are to find \u2220FA"}
+{"gt": "20cm", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "20cm"}
+{"gt": "C", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 3, "resp": "C"}
+{"gt": "no", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "no"}
+{"gt": "False", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "False"}
+{"gt": "\\frac{20}{3}", "fuzzy_ok": 1, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "We are given a geometry problem involving reflection of light. The light ray starts at point A, reflects off point E on the mirror CD, and then goes to point B. We are told:\n\n- AC \u22a5 CD, BD \u22a5 CD \u2192 so AC and BD are perpendicular to the mirror.\n- AC ="}
+{"gt": "40\u00b0", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "We are given a circle with center $O$, diameter $CD$, and chord $EF$ such that $CD$ passes through the midpoint $G$ of chord $EF$. Also, $\\angle DCF = 20^\\circ$. We are to find $\\angle EOD$.\n\n---\n\n### Step 1"}
+{"gt": "130\u00b0", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "130\u00b0"}
+{"gt": "0.5cm2", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "We are given that D, E, F are midpoints of BC, AD, and CE respectively, and the area of triangle ABC is 4 cm\u00b2. We are to find the area of triangle DEF.\n\n---\n\n**Step 1: Use properties of midpoints and area ratios.**\n\nLet\u2019s denote the area"}
+{"gt": "1", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "3"}
+{"gt": "yes", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "yes"}
+{"gt": "\\frac{4}{3}", "fuzzy_ok": 1, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "To find $\\tan \\angle BAC$, we need to consider the triangle $\\triangle ABC$ with vertices on the grid points.\n\nFrom the diagram:\n- Point $A$ is at the top-left corner of the grid.\n- Point $B$ is directly below $A$, so $AB$ is vertical.\n-"}
+{"gt": "3", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "To find the scale factor from $Q$ to $Q'$, we analyze the given diagram.\n\nWe are told that the distance from $Q$ to $C$ is 5 units, and the distance from $Q'$ to $C$ is $x + 5$ units. The total distance from $"}
+{"gt": "yes", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "yes"}
+{"gt": "125\u00b0", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "The problem states: \"As shown in the figure, \u2299O is the circumscribed circle of the quadrilateral ABCD, if \u2220O = 110.0, then the degree of \u2220C is ()\"\n\nHowever, the notation \"\u2220O = 110.0\""}
+{"gt": "65\u00b0", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "We are given a circle with center $O$, and points $A$, $B$, $C$ on the circle. We are told that $\\angle ACB = 25^\\circ$, and we are to find $\\angle BAO$.\n\n---\n\n### Step 1: Use the Inscribed Angle Theorem"}
+{"gt": "Yes", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "Yes"}
+{"gt": "No", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "No"}
+{"gt": "quarter", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 5, "resp": "quarter past"}
+{"gt": "yes", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "yes"}
+{"gt": "50\u00b0", "fuzzy_ok": 1, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "We are given a circle with center $O$, diameter $AB$, and tangents $DB$ and $DC$ touching the circle at $B$ and $C$ respectively. We are told that $\\angle ACE = 25^\\circ$, and we are to find $\\angle D$, that is, $\\"}
+{"gt": "0.30%", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 5, "resp": "0.30%"}
+{"gt": "Soft", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 6, "resp": "Soft / Uniform"}
+{"gt": "Solution B", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 3, "resp": "Solution B"}
+{"gt": "6", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 5, "resp": "(C) 6"}
+{"gt": "Yes", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "Yes"}
+{"gt": "12", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "We are given a triangle $ \\triangle RST $ with side lengths:\n\n- $ RS = 2z - 15 $\n- $ ST = 7 $\n- $ RT = 9 $\n\nWe are also told that angles at $ S $ and $ T $ are marked with the same pink arc, which"}
+{"gt": "it would decrease", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "increase"}
+{"gt": "\\frac { 20 } { 3 }", "fuzzy_ok": 1, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "We are given a right triangle $ \\triangle PRQ $, with right angle at $ R $, and a point $ T $ on $ PR $, and a point $ S $ on $ RQ $, such that $ TS $ is parallel to $ PQ $ (since both are slanted and the diagram"}
+{"gt": "yes", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "yes"}
+{"gt": "135", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "We are given a quadrilateral ABCD with angles labeled as follows:\n\n- At vertex A: angle is $3x^\\circ$\n- At vertex D: angle is $x^\\circ$\n- At vertex B: right angle (90\u00b0)\n- At vertex C: right angle (90\u00b0)\n\nWe"}
+{"gt": "no", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "no"}
+{"gt": "No", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "No"}
+{"gt": "13.0", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "We are given that the shaded region is a semicircle with diameter $ JL $, and the area $ A = 66 $ cm\u00b2. The center of the circle is $ K $, and the angle marked is $ 180^\\circ $, confirming that the shaded region is indeed a sem"}
+{"gt": "Yes", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "Yes"}
+{"gt": "40\u00b0", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "We are given that \u2220BAC = 110\u00b0, and that point A is symmetric to point B with respect to line MP, and symmetric to point C with respect to line NQ.\n\nThis means:\n- Line MP is the perpendicular bisector of segment AB (since A and B are symmetric w"}
+{"gt": "6", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "6"}
+{"gt": "6", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "\u6839\u636e\u52fe\u80a1\u5b9a\u7406\uff0c\u76f4\u89d2\u4e09\u89d2\u5f62\u7684\u4e24\u6761\u76f4\u89d2\u8fb9\u7684\u5e73\u65b9\u548c\u7b49\u4e8e\u659c\u8fb9\u7684\u5e73\u65b9\u3002\n\n\u5728\u56fe\u4e2d\uff0c\u4ee5\u76f4\u89d2\u4e09\u89d2\u5f62\u7684\u4e09\u8fb9\u5411\u5916\u4f5c\u6b63\u65b9\u5f62\uff0c\u9762\u79ef\u5206\u522b\u4e3a\uff1a\n- \u4e00\u4e2a\u6b63\u65b9\u5f62\u9762\u79ef\u4e3a 8\uff08\u5bf9\u5e94\u4e00\u6761\u76f4\u89d2\u8fb9\u7684\u5e73\u65b9\uff09\n- \ufffd"}
+{"gt": "Yes", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "Yes"}
+{"gt": "oblique", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "oblique"}
+{"gt": "Serrulate", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "Serrulate"}
+{"gt": "160\u221a{3}m", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "We are given a diagram where a hot air balloon is at point A, and we are viewing a building. The top of the building is at point B, and the bottom is at point C. Point D is the point on the building directly below A (same horizontal level as A). So, AD is the horizontal"}
+{"gt": "100\u00b0", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "We are given a circle with center $O$, and points $A$, $B$, $C$ on the circle such that $AB = AC$. Also, $\\angle ABC = 65^\\circ$, and we are to find $\\angle BOC$.\n\n---\n\nSince $AB = AC$, triangle $ABC"}
+{"gt": "5", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "To find the value of $ y $, we analyze the diagram which shows three horizontal lines cut by a transversal, with labeled expressions for the segments.\n\nThe key observation is that the three horizontal lines are parallel (as indicated by the arrows on the lines), and the transversal intersects them. The expressions given"}
+{"gt": "4:30", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 5, "resp": "5:30"}
+{"gt": "26", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "We are given that one diagonal of a rhombus is twice as long as the other, and the area is 169 square millimeters.\n\nLet the shorter diagonal be $d$. Then the longer diagonal is $2d$.\n\nThe formula for the area of a rhombus in terms of its diagon"}
+{"gt": "7", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "\u4ece\u56fe\u4e2d\u53ef\u4ee5\u770b\u51fa\uff0c\u56db\u8fb9\u5f62ABCD\u662f\u5706O\u7684\u5916\u5207\u56db\u8fb9\u5f62\uff0c\u5373\u56db\u8fb9\u5f62\u7684\u56db\u6761\u8fb9AB\u3001BC\u3001CD\u3001DA\u90fd\u662f\u5706\u7684\u5207\u7ebf\u3002\n\n\u6839\u636e**\u5706\u7684\u5916\u5207\u56db\u8fb9\u5f62\u7684\u6027\u8d28**\uff1a**\u4e24\u7ec4\u5bf9\u8fb9\u7684\u548c\u76f8\u7b49**"}
+{"gt": "\\frac{3\u221a{5}}{2}", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "We are given a right triangle $ \\triangle ABC $ with $ \\angle BAC = 90^\\circ $, and $ AD \\perp BC $, so $ AD $ is the altitude from $ A $ to hypotenuse $ BC $. Also, $ DE \\perp AB $, with $"}
+{"gt": "3mm", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "To find the distance from the center $O$ to the chord $AB$, we can use the perpendicular from the center to the chord, which bisects the chord.\n\nGiven:\n- Radius $OA = 5.0$\n- Chord $AB = 8.0$\n- Let $M$ be"}
+{"gt": "D", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 5, "resp": "B"}
+{"gt": "Mic", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "Mic"}
+{"gt": "grass", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "grass"}
+{"gt": "60", "fuzzy_ok": 1, "clean_ok": 0, "abstain": 1, "k": 5, "resp": "In a regular hexagon, all sides and angles are equal, and the center point O is equidistant from all vertices.\n\nA regular hexagon can be divided into 6 congruent equilateral triangles by drawing lines from the center O to each vertex (A, B, C, D, E, F)."}
+{"gt": "No", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "No"}
+{"gt": "5", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "We are given a circle with center $X$, and points $T$, $W$, $Y$ on the circle. The segments $\\overline{XT}$, $\\overline{XW}$, and $\\overline{XY}$ are radii of the circle.\n\nWe are told:\n- $\\overline"}
+{"gt": "25\u00b0", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "We are given that AB is the diameter of circle O, and \u2220BOC = 50\u00b0. We are to find \u2220A, which is \u2220BAC.\n\n---\n\n### Step 1: Understand the diagram\n\n- AB is the diameter \u2192 so point O is the center.\n- Points A"}
+{"gt": "2cm", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "\u6211\u4eec\u6765\u5206\u6790\u8fd9\u4e2a\u95ee\u9898\u3002\n\n\u5df2\u77e5\uff1a\n- \u5f39\u6027\u76ae\u7b4b\u539f\u957f AB = 8 cm\u3002\n- \u4e2d\u70b9 C \u88ab\u7ad6\u76f4\u5411\u4e0a\u62c9\u5347 3 cm \u5230\u70b9 D\u3002\n- \u76ae\u7b4b\u88ab\u62c9\u6210\u4e24\u6761\u7ebf\u6bb5 AD \u548c BD\uff0c\u4e14\u7531\u4e8e\u5bf9\u79f0\u6027\uff0cAD = BD"}
+{"gt": "R2", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 5, "resp": "R1"}
+{"gt": "0.0 - 0.2", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 5, "resp": "0.6 - 0.8"}
+{"gt": "75\u00b0", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "75\u00b0"}
+{"gt": "May '21", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 5, "resp": "May '21"}
+{"gt": "no", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "no"}
+{"gt": "grasses increases", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "grasses increases"}
+{"gt": "equal to", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 3, "resp": "equal to"}
+{"gt": "Yes", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "Yes"}
+{"gt": "mountain lion", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "mountain lion"}
+{"gt": "270", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "We are given a circle with center $L$, and diameters $\\overline{HK}$ and $\\overline{IG}$. We are to find the measure of arc $\\widehat{IHJ}$.\n\nFirst, note that since $\\overline{HK}$ and $\\overline{IG}$ are diameters"}
+{"gt": "Dynalang", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "Dynalang"}
+{"gt": "a logarithmic function", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "a logarithmic function"}
+{"gt": "no", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "no"}
+{"gt": "Yes", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 2, "resp": "No"}
+{"gt": "a trigonometric function", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "a trigonometric function"}
+{"gt": "\\frac { 40 } { 3 }", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "We are given a right triangle with legs 6 and 8, and hypotenuse z. The triangle is right-angled at the bottom left corner, with the vertical leg labeled 6 and the horizontal leg labeled 8. The hypotenuse is labeled z.\n\nWait, let me check the diagram again."}
+{"gt": "apples", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "apples"}
+{"gt": "no", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "no"}
+{"gt": "125*a^2 + 250", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 5, "resp": "We are given that in triangle ABC and triangle BED:\n\n- \u2220A \u2245 \u2220BED\n- \u2220C \u2245 \u2220D\n- AB : EB = 5 : 1\n- Area of triangle BED = 5a\u00b2 + 10\n\nWe are to find the area of"}
+{"gt": "50\u00b0", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "The given figure shows a circle with center O, and points A, B, C on the circumference. We are told that \u2220AOB = 100\u00b0, and we are to find \u2220ACB.\n\nNote that \u2220AOB is a central angle, and \u2220ACB is an"}
+{"gt": "2256", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "To find the area of the trapezoid, we use the formula:\n\n**Area = (1/2) \u00d7 (sum of the bases) \u00d7 height**\n\nFrom the diagram:\n- The two bases are 41 ft and 53 ft.\n- The height is 48 ft (the vertical"}
+{"gt": "Yes", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "Yes"}
+{"gt": "6", "fuzzy_ok": 0, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "\u5728\u25b3ABC\u4e2d\uff0c\u2220C\uff1d90\u00b0\uff0cAB\uff1d13\uff0cAC\uff1d5\u3002\n\n\u9996\u5148\uff0c\u6839\u636e\u52fe\u80a1\u5b9a\u7406\uff0c\u6c42BC\u7684\u957f\u5ea6\uff1a\n\nBC = \u221a(AB\u00b2 - AC\u00b2) = \u221a(13\u00b2 - 5\u00b2) = \u221a(169"}
+{"gt": "surplus", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "surplus"}
+{"gt": "40m", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "40m"}
+{"gt": "green", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "green"}
+{"gt": "no", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "no"}
+{"gt": "larger than", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 3, "resp": "smaller than"}
+{"gt": "\\frac { 5 } { 12 }", "fuzzy_ok": 1, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "In the given right triangle, we are to find tan X.\n\nWe are given:\n- The side opposite to angle X is 5.\n- The hypotenuse is 13.\n- The angle at the right angle is 90\u00b0.\n\nWe need to find the adjacent side to angle X to compute tan"}
+{"gt": "Yes", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "Yes"}
+{"gt": "quarter", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 5, "resp": "quarter to"}
+{"gt": "8", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 5, "resp": "We are given triangle ABC with AB = AC, so it is isosceles with AB = AC.\n\nE is the midpoint of AB, and D is the midpoint of AC.\n\nGiven: AE = x, and ED = 4.\n\nSince E is the midpoint of AB, then AB = 2 * AE"}
+{"gt": "55\u00b0", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "We are given a circle with center $O$, and points $A, B, C, E$ on the circle. We are told that $AB = AC$ and $\\angle BAC = 70^\\circ$. We are to find $\\angle AEC$.\n\n---\n\nSince $AB = AC$, triangle"}
+{"gt": "Science", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 8, "resp": "Code"}
+{"gt": "o'clock", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 5, "resp": "o'clock"}
+{"gt": "d", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 5, "resp": "To determine which angle is the greatest, we analyze the given figure and use geometric principles.\n\nWe are given:\n- A straight line with angles labeled: 60\u00b0, 70\u00b0, and e\u00b0.\n- Angles a\u00b0, b\u00b0, c\u00b0, d\u00b0 are formed by intersecting lines"}
+{"gt": "Yes", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "Yes"}
+{"gt": "No", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "No"}
+{"gt": "Yes", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "Yes"}
+{"gt": "Rec", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 6, "resp": "Rec"}
+{"gt": "Yes", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "Yes"}
+{"gt": "130\u00b0", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "130\u00b0"}
+{"gt": "No", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "No"}
+{"gt": "no", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "no"}
+{"gt": "A", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 5, "resp": "A"}
+{"gt": "50", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "We are given a diagram with points $W, X, Y, Z$ on a straight line, and points $G, H, I, J$ forming a triangle $JXY$ with a transversal line $GI$ intersecting it. We are told:\n\n- $ \\frac{IJ}{X"}
+{"gt": "Lower half", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "Upper half"}
+{"gt": "40\u00b0", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "We are given that AB is the diameter of circle O, and points C and D lie on the circle. We are told that \u2220ABD = 50\u00b0, and we are to find \u2220BCD.\n\n---\n\n**Step 1: Use the property of angles in a semicircle**\n\nSince"}
+{"gt": "No", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "No"}
+{"gt": "Yes", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "Yes"}
+{"gt": "decrease", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "decrease"}
+{"gt": "4", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "\u6211\u4eec\u6765\u5206\u6790\u8fd9\u4e2a\u51e0\u4f55\u9898\u3002\n\n\u5df2\u77e5\uff1a\u5728Rt\u25b3ABC\u4e2d\uff0c\u2220ABC = 90\u00b0\uff0c\u70b9D\u3001E\u3001F\u5206\u522b\u662f\u8fb9AB\u3001BC\u3001CA\u7684\u4e2d\u70b9\u3002\n\n\u6211\u4eec\u9700\u8981\u6c42BF\u7684\u503c\uff0c\u5df2\u77e5DE + BF = 8\u3002\n\n---\n\n\u9996\u5148\uff0c\u6211\u4eec\u753b\u51fa\u56fe\u5f62"}
+{"gt": "120\u00b0", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "We are given a quadrilateral ABCD with \u2220BAD = 120\u00b0, \u2220B = \u2220D = 90\u00b0, and we need to find point M on BC and N on CD such that the perimeter of triangle AMN is minimized. Then we are to find \u2220AM"}
+{"gt": "7", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "We are given an isosceles triangle $ABC$, with sides labeled:\n\n- $AB = 9x - 1$\n- $AC = 4x + 1$\n- $BC = 5x - 0.5$\n\nSince it is an isosceles triangle, two sides are"}
+{"gt": "no", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "no"}
+{"gt": "8", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "We are given that AD is the median of triangle ABC, and E is the midpoint of AD. The area of triangle ABE is 2, and we are to find the area of triangle ABC.\n\n---\n\n**Step 1: Understand the role of the median**\n\nSince AD is the median of triangle ABC, it"}
+{"gt": "horses", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "horses"}
+{"gt": "Yes", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "Yes"}
+{"gt": "Yes", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "Yes"}
+{"gt": "yes", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "yes"}
+{"gt": "10 \\sqrt { 3 }", "fuzzy_ok": 1, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "We are given a right triangle with:\n\n- One leg = 10 (horizontal side)\n- Hypotenuse = 20\n- The other leg = x (vertical side)\n- Right angle at the bottom left\n\nWe can use the Pythagorean theorem:\n\n> a\u00b2 + b\u00b2 = c\u00b2"}
+{"gt": "0.42", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "To find $\\tan M$, we use the definition of tangent in a right triangle:\n\n$$\n\\tan(\\theta) = \\frac{\\text{opposite}}{\\text{adjacent}}\n$$\n\nIn triangle $PNM$, angle $P$ is the right angle, so the sides are:\n\n- Opposite"}
+{"gt": "shortage", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "shortage"}
+{"gt": "Yes", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "Yes"}
+{"gt": "20\u00b0", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "We are given:\n\n- Circle with center $O$.\n- Points $A$, $B$, $C$ on the circle.\n- $AO \\parallel BC$.\n- $\\angle AOB = 40^\\circ$.\n- We are to find $\\angle OAC$.\n\n---\n\n### Step 1"}
+{"gt": "LangRoom", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 6, "resp": "VLN"}
+{"gt": "decrease", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "decrease"}
+{"gt": "2", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "2"}
+{"gt": "4.0", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 7, "resp": "4.0"}
+{"gt": "Frogs", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "Frogs"}
+{"gt": "32", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "We are given a circle with center $D$, and a point $X$ outside the circle. Lines $XA$ and $XE$ are tangent to the circle at points $A$ and $E$ respectively. The line $XT$ passes through the center $D$ and intersects the circle at $T$"}
+{"gt": "children's class", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "children's class"}
+{"gt": "40\u00b0", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "We are given that \u25b3ABD \u224c \u25b3ACE, and \u2220AEC = 110\u00b0. We are to find \u2220DAE.\n\nSince \u25b3ABD \u224c \u25b3ACE, corresponding angles and sides are equal.\n\nIn particular, the correspondence is:\n- A \u2192 A"}
+{"gt": "6 \\sqrt { 5 }", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "We are given a right triangle with legs labeled $y$ and $z$, and hypotenuse 12. There is also a smaller right triangle inside, with one leg labeled 3 and the other leg labeled $x$, and it shares the right angle with the larger triangle.\n\nFrom the diagram, it appears"}
+{"gt": "20.25", "fuzzy_ok": 1, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "We are given that $\\triangle DEF \\sim \\triangle CBF$, with:\n\n- Perimeter of $\\triangle CBF = 27$\n- $DF = 6$\n- $FC = 8$\n\nWe are to find the perimeter of $\\triangle DEF$.\n\n---\n\nSince the triangles are similar, the ratio"}
+{"gt": "no", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 2, "resp": "yes"}
+{"gt": "40\u00b0", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "\u6211\u4eec\u5df2\u77e5\uff1a\u25b3ABC\u4e2d\uff0cAB = AC\uff0c\u6240\u4ee5\u25b3ABC\u662f\u7b49\u8170\u4e09\u89d2\u5f62\uff0c\u2220B = \u2220C\u3002\n\nBD\u662f\u2220ABC\u7684\u5e73\u5206\u7ebf\uff0c\u6240\u4ee5\u2220ABD = \u2220DBC = (1/2)\u2220B\u3002\n\n\u5df2\u77e5\u2220BDC = 75\u00b0"}
+{"gt": "9", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "We are given a triangle $QRS$ with points $P$ on $QS$ and $T$ on $SR$, and we are told:\n\n- $ST = 8$\n- $TR = 4$\n- $PT = 6$\n\nWe are to find $QR$.\n\nFirst, note that $"}
+{"gt": "decrease", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "decrease"}
+{"gt": "quarter", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 5, "resp": "quarter past"}
+{"gt": "no", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 2, "resp": "yes"}
+{"gt": "Yes", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "Yes"}
+{"gt": "0.6", "fuzzy_ok": 1, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "\u5728Rt\u25b3ABC\u4e2d\uff0c\u2220C\uff1d90\u00b0\uff0cAC\uff1d6\uff0cBC\uff1d8\u3002\n\n\u9996\u5148\uff0c\u6839\u636e\u52fe\u80a1\u5b9a\u7406\uff0c\u6c42\u659c\u8fb9AB\u7684\u957f\u5ea6\uff1a\n\nAB = \u221a(AC\u00b2 + BC\u00b2) = \u221a(6\u00b2 + 8\u00b2) = \u221a(3"}
+{"gt": "2", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "3"}
+{"gt": "smaller than", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 3, "resp": "smaller than"}
+{"gt": "decrease", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "decrease"}
+{"gt": "60-k", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 5, "resp": "We are given a triangle ABC with side AC lying on line $ \\ell $, and angles at A and C are labeled as $ (120 - k)^\\circ $ and $ 120^\\circ $, respectively.\n\nWe are to find angle $ x $ (which is angle $ \\angle"}
+{"gt": "No", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "No"}
+{"gt": "No", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "No"}
+{"gt": "\\frac{4}{5}", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "In the right triangle $ \\triangle ABC $, with $ \\angle C = 90^\\circ $, we are given:\n\n- $ AC = 8.0 $\n- $ AB = 10.0 $\n\nNote: $ AB $ is the hypotenuse since it is opposite the right angle $"}
+{"gt": "yes", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "yes"}
+{"gt": "8", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "The problem states that D is the incenter of triangle ABC, and EF is parallel to BC, intersecting AB at E and AC at F. We are given that BE + CF = 8, and we are to find the length of EF.\n\nSince D is the incenter, it is the intersection point of"}
+{"gt": "no", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "no"}
+{"gt": "grasshoppers", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "grasshoppers"}
+{"gt": "Yes", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "Yes"}
+{"gt": "80", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "80"}
+{"gt": "16*\\pi/5", "fuzzy_ok": 1, "clean_ok": 0, "abstain": 1, "k": 5, "resp": "To find the length of the arc, we use the formula:\n\n**Arc Length = r \u00d7 \u03b8**\n\nwhere:\n- r is the radius,\n- \u03b8 is the central angle in **radians**.\n\nFrom the figure, we see that the central angle is **x\u00b0**, and we are given **x"}
+{"gt": "yes", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "yes"}
+{"gt": "Crickets", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "Crickets"}
+{"gt": "4", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 6, "resp": "5"}
+{"gt": "yes", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "yes"}
+{"gt": "no", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "no"}
+{"gt": "110", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "We are given a circle with points $A$, $C$, and $D$ on the circle, and a point $B$ outside the circle such that lines $BA$ and $BC$ are tangent to the circle at $A$ and $C$ respectively. The minor arc $\\widehat{AC}$"}
+{"gt": "yes", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "yes"}
+{"gt": "PDE-Refiner", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "PDE-Refiner"}
+{"gt": "crickets", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "crickets"}
+{"gt": "half", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 5, "resp": "quarter past"}
+{"gt": "10", "fuzzy_ok": 1, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "In a rhombus (diamond), the diagonals bisect each other at right angles.\n\nGiven:\n- Diagonal AC = 12.0 \u2192 so half of AC = 6.0\n- Diagonal BD = 16.0 \u2192 so half of BD = 8.0\n\nThese"}
+{"gt": "No", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "No"}
+{"gt": "60*\\degree", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 5, "resp": "We are given that triangle ABC is inscribed in a circle with center O and diameter AC. Also, AB = AO.\n\nSince AC is the diameter, and O is the center, then AO and OC are both radii of the circle. So, AO = OC = radius.\n\nGiven AB = AO, it follows"}
+{"gt": "50\u00b0", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "We are given:\n\n- AB is the diameter of circle \u2299O.\n- Point C is on the circle.\n- AE is tangent to the circle at point A.\n- BC is extended to meet AE at point D.\n- \u2220AOC = 80\u00b0.\n- We are to find \u2220ADB"}
+{"gt": "10\u00b0", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "We are given that triangle ABC is equilateral, so all its angles are 60\u00b0, and all sides are equal: AB = BC = CA.\n\nPoint D is on the extension of CB beyond B, and point E is on segment BC. We are told that DA = DE, and \u2220DAB"}
+{"gt": "24", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "\u5728\u5e73\u884c\u56db\u8fb9\u5f62ABCD\u4e2d\uff0c\u5bf9\u8fb9\u76f8\u7b49\uff0c\u5373AB = CD\uff0cAD = BC\u3002\n\n\u5df2\u77e5AB = 5\uff0cAD = 7\uff0c\n\n\u6240\u4ee5\u5468\u957f = AB + BC + CD + DA = 5 + 7 + 5 + 7 = 24\u3002\n\n\u56e0\u6b64"}
+{"gt": "Yes", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "Yes"}
+{"gt": "50\u00b0", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "50\u00b0"}
+{"gt": "no", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "no"}
+{"gt": "2\u221a{3}", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "We are given a circle with center $O$ and radius 2.0.  \n$AB$ is a diameter, so $AB$ passes through the center $O$.  \nPoint $C$ is on the extended line of $AB$, so $A-O-B-C$ are colinear, with $O"}
+{"gt": "No", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "No"}
+{"gt": "No", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "No"}
+{"gt": "Yes", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "Yes"}
+{"gt": "52", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "We are given that quadrilateral $ABDC$ is a rectangle, and we are told that $m\\angle1 = 38^\\circ$. We are to find $m\\angle2$.\n\nFirst, note that in rectangle $ABDC$, the diagonals $AC$ and $BD$ intersect at"}
+{"gt": "No", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "No"}
+{"gt": "8", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "We are given that in triangle $ \\triangle ABC $, points $ D $ and $ E $ lie on sides $ AB $ and $ AC $ respectively, and $ DE \\parallel BC $. Also, $ AD:DB = 1.0:3.0 $, and $ AE = 2.0"}
+{"gt": "3", "fuzzy_ok": 1, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "The distance from the center O to the chord AB is 3.\n\n**Explanation:**\n\nIn a circle, the perpendicular from the center to a chord bisects the chord.\n\nGiven:\n- Radius of the circle, $ r = 5.0 $\n- Length of chord AB, $ AB = 8."}
+{"gt": "garter snakes would decrease", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "garter snakes would decrease"}
+{"gt": "yes", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "yes"}
+{"gt": "\\frac{4}{5}", "fuzzy_ok": 1, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "In the right triangle $ \\triangle ABC $, with $ \\angle C = 90^\\circ $, we are given:\n\n- $ AC = 4.0 $ (one leg)\n- $ AB = 5.0 $ (hypotenuse, since it's opposite the right angle)\n\nWe are"}
+{"gt": "42.2%-62.6%", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 5, "resp": "42.2%-62.6%"}
+{"gt": "3 main veins", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "parallel"}
+{"gt": "kril", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "herring"}
+{"gt": "No", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "No"}
+{"gt": "yes", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 2, "resp": "no"}
+{"gt": "40\u00b0", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "The problem states that AB is the diameter of circle O, point C is on the circle, and \u2220C = 20\u00b0. We are to find \u2220BOC.\n\nFirst, note that \u2220C likely refers to \u2220ACB, the angle at point C in triangle ABC. Since AB"}
+{"gt": "5\u221a{3}m", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "We are given a diagram where:\n\n- Point A and B are on the ground, with AB = 10 m.\n- Point D is the base of the tree CD, so CD is perpendicular to the ground (CD \u22a5 AD).\n- From point A, the angle of elevation to the top of the tree"}
+{"gt": "slide", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 3, "resp": "slide"}
+{"gt": "Yes", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "Yes"}
+{"gt": "55\u00b0", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "We are given:\n\n- AB \u2225 CD\n- BD \u22a5 CF, with foot at B \u2192 so \u2220ABD = 90\u00b0 (since BD is perpendicular to CF, and CF passes through B)\n- \u2220ABF = 35\u00b0\n- We are to find \u2220B"}
+{"gt": "quarter", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 5, "resp": "quarter to"}
+{"gt": "No", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "No"}
+{"gt": "70\u00b0", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "70\u00b0"}
+{"gt": "No", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "No"}
+{"gt": "9\u03c0", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "We are given two concentric circles (same center $O$), and a chord $AB$ of the larger circle that is tangent to the smaller circle at point $C$. The length of chord $AB$ is 6.0. We are to find the area of the ring (annulus), which is"}
+{"gt": "12", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "We are given that D and E are midpoints of AB and BC respectively in triangle ABC, and the perimeter of triangle BDE is 6. We are to find the perimeter of triangle ABC.\n\n---\n\n**Step 1: Understand the configuration**\n\n- D is the midpoint of AB \u2192 AD = DB = (1"}
+{"gt": "3/11", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "3/11"}
+{"gt": "D", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 5, "resp": "E"}
+{"gt": "Yes", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "Yes"}
+{"gt": "yes", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "yes"}
+{"gt": "Insects", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "Mouse and cricket"}
+{"gt": "Yes", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "Yes"}
+{"gt": "16", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "We are given a circle with center $O$, and two tangents from point $P$: $PA$ and $PB$, with $PA = 8$. Points $C$ and $D$ are on $PA$ and $PB$ respectively, and the line segment $CD$ is always tangent to the"}
+{"gt": "no", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 2, "resp": "yes"}
+{"gt": "yes", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "yes"}
+{"gt": "No", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "No"}
+{"gt": "Yes", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "Yes"}
+{"gt": "6", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "We are given a right triangle $ \\triangle ABC $ with $ \\angle BAC = 90^\\circ $, and we construct three equilateral triangles outwardly on each side: $ \\triangle A'BC $ on side $ BC $, $ \\triangle AB'C $ on side $ AB $, and"}
+{"gt": "yes", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "yes"}
+{"gt": "No", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "No"}
+{"gt": "bottom", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "bottom"}
+{"gt": "Soft MoE", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "Soft MoE"}
+{"gt": "26\u00b0", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "We are given that \u25b3ABC \u224c \u25b3DEF, CD bisects \u2220BCA, \u2220A = 22\u00b0, and \u2220CGF = 88\u00b0. We are to find \u2220E.\n\nSince \u25b3ABC \u224c \u25b3DEF, corresponding angles are equal"}
+{"gt": "no", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 2, "resp": "yes"}
+{"gt": "2", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 5, "resp": "4"}
+{"gt": "3", "fuzzy_ok": 1, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "We are given that lines $l$, $m$, and $n$ are the perpendicular bisectors of triangle $PQR$ and they meet at point $T$. This means that $T$ is the **circumcenter** of triangle $PQR$.\n\nA key property of the circumcenter is that it"}
+{"gt": "frontal lobe", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "frontal lobe"}
+{"gt": "yes", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "yes"}
+{"gt": "yes", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "yes"}
+{"gt": "5.8", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "To find the length $x = AB$ in triangle $ABC$, we can use the **Law of Sines**.\n\nWe are given:\n- Angle at $A$: $\\angle A = 97^\\circ$\n- Angle at $C$: $\\angle C = 21^\\circ$\n- Side $"}
+{"gt": "Connor", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "Connor"}
+{"gt": "4", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "\u5728\u77e9\u5f62ABCD\u4e2d\uff0c\u5bf9\u89d2\u7ebfAC\u4e0eBD\u76f8\u4ea4\u4e8e\u70b9O\u3002\n\n\u6839\u636e\u77e9\u5f62\u7684\u6027\u8d28\uff1a\n- \u5bf9\u89d2\u7ebf\u76f8\u7b49\uff1aAC = BD\n- \u5bf9\u89d2\u7ebf\u4e92\u76f8\u5e73\u5206\uff1aAO = OC = BO = OD = $\\frac{1}{2}$BD\n\n\u5df2\u77e5AB"}
+{"gt": "13\u00b0", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "We are given a right triangle $ \\triangle ABC $ with $ \\angle BAC = 90^\\circ $. It is rotated **clockwise** around point $ A $ by $ 90^\\circ $ to obtain $ \\triangle AB'C' $, where $ B' $ is the image of $"}
+{"gt": "20\u221a{2}\u6d77\u91cc", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "We are given:\n\n- A ship sails from point A due east at 40.0 nautical miles per hour.\n- It arrives at point B at 9:30 AM, meaning it has sailed for 30 minutes = 0.5 hours.\n- So, distance AB = 40"}
+{"gt": "yes", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "yes"}
+{"gt": "no", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "no"}
+{"gt": "iiki", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "iiki"}
+{"gt": "2", "fuzzy_ok": 1, "clean_ok": 0, "abstain": 1, "k": 5, "resp": "We are given triangle $ABC$ with $AC = 6$, $BC = 3$, and point $P$ on segment $AB$ such that $CP \\perp AB$. We are to find which of the given lengths could be the length of $CP$.\n\nThis is a classic problem involving the"}
+{"gt": "A", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 5, "resp": "B"}
+{"gt": "no", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "no"}
+{"gt": "No", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "No"}
+{"gt": "2", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 5, "resp": "Looking at the figure, we have two concentric circles? No, not concentric, because the centers are different: P is center of larger circle, Q is center of smaller circle, and P, Q, R are colinear.\n\nR is a point on the larger circle, since it's on the circumference ("}
+{"gt": "38", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "To determine which perimeter cannot be achieved, we use the **Triangle Inequality Theorem**.\n\nGiven two sides: 12 and 7.\n\nLet the third side be **x**.\n\nBy the Triangle Inequality Theorem:\n- The sum of any two sides must be greater than the third side.\n\nSo:"}
+{"gt": "no", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "no"}
+{"gt": "62.5", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 5, "resp": "We are given a large equilateral triangle composed of 25 small congruent equilateral triangles. The area of triangle DFH is 10, and we are to find the area of triangle AFK.\n\nFirst, observe the structure. The large triangle is divided into 25 small equilateral triangles. Since"}
+{"gt": "36", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "\u6211\u4eec\u5df2\u77e5\u5728\u25b3ABC\u4e2d\uff0cD\u662fBC\u4e0a\u7684\u70b9\uff0cBD = 2\uff0cDC = 1\uff0c\u6240\u4ee5BC = BD + DC = 2 + 1 = 3\u3002\n\n\u53c8\u5df2\u77e5S\u25b3ACD = 12\u3002\n\n\u7531\u4e8e\u25b3ABD\u548c\u25b3ACD\u6709\u76f8\u540c\u7684\u9ad8\uff08"}
+{"gt": "o'clock", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 5, "resp": "o'clock"}
+{"gt": "Yes", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "Yes"}
+{"gt": "2", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "We are given a parallelogram $ABCD$, with $AB = 3$, $AD = 4$. The angle bisector of $\\angle ABC$ intersects $AD$ at point $E$, and the angle bisector of $\\angle BCD$ intersects $AD$ at point $F$. We are"}
+{"gt": "57", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "We are given that $ m\\angle 1 = 123^\\circ $, and we need to find $ m\\angle 14 $.\n\nLooking at the figure, we see two intersecting lines (or transversals) crossing each other, forming multiple angles. The angles are labeled from"}
+{"gt": "145\u00b0", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "145\u00b0"}
+{"gt": "3", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "The shaded region consists of triangles ABE and CDE.\n\nIn parallelogram ABCD, the diagonals bisect each other, and the area is divided into four triangles of equal area if E is the intersection point of the diagonals. However, the problem states that E is **any** point in the paralle"}
+{"gt": "120\u00b0", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "120\u00b0"}
+{"gt": "\\frac { 5 } { 3 } \\pi", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "We are given that triangle $ \\triangle IWN $ is equilateral and $ WN = 5 $.\n\nSince $ I $ is the center of the circle (as indicated by the diagram and standard notation), and $ W $ and $ N $ are points on the circle, the segments $ IW $ and $ IN"}
+{"gt": "12", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 5, "resp": "We are given that line AB is tangent to circle O at point A, and OB = 10. Also, AB = 8.\n\nSince AB is tangent to the circle at A, the radius OA is perpendicular to the tangent line AB. Therefore, triangle OAB is a right triangle with right angle at A"}
+{"gt": "25\u00b0", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "We are given:\n\n- CD is the diameter of circle \u2299O.\n- Chord DE is parallel to OA (i.e., DE \u2225 OA).\n- \u2220D = 50\u00b0. (This likely refers to \u2220ADE or \u2220CDE? But in context, since D is on"}
+{"gt": "6", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "10"}
+{"gt": "2.4", "fuzzy_ok": 1, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "\u6211\u4eec\u5df2\u77e5\u83f1\u5f62ABCD\uff0c\u5bf9\u89d2\u7ebfAC = 4\uff0cBD = 3\uff0cBH \u22a5 AD \u4e8e\u70b9H\uff0c\u6c42BH\u7684\u957f\u3002\n\n---\n\n**\u7b2c\u4e00\u6b65\uff1a\u5229\u7528\u83f1\u5f62\u7684\u6027\u8d28**\n\n\u83f1\u5f62\u7684\u5bf9\u89d2\u7ebf\u4e92\u76f8\u5782\u76f4\u5e73\u5206\u3002\n\n\u6240\u4ee5\uff0c\u5bf9\u89d2\u7ebfAC\u548cBD"}
+{"gt": "B", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 5, "resp": "C"}
+{"gt": "Yes", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "Yes"}
+{"gt": "No", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "No"}
+{"gt": "Yes", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "Yes"}
+{"gt": "yes", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "yes"}
+{"gt": "Yes", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "Yes"}
+{"gt": "No", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "No"}
+{"gt": "a trigonometric function", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "a trigonometric function"}
+{"gt": "quarter", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 5, "resp": "quarter past"}
+{"gt": "8", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "We are given a right triangle with one angle labeled $60^\\circ$, the side opposite the right angle (the hypotenuse) is labeled $h$, and the side adjacent to the $60^\\circ$ angle (the vertical leg) is labeled $4$.\n\nIn a right triangle, we can"}
+{"gt": "Yes", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "Yes"}
+{"gt": "3.5", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "We are given:\n\n- AB = 10.0\n- M is the midpoint of AB \u2192 so AM = MB = 5.0\n- C is the midpoint of MB \u2192 so MC = CB = 2.5\n- N is a point on AM, and MN = 1.0"}
+{"gt": "04/02/2005", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 5, "resp": "04/02/2005"}
+{"gt": "No", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "No"}
+{"gt": "5", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 5, "resp": "We are given that ABCE is a square with area 1, and CDE is an equilateral triangle attached to side CE of the square.\n\n---\n\n**Step 1: Find the side length of the square.**\n\nArea of square = side\u00b2 = 1  \n\u2192 side = \u221a1 = 1"}
+{"gt": "34m", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "We are given a right trapezoid cross-section of a dam, with:\n\n- Top width $ BC = 6.0 $ m\n- Height $ AB = 14.0 $ m (since it's a right trapezoid, AB is perpendicular to both bases)\n- Slope of"}
+{"gt": "No", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "No"}
+{"gt": "58", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "67"}
+{"gt": "17", "fuzzy_ok": 1, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "We are given parallelogram $ABCD$ with diagonals $AC$ and $BD$ intersecting at point $O$. We are told:\n\n- $AC = 12.0$\n- $BD = 8.0$\n- $AB = 7.0$\n\nWe are to find the"}
+{"gt": "tokyo", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "tokyo"}
+{"gt": "decrease", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "decrease"}
+{"gt": "55", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "The problem shows a circle with center $L$, and two chords intersecting at a point on the circle. The angle at the intersection point is labeled $(2x - 27)^\\circ$, and another angle is labeled $83^\\circ$. The problem also states that $\\overline{CH} \\"}
+{"gt": "increase", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "increase"}
+{"gt": "No", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "No"}
+{"gt": "increase in phytoplankton", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "increase in phytoplankton"}
+{"gt": "0-5", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 5, "resp": "0-5"}
+{"gt": "Yes", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "Yes"}
+{"gt": "d + e = f + j", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 5, "resp": "c + f = f + b"}
+{"gt": "Grasshoppers will decrease.", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "Grasshoppers will decrease."}
+{"gt": "No", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "No"}
+{"gt": "110\u00b0", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "We are given a rhombus $ABCD$ with $\\angle DAB = 40^\\circ$. Since it's a rhombus, all sides are equal, and opposite angles are equal, and adjacent angles are supplementary.\n\nSo, $\\angle ABC = 180^\\circ - 40"}
+{"gt": "yes", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "yes"}
+{"gt": "no", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 2, "resp": "yes"}
+{"gt": "27", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "To find the area of parallelogram ABCD, we use the formula:\n\n**Area = base \u00d7 height**\n\nWe are given:\n- AB = 6.0 (one side)\n- BC = 9.0 (adjacent side)\n- \u2220B = 30.0\u00b0\n\nIn a"}
+{"gt": "2*\\sqrt{3}", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 5, "resp": "The triangle shown is a right triangle with one angle labeled 60\u00b0 and the side opposite the right angle (the hypotenuse) labeled $x$. The side adjacent to the 60\u00b0 angle is labeled 6.\n\nIn a right triangle, the side opposite a 60\u00b0 angle is $\\sqrt"}
+{"gt": "2\u221a{2}", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "We are given a circle with center $O$, and triangle $ABC$ inscribed in it. We are told that $AB = BC = 4$, and that arc $AB$ is folded down along chord $AB$ to intersect $BC$ at point $D$, and that $D$ is the midpoint"}
+{"gt": "1 & 3", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 5, "resp": "2 & 4"}
+{"gt": "No", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "No"}
+{"gt": "C", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 5, "resp": "To find the image of the point (8, -2) under a **clockwise rotation by 270\u00b0 about the origin**, we can use the rule for such a rotation.\n\n---\n\n### Step 1: Understand the rotation\n\nA **clockwise rotation by 270\u00b0** about the origin"}
+{"gt": "120\u00b0", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "120\u00b0"}
+{"gt": "\\frac{9}{5}", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "We are given a diagram where point $P$ is a light source directly above the crossbar $AB$, and the shadow of $AB$ is $CD$. Since $AB \\parallel CD$, the triangles $\\triangle PAB$ and $\\triangle PCD$ are similar (by AA similarity, as corresponding angles are"}
+{"gt": "3", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "The figure shows a triangle with a line segment drawn from the vertex between the sides labeled $9x - 2$ and $10$, intersecting the opposite side (labeled $6x + 2$) at a point that divides it into two parts: one of length $8$ and the other"}
+{"gt": "No", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "No"}
+{"gt": "No", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "No"}
+{"gt": "16 \\sqrt { 5 }", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "We are given a right triangle with legs 8 and 16, and hypotenuse y. The right angle is between the legs of length 8 and 16.\n\nWe can use the Pythagorean theorem:\n\ny\u00b2 = 8\u00b2 + 16\u00b2\n\ny\u00b2 = 64"}
+{"gt": "No", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 2, "resp": "Yes"}
+{"gt": "yes", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "yes"}
+{"gt": "No", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "No"}
+{"gt": "yes", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "yes"}
+{"gt": "10", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "We are given a diagram with a circle, two tangent lines from an external point, and an angle formed by those tangents. The angle between the two tangents is labeled as $3x^\\circ$, and the angle between one tangent and a chord is labeled as $30^\\circ$. Also, there is"}
+{"gt": "Grasshopper", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "Grasshopper"}
+{"gt": "Yes", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "Yes"}
+{"gt": "No", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "No"}
+{"gt": "32\u00b0", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "32\u00b0"}
+{"gt": "78", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "The perimeter of a parallelogram is the sum of the lengths of all its sides. In a parallelogram, opposite sides are equal in length.\n\nFrom the diagram:\n- One pair of opposite sides is 23 ft each.\n- The other pair of opposite sides is 16 ft each.\n\nSo,"}
+{"gt": "No", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "No"}
+{"gt": "15", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "15"}
+{"gt": "7.5", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "We are given a triangle RTS with a line segment LW intersecting the sides. The points are labeled as R, L, T, W, S. From the diagram, it appears that L is on RT, W is on RS, and LW is a line segment connecting them. The arrows suggest that LW is parallel"}
+{"gt": "130", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "We are given a circle with center $M$, and two chords: $FG$ and $HJ$. The chord $FG$ intersects chord $HJ$ at point $N$, and we are told that $FL = 24$ and $HJ = 48$. Also, $m\\"}
+{"gt": "65\u00b0", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "We are given a circle with center $O$, and tangents $PA$ and $PB$ from point $P$, touching the circle at $A$ and $B$ respectively. Also, $AC$ is the diameter, and we are given $\\angle P = 50^\\circ$. We are to"}
+{"gt": "\\frac{20}{7}cm", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "We are given triangle $ \\triangle ABC $ with a line segment $ DE $ parallel to $ BC $, intersecting $ AB $ at $ D $ and $ AC $ at $ E $. We are given:\n\n- $ AB = 7.0 $\n- $ AC = 5.0 $\n- $ AD"}
+{"gt": "Seahorses would decrease", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "Seahorses would decrease"}
+{"gt": "2", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "We are given that PA is a tangent to circle O at point A, OP = 4, and \u2220APO = 30\u00b0. We are to find the radius of the circle.\n\nSince PA is tangent to the circle at A, the radius OA is perpendicular to the tangent PA at the point of contact"}
+{"gt": "Population will decrease", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "Population will decrease"}
+{"gt": "a polynomial", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "a polynomial"}
+{"gt": "decrease", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "decrease"}
+{"gt": "7.2", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "The diagram shows a circle with two secant lines intersecting outside the circle. One secant has a segment of length 15 from the external point to the first intersection with the circle, and the other secant has a segment of length 8 from the external point to the second intersection with the circle. The"}
+{"gt": "No", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "No"}
+{"gt": "Yes", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "Yes"}
+{"gt": "Increase", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "Increase"}
+{"gt": "(0, 0)", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 3, "resp": "(0, 0)"}
+{"gt": "no", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "no"}
+{"gt": "Yes", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "Yes"}
+{"gt": "July and August", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 3, "resp": "July and August"}
+{"gt": "Solution A", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 3, "resp": "Solution A"}
+{"gt": "decrease", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "decrease"}
+{"gt": "Yes", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "Yes"}
+{"gt": "40\u00b0", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "We are given:\n\n- AB is the diameter of circle \u2299O.\n- Point D lies on the extended line of AB.\n- DC is tangent to the circle at point C.\n- \u2220A = 25\u00b0.\n- We are to find \u2220D.\n\n---\n\n### Step 1: Understand the"}
+{"gt": "Yes", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "Yes"}
+{"gt": "no", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 2, "resp": "yes"}
+{"gt": "18.79", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "We are given a triangle $ \\triangle JLN $ with incenter $ Q $, and we are told that $ Q $ is the incenter, meaning it is the point where the angle bisectors meet and is equidistant from all sides. We are given two perpendicular distances from $ Q $ to the sides"}
+{"gt": "40", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "We are given a rhombus $LMPQ$, with:\n\n- $m\\angle QLM = 2x^2 - 10$\n- $m\\angle QPM = 8x$\n- $MP = 10$\n- Need to find the **perimeter**.\n\n---\n\n###"}
+{"gt": "A", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "D"}
+{"gt": "Yes", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "Yes"}
+{"gt": "18", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "We are given that $K$ is the centroid of $\\triangle CDF$, and $DK = 16$. We are to find the length of $CD$.\n\n---\n\n### Key Concept: Centroid divides medians in a 2:1 ratio.\n\nThe centroid $K$ of a triangle divides each median"}
+{"gt": "30\u221a{3}m", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "We are given a diagram where AB is the width of the river (perpendicular to the bank), and points C, D, B are on the same straight line (the bank). We are told:\n\n- \u2220ACB = 30\u00b0\n- \u2220ADB = 60\u00b0\n- CD"}
+{"gt": "The number of aquatic crustaceans will d", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "The number of aquatic crustaceans will decrease"}
+{"gt": "100", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "100"}
+{"gt": "12", "fuzzy_ok": 1, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "We are given triangle $ABC$, with $N$ the midpoint of $BC$, $AM$ is the angle bisector of $\\angle BAC$, and $BM \\perp AM$. Also, $AB = 8$, $MN = 2$, and we are to find $AC$.\n\n---\n\nLet"}
+{"gt": "2", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 6, "resp": "3"}
+{"gt": "k + p + s", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 5, "resp": "To solve this, we analyze the figure with parallel lines $ \\ell \\parallel m $, and the transversals intersecting them.\n\nWe are to find which combination of angles must equal 180\u00b0.\n\nLet\u2019s label the angles as given:\n- At the top vertex, we have angle $ s^\\"}
+{"gt": "no", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "no"}
+{"gt": "4.29", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "We are given a circle with center $B$, and a vertical diameter $AF$ of length 8. So, the radius of the circle is $4$ (since radius = diameter / 2 = 8 / 2 = 4).\n\nWe are also given that $CE = 13.5"}
+{"gt": "No", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 2, "resp": "Yes"}
+{"gt": "50\u00b0", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "We are given a circle with center $O$, and $AB$ is the diameter. Point $C$ is on the circle, so triangle $ABC$ is inscribed in the circle with $AB$ as the diameter.\n\nWe are told that $\\angle A = 40^\\circ$, and we are to"}
+{"gt": "Acuminate", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "Rounded"}
+{"gt": "2:2", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 5, "resp": "2:2"}
+{"gt": "Yes", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 2, "resp": "No"}
+{"gt": "120", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "We are given a circle with center $C$, and three points $M$, $N$, and $L$ on the circle. We are told that $\\angle MCN = 60^\\circ$, and we are given two other angles: $\\angle RCM = (x - 1)^\\circ$"}
+{"gt": "3", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "The diagram shows a circle with a tangent segment of length 9 and a secant segment that intersects the circle at two points. The secant segment is divided into two parts: an external part of length x and a total length of 24 + y, but the diagram labels the entire secant segment as"}
+{"gt": "25\u00b0", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "We are given:\n\n- Line $a \\parallel b$\n- Point $B$ is on line $b$\n- $AB \\perp BC$, so $\\angle ABC = 90^\\circ$\n- $\\angle 2 = 65^\\circ$\n- We are to find $\\angle 1$"}
+{"gt": "7", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "In a parallelogram, the diagonals bisect each other. This means that each diagonal is cut into two equal parts by the point where they intersect.\n\nLooking at the diagram:\n- One diagonal is from W to Y, and its segments are labeled 8 and 6. So the full length of diagonal W"}
+{"gt": "0.96", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "In the right triangle $ABC$, with right angle at $C$, we are given:\n\n- $a = BC = 14$ (opposite to angle $A$)\n- $b = AC = 48$ (adjacent to angle $A$)\n- $c = AB = 5"}
+{"gt": "Yes", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "Yes"}
+{"gt": "44", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "To find the perimeter of the parallelogram, we need to find the lengths of all four sides. In a parallelogram, opposite sides are equal, so if we can find the length of one pair of sides, we can double it.\n\nWe are given:\n- One side is 12 m.\n-"}
+{"gt": "The population of tuna will increase", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "The population of tuna will increase"}
+{"gt": "No", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "No"}
+{"gt": "Superior lobes", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "Inferior lobes"}
+{"gt": "D", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 6, "resp": "B"}
+{"gt": "Left", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 5, "resp": "Not possible"}
+{"gt": "Yes", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "Yes"}
+{"gt": "semionotus", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "semionotus"}
+{"gt": "No", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "No"}
+{"gt": "salami", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "salami"}
+{"gt": "\\frac{4}{5}", "fuzzy_ok": 1, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "We are given a navigation problem with a passenger ship moving from point P to point B, and we are to find tan\u2220BAP.\n\n---\n\n**Step 1: Understand the directions and positions**\n\n- Point P is the starting point.\n- Lighthouse A is located 50.0 nautical miles from P"}
+{"gt": "no", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "no"}
+{"gt": "No", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "No"}
+{"gt": "yes", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "yes"}
+{"gt": "red", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 3, "resp": "red"}
+{"gt": "(b)", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 5, "resp": "(b)"}
+{"gt": "Yes", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "Yes"}
+{"gt": "12", "fuzzy_ok": 1, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "We are given a rhombus (diamond) ABCD with \u2220BAD = 120\u00b0, and diagonal AC = 3.0. We are to find the perimeter.\n\nIn a rhombus:\n- All sides are equal.\n- The diagonals bisect each other at right angles.\n-"}
+{"gt": "Fish", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "Fish"}
+{"gt": "14", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "To determine the value of $x$ that makes lines $a$ and $b$ parallel, we use the **Converse of the Corresponding Angles Postulate**.\n\nIn the diagram, lines $a$ and $b$ are cut by a transversal. The angles $(4x + 1"}
+{"gt": "Simple", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "Simple"}
+{"gt": "Octopus", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "Octopus"}
+{"gt": "no", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "no"}
+{"gt": "Yes", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 2, "resp": "No"}
+{"gt": "yes", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "yes"}
+{"gt": "135", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "We are given trapezoid $QRST$ with $A$ and $B$ as midpoints of the legs $QT$ and $RS$ respectively. The top base $TS = 12$, bottom base $QR = 20$, and angles at $T$ and $R$ are given"}
+{"gt": "Yes", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "Yes"}
+{"gt": "D", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "B"}
+{"gt": "90", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "The square $ABDC$ is inscribed in the circle, meaning all four vertices lie on the circle. The center of the circle is point $F$, as indicated by the dot and the perpendicular from $F$ to side $CD$.\n\nIn a square inscribed in a circle, the diagonals of the"}
+{"gt": "11", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "\u5728Rt\u25b3ABC\u4e2d\uff0c\u2220ACB\uff1d90\u00b0\uff0c\u4ee5\u4e09\u8fb9\u4e3a\u8fb9\u5411\u5916\u4f5c\u6b63\u65b9\u5f62\uff0c\u9762\u79ef\u5206\u522b\u4e3aS\u2081\u3001S\u2082\u3001S\u2083\u3002\n\n\u6839\u636e\u52fe\u80a1\u5b9a\u7406\uff0c\u5728\u76f4\u89d2\u4e09\u89d2\u5f62\u4e2d\uff0c\u4e24\u6761\u76f4\u89d2\u8fb9\u7684\u5e73\u65b9\u548c\u7b49\u4e8e\u659c\u8fb9\u7684\u5e73\u65b9\u3002\n\n\u8bbe\u76f4"}
+{"gt": "decrease", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "decrease"}
+{"gt": "yes", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "yes"}
+{"gt": "octopus", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "octopus"}
+{"gt": "140\u00b0", "fuzzy_ok": 1, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "The key concept here is the **Inscribed Angle Theorem**, which states that the measure of a central angle is **twice** the measure of any inscribed angle that subtends the same arc.\n\nIn the given figure:\n- \u25b3ABC is inscribed in circle \u2299O.\n- \u2220ABC is"}
+{"gt": "yes", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "yes"}
+{"gt": "Sun", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "Sun"}
+{"gt": "No", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "No"}
+{"gt": "MuBERT", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 5, "resp": "MuBERT"}
+{"gt": "Around 31%", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "Around 37%"}
+{"gt": "40", "fuzzy_ok": 1, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "To find the measure of $\u2220J$, we can use trigonometry. In triangle $JKL$, we are given:\n\n- Side $KL = 9$ (this is adjacent to angle $J$)\n- Side $JK = 14$ (this is the hypotenuse, since it is"}
+{"gt": "55\u00b0", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "We are given a circle with center $O$, and points $A$, $B$, $C$ on the circle. We are told that $\\angle C = 35^\\circ$, and we are to find $\\angle OAB$.\n\nFirst, note that $\\angle C$ likely refers to $\\angle AC"}
+{"gt": "Yes", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 2, "resp": "No"}
+{"gt": "obtuse", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "obtuse"}
+{"gt": "60\u00b0", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "The given figure shows a circle with center $O$, and points $A$, $B$, and $C$ on the circumference. We are told that $\\angle ABC = 30^\\circ$, and we are to find $\\angle AOC$.\n\n---\n\n**Key Concept:**\n\nThe **central angle** subt"}
+{"gt": "Yes", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 2, "resp": "No"}
+{"gt": "No", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "No"}
+{"gt": "lizard", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "lizard"}
+{"gt": "\\frac{1}{3}", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "We are given that in triangle $ \\triangle ABC $, $ DE \\parallel BC $, and $ AD = 1.0 $, $ DB = 2.0 $.\n\nWe are to find the value of $ \\frac{AD}{AB} $.\n\n---\n\nFirst, note that point $ D $"}
+{"gt": "No", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 2, "resp": "Yes"}
+{"gt": "yes", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "yes"}
+{"gt": "It would also decrease.", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "It would also decrease."}
+{"gt": "\u221a{2}", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "We are given a right triangle $ \\triangle ABC $ with $ \\angle C = 90^\\circ $, $ \\angle A = 30^\\circ $, and $ BC = 2.0 $. The circle centered at $ C $ has radius $ 1.0 $, and point $"}
+{"gt": "21.6", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "The diagram shows a circle with two intersecting chords. The lengths of the segments of one chord are 8.1 and x, and the segments of the other chord are 10.3 and 17.\n\nAccording to the **Intersecting Chords Theorem**, when two chords intersect inside a circle"}
+{"gt": "LLaVA-13B (LLaMA-2)", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 7, "resp": "MM-ReAct-GPT-4"}
+{"gt": "yes", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "yes"}
+{"gt": "19", "fuzzy_ok": 1, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "We are given:\n\n- In triangle $ \\triangle ABC $, the perpendicular bisector of $ AB $ intersects $ AB $ at point $ D $ and $ BC $ at point $ E $.\n- $ AB = 6 $\n- $ \\triangle ACE $ has a perimeter of 13.\n- We are"}
+{"gt": "119\u00b0", "fuzzy_ok": 1, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "We are given a triangle $ \\triangle ABC $, with angle bisectors $ CD $ and $ BE $ intersecting at point $ F $. Also, $ CG \\perp AB $, so $ CG $ is the altitude from $ C $ to $ AB $. We are told that $ \\angle ACG ="}
+{"gt": "50\u00b0", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "We are given a circle with center $O$, and $AB$ is the diameter. Triangle $ABC$ is inscribed in the circle, and point $D$ is also on the circle. We are told that $\\angle ACD = 40^\\circ$, and we are to find $\\angle BAD$"}
+{"gt": "decrease", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "decrease"}
+{"gt": "2", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "2"}
+{"gt": "yes", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "yes"}
+{"gt": "105", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "We are given that $ m\\angle 9 = 75^\\circ $, and we are to find $ m\\angle 6 $.\n\nLooking at the figure, we have three vertical lines $ \\ell $, $ m $, and $ n $, all parallel (as indicated by the consistent spacing"}
+{"gt": "octopus", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "octopus"}
+{"gt": "115\u00b0", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "125\u00b0"}
+{"gt": "positive", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "negative"}
+{"gt": "12.75", "fuzzy_ok": 1, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "We are given a circle with center O (the blue dot), and two angles labeled: one is $3x^\\circ$ and the other is $(5x - 12)^\\circ$. These two angles are both central angles, meaning they are formed by two radii from the center of the circle."}
+{"gt": "Fish", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "Fish"}
+{"gt": "All of above", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "All of above"}
+{"gt": "36\u00b0", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "36\u00b0"}
+{"gt": "Yes", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "Yes"}
+{"gt": "R, D, N", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "R, D, N"}
+{"gt": "smaller than", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 3, "resp": "smaller than"}
+{"gt": "yes", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "yes"}
+{"gt": "118\u00b0", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "118\u00b0"}
+{"gt": "No", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "No"}
+{"gt": "No", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "No"}
+{"gt": "No", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "No"}
+{"gt": "No", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "No"}
+{"gt": "25\u00b0", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "We are given:\n\n- AB \u2225 CD\n- AF intersects CD at point E\n- BE \u22a5 AF, so \u2220BEA = 90\u00b0\n- \u2220B = 65\u00b0\n- We are to find \u2220DEF\n\n---\n\nLet\u2019s analyze the diagram step by step."}
+{"gt": "No", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "No"}
+{"gt": "No", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "No"}
+{"gt": "15\u00b0", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "We are given triangle ABC with:\n- AD is the angle bisector of \u2220BAC.\n- AE is the altitude from A to BC, so AE \u22a5 BC.\n- \u2220B = 40\u00b0, \u2220C = 70\u00b0.\n\nWe are to find \u2220EAD."}
+{"gt": "49", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "We are given a circle with center $S$, and we are told that the measure of arc $PQR$ is $98^\\circ$. We are to find the measure of arc $PQ$.\n\nFirst, note that arc $PQR$ is a major arc (since $98^\\circ$"}
+{"gt": "purple and grey", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 3, "resp": "purple and grey"}
+{"gt": "No", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "No"}
+{"gt": "yes", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "yes"}
+{"gt": "No", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "No"}
+{"gt": "28\u00b0", "fuzzy_ok": 1, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "We are given that \u2220AOB : \u2220BOC : \u2220COD = 2 : 3 : 4, and that OM and ON are the angle bisectors of \u2220AOB and \u2220COD respectively. Also, \u2220MON = 84\u00b0, and we are to find"}

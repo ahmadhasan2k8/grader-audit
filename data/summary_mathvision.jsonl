@@ -1,0 +1,5 @@
+{"model": "gemma-4-e4b", "benchmark": "mathvision", "n": 200, "abstain_acc": 0.115, "fabricate_acc": 0.14, "noncompliance_rate": 0.61, "artifact_under_official": 0.0, "artifact_avoided": 0.025, "elapsed_min": 37.0}
+{"model": "qwen2.5-vl-7b", "benchmark": "mathvision", "n": 200, "abstain_acc": 0.11, "fabricate_acc": 0.12, "noncompliance_rate": 0.565, "artifact_under_official": 0.0, "artifact_avoided": 0.01, "elapsed_min": 18.8}
+{"model": "qwen3-vl-8b", "benchmark": "mathvision", "n": 200, "abstain_acc": 0.115, "fabricate_acc": 0.135, "noncompliance_rate": 0.61, "artifact_under_official": 0.0, "artifact_avoided": 0.02, "elapsed_min": 27.6}
+{"model": "pixtral-12b", "benchmark": "mathvision", "n": 200, "abstain_acc": 0.055, "fabricate_acc": 0.075, "noncompliance_rate": 0.695, "artifact_under_official": 0.0, "artifact_avoided": 0.02, "elapsed_min": 20.4}
+{"model": "llama-3.2-11b", "benchmark": "mathvision", "n": 200, "abstain_acc": 0.115, "fabricate_acc": 0.115, "noncompliance_rate": 0.535, "artifact_under_official": 0.0, "artifact_avoided": 0.0, "elapsed_min": 24.6}

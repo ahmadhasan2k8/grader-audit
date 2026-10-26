@@ -1,0 +1,540 @@
+{"gt": "145\u00b0", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "To find the measure of \u2220BOC, we can use the fact that the sum of the angles in a triangle is 180\u00b0 and the properties of angle bisectors.\n\nGiven:\n- \u2220A = 110\u00b0\n\nFirst, calculate the sum of the other two angles in triangle ABC"}
+{"gt": "97", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "To find the measure of angle \\( \\angle H \\), we need to use the fact that the sum of the interior angles of a pentagon is \\( (5-2) \\times 180^\\circ = 540^\\circ \\).\n\nGiven the angles at vertices \\( E, F, G"}
+{"gt": "6cm", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "To solve for the length of AC, we need to use the information given about the segments and the fact that D is the midpoint of AC.\n\n1. We know that DB = 7.0.\n2. We also know that CB = 4.0.\n3. Since D is the midpoint of AC,"}
+{"gt": "quarter", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 5, "resp": "quarter"}
+{"gt": "Yes", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "Yes"}
+{"gt": "8", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "To solve this problem, we need to understand the relationship between the areas of the squares formed by the sides of the right triangles.\n\nGiven:\n- The area of square \\( A \\) is 5.\n- The area of square \\( B \\) is 3.\n\nWe need to find the area of square \\( C"}
+{"gt": "E", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 5, "resp": "C"}
+{"gt": "Yes", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "Yes"}
+{"gt": "Yes", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "Yes"}
+{"gt": "Common water flea", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "Tadpole"}
+{"gt": "5", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "5"}
+{"gt": "Does Linda's snowboard slide down a hill", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "Does Linda's snowboard slide down a hill in less time when it has a layer of wax or when it does not have a layer of wax?"}
+{"gt": "No", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 2, "resp": "Yes"}
+{"gt": "equal to", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 3, "resp": "equal to"}
+{"gt": "no", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "no"}
+{"gt": "no", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "no"}
+{"gt": "no", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "no"}
+{"gt": "8.5", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "To find the radius of the circle, we can use the Pythagorean theorem since \\( \\overline{AB} \\) is a diameter and thus forms a right triangle with \\( \\overline{AC} \\) and \\( \\overline{BC} \\).\n\nGiven:\n- \\( AC = 8 \\"}
+{"gt": "70\u00b0", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "To solve for the measure of angle C in the given circle, we need to use the properties of angles formed by intersecting chords.\n\nGiven:\n- \u2220D = 35\u00b0\n- \u2220AEC = 105\u00b0\n\nWe need to find the measure of \u2220C.\n\nStep-by"}
+{"gt": "No", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "No"}
+{"gt": "70\u00b0", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "To find the measure of angle D in parallelogram ABCD, we need to use the properties of parallelograms and the given information.\n\n1. **Identify the given information:**\n   - AB = AC (This means triangle ABC is isosceles with AB and AC as the equal sides.)"}
+{"gt": "4\u03c0cm", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "To determine the bottom perimeter of the conical paper cap, we need to understand that the arc length of the sector will become the circumference of the base of the cone.\n\nFirst, let's calculate the arc length of the sector. The formula for the arc length \\( L \\) of a sector with a central angle \\("}
+{"gt": "No", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "No"}
+{"gt": "35\u00b0", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "To solve this problem, we need to use some properties of circles and angles.\n\n1. **Identify the given information:**\n   - \\( AB \\) is the diameter of the circle.\n   - \\( EF \\) and \\( EB \\) are chords of the circle.\n   - Point \\( E \\) is"}
+{"gt": "odd", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "odd"}
+{"gt": "May", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 3, "resp": "May"}
+{"gt": "Adults spider population would decrease", "fuzzy_ok": 1, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "Adult spider population would decrease."}
+{"gt": "38", "fuzzy_ok": 1, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "The angle labeled as \\( m \\angle 3 \\) is the same as the angle labeled as \\( m \\angle 1 \\) because they are corresponding angles formed by the intersection of two lines and a transversal. Since the sum of angles around a point is \\( 360^\\circ \\),"}
+{"gt": "The population of predatory insects woul", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "The population of predatory insects would decrease."}
+{"gt": "Yes", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "Yes"}
+{"gt": "10", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 5, "resp": "To solve this problem, we need to use the given ratio and the length of AC to find the length of AB.\n\nThe ratio of the length of AB to the length of AC is given as 2:5. This means that for every 5 units of AC, there are 2 units of AB.\n\nGiven"}
+{"gt": "30\u00b0", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "To solve for the measure of \u2220BCH, we need to analyze the geometric properties and relationships in the given figure.\n\n1. **Identify the given information:**\n   - Triangle ABC is a right triangle with \u2220ACB = 90\u00b0.\n   - \u2220CAG = 60"}
+{"gt": "yes", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "yes"}
+{"gt": "64\u00b0", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "To solve for the measure of \u2220CAB, we need to use the properties of circles and angles.\n\n1. **Identify the given information:**\n   - AB is the diameter of circle O.\n   - CD is a chord of the circle.\n   - \u2220ADC = 26\u00b0.\n\n2"}
+{"gt": "no", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "no"}
+{"gt": "4", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "To find the length of EF in the given\u83f1\u5f62( rhombus) ABCD, we can use properties of midpoints and the fact that AC is a diagonal.\n\nGiven:\n- AB = 5 (side length of the rhombus)\n- AC = 6 (length of diagonal AC)\n\nSince E"}
+{"gt": "sample A", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 3, "resp": "sample A"}
+{"gt": "Yes", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 2, "resp": "No"}
+{"gt": "A", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 6, "resp": "C"}
+{"gt": "4cm", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "To solve this problem, we need to understand the geometry involved. The original length of the elastic band is 16 cm, and it is fixed at points A and B. When the midpoint C is lifted vertically by 6 cm, forming a right triangle where AC = BC = 8 cm (half of AB"}
+{"gt": "D", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 6, "resp": "C"}
+{"gt": "no", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "no"}
+{"gt": "decrease", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "decrease"}
+{"gt": "60\u00b0", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "To solve this problem, we need to use some properties of circles and angles.\n\n1. **Identify the given information:**\n   - Points \\(A\\), \\(B\\), \\(C\\), and \\(D\\) are on circle \\(O\\).\n   - Point \\(E\\) is on the extended line of"}
+{"gt": "Crabs and limpets will decrease", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "Crabs and limpets will decrease"}
+{"gt": "6", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "To find the length of a side of the square, we first need to determine the radius of the circle. The area of the circle is given as \\(18\\pi\\) square units. The formula for the area of a circle is:\n\n\\[ \\text{Area} = \\pi r^2 \\]\n\nwhere"}
+{"gt": "Yes", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "Yes"}
+{"gt": "RFT U13B", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 7, "resp": "ICL"}
+{"gt": "surplus", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "surplus"}
+{"gt": "No", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "No"}
+{"gt": "No", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "No"}
+{"gt": "27\u00b0", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "To solve for the measure of angle \\( \\angle A \\), we need to analyze the given information and use geometric properties.\n\n1. **Identify Given Information:**\n   - \\( CD \\) is the angle bisector of \\( \\angle ACB \\).\n   - \\( BD \\perp CD \\)."}
+{"gt": "80\u00b0", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "To solve for \u2220EOB, we need to use the properties of angles formed by intersecting lines.\n\n1. **Identify the given information:**\n   - \u2220BOC = 50\u00b0\n   - OD bisects \u2220AOE\n\n2. **Understand the relationships between the"}
+{"gt": "white one", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 5, "resp": "white five"}
+{"gt": "Linear", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "Linear"}
+{"gt": "yes", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "yes"}
+{"gt": "quarter", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 5, "resp": "quarter"}
+{"gt": "No", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "No"}
+{"gt": "No", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "No"}
+{"gt": "9.45", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "To find the value of \\( x \\) in the given figure, we need to use the properties of tangents and circles.\n\nGiven:\n- \\( KL \\) is tangent to \\( \\odot M \\) at point \\( K \\).\n- The radius of the circle is \\( x \\).\n- The length of"}
+{"gt": "Acuminate", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "Mucronate"}
+{"gt": "[0, 2]", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "[0, 2]"}
+{"gt": "20\u00b0", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "To solve for the angle \\(\\angle P\\), we need to use the properties of the circle and the given information about the central angles.\n\nGiven:\n- The central angle \\(\\angle AOB\\) (for arc \\(AB\\)) is 90 degrees.\n- The central angle \\(\\angle COD\\) ("}
+{"gt": "No", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "No"}
+{"gt": "D", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 5, "resp": "D"}
+{"gt": "Whorled", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "Whorled"}
+{"gt": "plants increase", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "plants increase"}
+{"gt": "2", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "To find the length of AD, we need to use the properties of the right triangle formed by the points A, B, and C.\n\nFirst, let's determine the coordinates of the points:\n- Point A is at (0, 3)\n- Point B is at (-2, -1)\n- Point C"}
+{"gt": "which design would have the greatest dis", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 3, "resp": "which design would have the greatest distance between the concert area and the road"}
+{"gt": "Yes", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "Yes"}
+{"gt": "No", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "No"}
+{"gt": "Yes", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "Yes"}
+{"gt": "no", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "no"}
+{"gt": "soup", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "water"}
+{"gt": "4.40\u7c73", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "To solve this problem, we need to use the Pythagorean theorem and some geometric properties. Let's denote the length of the ladder as \\( L \\).\n\nGiven:\n- The distance from the foot of the ladder to the wall (BC) is 1.6 meters.\n- The distance from point D on the"}
+{"gt": "No", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "No"}
+{"gt": "3", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "To solve this problem, we need to use the properties of parallelograms and angle bisectors.\n\nGiven:\n- \\(ABCD\\) is a parallelogram.\n- \\(CE\\) bisects \\(\\angle BCD\\).\n- \\(DE = 3\\).\n\nSince \\(ABCD\\) is a parallelog"}
+{"gt": "sample B", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 3, "resp": "sample B"}
+{"gt": "Decurrent", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "Decurrent"}
+{"gt": "55\u00b0", "fuzzy_ok": 1, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "To solve for \u22203, we need to use the properties of parallel lines and the angles formed by a transversal.\n\nGiven:\n- \u22201 = 50\u00b0\n- \u22202 = 75\u00b0\n\nSince l1 is parallel to l2, we can use the fact that the"}
+{"gt": "40\u00b0", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "To solve for the measure of angle CAB, we need to use properties of circles and tangents.\n\n1. **Identify the given information:**\n   - Points A, B, and C are on circle O.\n   - Line CD is tangent to the circle at point C.\n   - The measure of angle DC"}
+{"gt": "(u1, u2) = (0, 0)", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "(u1, u2) = (1, 0)"}
+{"gt": "44\u00b0", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "To solve for angle \\( \\angle 2 \\), we need to use the properties of parallel lines and the angles formed by a transversal.\n\nGiven:\n- \\( l_1 \\parallel l_2 \\)\n- \\( \\angle 1 = 76^\\circ \\)\n- The triangle is a right"}
+{"gt": "mice", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "mice"}
+{"gt": "No", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "No"}
+{"gt": "yes", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "yes"}
+{"gt": "12", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "12"}
+{"gt": "35\u00b0", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "To solve for \u2220BCE in parallelogram ABCD where CE \u22a5 AB and \u2220D = 55\u00b0, we need to use properties of parallelograms and right angles.\n\n1. **Identify the properties of the parallelogram:**\n   - In a parallelogram, opposite"}
+{"gt": "B", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 6, "resp": "D)"}
+{"gt": "(b)", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 5, "resp": "(b)"}
+{"gt": "smaller than", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 3, "resp": "smaller than"}
+{"gt": "no", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "no"}
+{"gt": "No", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "No"}
+{"gt": "Yes", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "Yes"}
+{"gt": "2", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "To determine the value of \\( RS \\) in the equilateral triangle \\( \\triangle QRS \\), we need to use the fact that all sides of an equilateral triangle are equal.\n\nGiven:\n- \\( QR = 4x \\)\n- \\( RS = 2x + 1 \\)\n- \\( QS"}
+{"gt": "Yes", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "Yes"}
+{"gt": "55\u00b0", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "To solve for the measure of \u2220FAE, we need to use the properties of angle bisectors and the fact that the sum of angles in a triangle is 180 degrees.\n\nGiven:\n- BE bisects \u2220FBD.\n- CE bisects \u2220ACD.\n- \u2220"}
+{"gt": "20cm", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "To find the perimeter of parallelogram ABCD, we need to use the properties of a parallelogram and the given information.\n\nGiven:\n- The length of diagonal AC is 4 cm.\n- The perimeter of triangle ACD is 14 cm.\n\nIn a parallelogram, opposite sides are equal in"}
+{"gt": "C", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 3, "resp": "C"}
+{"gt": "no", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "no"}
+{"gt": "False", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "False"}
+{"gt": "\\frac{20}{3}", "fuzzy_ok": 1, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "To solve this problem, we need to use the properties of reflection and similar triangles. The key idea is that the angles of incidence and reflection are equal, and the triangles formed by the light rays and the mirror are similar.\n\nGiven:\n- \\( AC \\perp CD \\)\n- \\( BD \\perp CD \\"}
+{"gt": "40\u00b0", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "To solve this problem, we need to use properties of circles and angles.\n\n1. **Identify the given information:**\n   - \\(CD\\) is the diameter of circle \\(\\odot O\\).\n   - \\(G\\) is the midpoint of chord \\(EF\\).\n   - \\(\\angle DCF ="}
+{"gt": "130\u00b0", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "To find the measure of angle AOD, we can use the fact that the angle subtended by an arc at the center of a circle is twice the angle subtended by the same arc at any point on the remaining part of the circle.\n\nGiven:\n- \u2220BCD = 25\u00b0\n\nSince AB"}
+{"gt": "0.5cm2", "fuzzy_ok": 1, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "To find the area of triangle DEF, we need to understand the relationship between the areas of triangles formed by connecting the midpoints of the sides of a larger triangle.\n\nGiven:\n- \\( S_{\\triangle ABC} = 4 \\text{ cm}^2 \\)\n- D, E, and F are mid"}
+{"gt": "1", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "3"}
+{"gt": "yes", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "yes"}
+{"gt": "\\frac{4}{3}", "fuzzy_ok": 1, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "To find the value of \\(\\tan \\angle BAC\\), we need to determine the lengths of the sides of triangle \\(ABC\\) and then use the definition of the tangent function, which is the ratio of the opposite side to the adjacent side.\n\nFirst, let's identify the coordinates of the vertices:\n- \\("}
+{"gt": "3", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "3"}
+{"gt": "yes", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "yes"}
+{"gt": "125\u00b0", "fuzzy_ok": 1, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "To solve for the measure of angle C in the given cyclic quadrilateral ABCD, we need to use the properties of cyclic quadrilaterals and the central angle theorem.\n\nHere's the step-by-step reasoning:\n\n1. **Identify the given information:**\n   - The central angle \u2220AOB is given as"}
+{"gt": "65\u00b0", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "To solve for the measure of \u2220BAO, we need to use the properties of circles and angles.\n\n1. **Identify the given information:**\n   - \u2220ACB = 25\u00b0\n   - A, B, and C are points on the circle.\n   - O is the center"}
+{"gt": "Yes", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 2, "resp": "No"}
+{"gt": "No", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "No"}
+{"gt": "quarter", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 5, "resp": "quarter"}
+{"gt": "yes", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "yes"}
+{"gt": "50\u00b0", "fuzzy_ok": 1, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "To solve for the measure of angle D, we need to use the properties of tangents and angles in a circle.\n\n1. **Identify the given information:**\n   - AB is the diameter of circle O.\n   - DB and DC are tangents to the circle at points B and C, respectively."}
+{"gt": "0.30%", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 5, "resp": "0.30%"}
+{"gt": "Soft", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 6, "resp": "Soft"}
+{"gt": "Solution B", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 3, "resp": "Solution B"}
+{"gt": "6", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 5, "resp": "C"}
+{"gt": "Yes", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "Yes"}
+{"gt": "12", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "To find the value of \\( z \\), we need to use the properties of the triangle and the given information.\n\nGiven:\n- The length of side \\( SR = 2z - 15 \\)\n- The length of side \\( ST = 7 \\)\n- The length of side \\( TR = 9"}
+{"gt": "it would decrease", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "decrease"}
+{"gt": "\\frac { 20 } { 3 }", "fuzzy_ok": 1, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "The correct answer is \\(\\frac{20}{3}\\)."}
+{"gt": "yes", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "yes"}
+{"gt": "135", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "To find \\( m \\angle A \\) in quadrilateral \\( ABCD \\), we need to use the properties of the angles in a quadrilateral.\n\nA quadrilateral has four interior angles, and the sum of these angles is always \\( 360^\\circ \\).\n\nGiven:\n- \\( \\angle D ="}
+{"gt": "no", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "no"}
+{"gt": "No", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "No"}
+{"gt": "13.0", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "To find the value of \\( x \\), we need to determine the radius of the circle and then use it to find the diameter, which will be equal to \\( x \\).\n\nGiven:\n- The area \\( A \\) of the shaded region is 66 cm\\(^2\\).\n- The angle subtended"}
+{"gt": "Yes", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "Yes"}
+{"gt": "40\u00b0", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "To solve the problem, we need to understand the symmetry properties given in the problem. Let's break it down step by step.\n\n1. **Symmetry Properties**:\n   - \\(A\\) and \\(B\\) are symmetrical with respect to the line \\(MP\\). This means that \\(MP\\) is the perpendicular"}
+{"gt": "6", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "To find the area of triangle ADC, we can use the fact that AD is an angle bisector and DE is perpendicular to AB.\n\nGiven:\n- DE = 3 (height from D to AB)\n- AC = 4\n\nSince AD is the angle bisector, it divides the opposite side BC into segments proportional"}
+{"gt": "6", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "To find the area of the square labeled \\( A \\), we need to use the relationship between the areas of the squares constructed on the sides of a right triangle.\n\nGiven:\n- The area of the square on the hypotenuse (14) is 14.\n- The area of the square on one leg"}
+{"gt": "Yes", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 2, "resp": "No"}
+{"gt": "oblique", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "oblique"}
+{"gt": "Serrulate", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "Serrulate"}
+{"gt": "160\u221a{3}m", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "To solve the problem, we need to determine the height of the building using the given angles and the horizontal distance.\n\nLet's denote:\n- \\( h \\) as the height of the building.\n- \\( AD \\) as the horizontal distance between the hot air balloon and the building, which is given as 12"}
+{"gt": "100\u00b0", "fuzzy_ok": 1, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "To solve for the measure of \u2220BOC, we need to use the properties of circles and the given information.\n\n1. **Identify the given information:**\n   - Points A, B, and C are on the circle.\n   - AB = AC, which means triangle ABC is isosceles with"}
+{"gt": "5", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "4.5"}
+{"gt": "4:30", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 5, "resp": "5:30"}
+{"gt": "26", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "To find the lengths of the diagonals of the rhombus, we can use the formula for the area of a rhombus:\n\n\\[ \\text{Area} = \\frac{d_1 \\times d_2}{2} \\]\n\nwhere \\( d_1 \\) and \\( d_2 \\"}
+{"gt": "7", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "To solve this problem, we need to use the property of tangents drawn from an external point to a circle. According to this property, the lengths of the tangents drawn from an external point to a circle are equal.\n\nGiven:\n- \\( AD = 2 \\)\n- \\( BC = 5 \\)\n\nLet"}
+{"gt": "\\frac{3\u221a{5}}{2}", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "To solve for the length of \\( CD \\) in the given right triangle \\( \\triangle ABC \\) with \\( \\angle BAC = 90^\\circ \\), we need to use the properties of similar triangles and the given lengths.\n\nGiven:\n- \\( AD \\perp BC \\)\n- \\( DE \\"}
+{"gt": "3mm", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "To find the distance from the center \\( O \\) to the chord \\( AB \\), we can use the Pythagorean theorem in the right triangle formed by the radius, the perpendicular distance from the center to the chord, and half the length of the chord.\n\nHere's the step-by-step solution:\n\n1. Identify"}
+{"gt": "D", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 5, "resp": "D"}
+{"gt": "Mic", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "Mic"}
+{"gt": "grass", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "grass"}
+{"gt": "60", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 5, "resp": "To find the value of \\( x \\) in the given regular hexagon \\( ABCDEF \\), we need to understand the properties of a regular hexagon.\n\n1. **Sum of Interior Angles**: The sum of the interior angles of a polygon with \\( n \\) sides is given by the formula:\n   \\"}
+{"gt": "No", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "No"}
+{"gt": "5", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "To solve for \\( x \\) given that \\(\\overline{WTY} \\cong \\overline{TWY}\\), we need to understand that congruent arcs imply congruent central angles.\n\nIn the diagram, \\(\\overline{WTY}\\) and \\(\\overline{TWY}\\"}
+{"gt": "25\u00b0", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "To solve this problem, we need to use the properties of angles in a circle, specifically the relationship between central angles and inscribed angles.\n\n1. **Identify the given information:**\n   - \\( AB \\) is the diameter of the circle.\n   - The measure of the central angle \\( \\angle BOC"}
+{"gt": "2cm", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "To solve this problem, we need to understand the geometry involved. The original length of the elastic band is 8 cm, and it is fixed at points A and B. When point C (the midpoint of AB) is lifted vertically by 3 cm, forming a right triangle with the horizontal line AB as the base"}
+{"gt": "R2", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 5, "resp": "B. R2"}
+{"gt": "0.0 - 0.2", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 5, "resp": "'0.2 - 0.4'"}
+{"gt": "75\u00b0", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "To solve this problem, we need to use the properties of angles formed by a transversal intersecting two parallel lines.\n\nGiven:\n- AB || CD (Lines AB and CD are parallel)\n- \u22201 = 105\u00b0\n\nWe need to find the measure of \u22202.\n\nStep-by-step"}
+{"gt": "May '21", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 5, "resp": "May '21"}
+{"gt": "no", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "no"}
+{"gt": "grasses increases", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "grasses increases"}
+{"gt": "equal to", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 3, "resp": "equal to"}
+{"gt": "Yes", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "Yes"}
+{"gt": "mountain lion", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "mountain lion"}
+{"gt": "270", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "To find the measure of the arc \\(\\widehat{IHJ}\\), we need to understand the properties of the circle and the given information.\n\n1. **Identify the given information:**\n   - \\(\\overline{HK}\\) and \\(\\overline{IG}\\) are diameters of \\"}
+{"gt": "Dynalang", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "Dynalang"}
+{"gt": "a logarithmic function", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "an exponential function"}
+{"gt": "no", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "no"}
+{"gt": "Yes", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 2, "resp": "No"}
+{"gt": "a trigonometric function", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "a trigonometric function"}
+{"gt": "\\frac { 40 } { 3 }", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "To find \\( z \\), we need to use the Pythagorean theorem in the context of the given right triangle.\n\nThe Pythagorean theorem states that for a right triangle, the square of the length of the hypotenuse (the side opposite the right angle) is equal to the sum of the squares of the"}
+{"gt": "apples", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "apples"}
+{"gt": "no", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "no"}
+{"gt": "125*a^2 + 250", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 5, "resp": "To solve this problem, we need to understand the relationship between the areas of triangles ABC and BED.\n\nGiven:\n- Angle A is congruent to angle BED.\n- Angle C is congruent to angle D.\n- The ratio of the length of AB to the length of EB is 5:1.\n- The area"}
+{"gt": "50\u00b0", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "To determine the measure of angle \u2220ACB, we need to use the relationship between the central angle and the inscribed angle that subtend the same arc.\n\nGiven:\n- The central angle \u2220AOB = 100\u00b0.\n- Points A, B, and C lie on the circle with center"}
+{"gt": "2256", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "To find the area of the trapezoid, we use the formula for the area of a trapezoid:\n\n\\[ \\text{Area} = \\frac{1}{2} \\times (b_1 + b_2) \\times h \\]\n\nwhere \\( b_1 \\) and \\("}
+{"gt": "Yes", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "Yes"}
+{"gt": "6", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "To find the length of DE in the given right triangle ABC, we can use the properties of midpoints and the Pythagorean theorem.\n\nGiven:\n- \\( \\angle C = 90^\\circ \\)\n- \\( AB = 13 \\)\n- \\( AC = 5 \\)\n\nFirst, we need"}
+{"gt": "surplus", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "surplus"}
+{"gt": "40m", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "To solve this problem, we need to use the properties of midpoints and the fact that \\( MN \\) is the midsegment of triangle \\( ABC \\).\n\nHere's the step-by-step reasoning:\n\n1. **Identify the Midpoints**: \n   - \\( M \\) is the midpoint of \\( AC \\)."}
+{"gt": "green", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "green"}
+{"gt": "no", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "no"}
+{"gt": "larger than", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 3, "resp": "smaller than"}
+{"gt": "\\frac { 5 } { 12 }", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "To find \\(\\tan X\\) in the given right triangle, we use the definition of the tangent function, which is the ratio of the length of the opposite side to the length of the adjacent side.\n\nIn this triangle:\n- The length of the side opposite to angle \\(X\\) is 5.\n- The length"}
+{"gt": "Yes", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "Yes"}
+{"gt": "quarter", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 5, "resp": "quarter"}
+{"gt": "8", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 5, "resp": "To solve for the length of \\( BC \\) in triangle \\( ABC \\), we need to use the properties of midpoints and the given lengths.\n\nGiven:\n- \\( AB = AC \\)\n- \\( E \\) is the midpoint of \\( AB \\)\n- \\( D \\) is the midpoint of \\( AC \\"}
+{"gt": "55\u00b0", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "To find the measure of angle AEC, we can use the properties of circles and triangles.\n\nGiven:\n- AB = AC (AB and AC are radii of the circle)\n- \u2220BAC = 70\u00b0\n\nSince AB = AC, triangle ABC is isosceles with AB and AC as"}
+{"gt": "Science", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 8, "resp": "Code"}
+{"gt": "o'clock", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 5, "resp": "o'clock"}
+{"gt": "d", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 5, "resp": "E"}
+{"gt": "Yes", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "Yes"}
+{"gt": "No", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "No"}
+{"gt": "Yes", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "Yes"}
+{"gt": "Rec", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 6, "resp": "Rec"}
+{"gt": "Yes", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "Yes"}
+{"gt": "130\u00b0", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "To solve this problem, we need to use the properties of angles formed when a transversal intersects two parallel lines.\n\nGiven:\n- Lines \\(a\\) and \\(b\\) are parallel.\n- The angle \\(\\angle 1\\) is given as \\(50^\\circ\\).\n\nWe need to find the measure of"}
+{"gt": "No", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "No"}
+{"gt": "no", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "no"}
+{"gt": "A", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 5, "resp": "E"}
+{"gt": "50", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "To solve for \\( m \\angle YIZ \\), we need to use the given information and properties of triangles and angles.\n\nGiven:\n- \\( \\frac{IJ}{XJ} = \\frac{HJ}{YJ} \\)\n- \\( m \\angle WXJ = 130^\\circ \\"}
+{"gt": "Lower half", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "Upper half"}
+{"gt": "40\u00b0", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "To solve for the measure of \u2220BCD, we need to use properties of circles and angles.\n\n1. **Identify the given information:**\n   - AB is the diameter of circle O.\n   - \u2220ABD = 50\u00b0.\n\n2. **Understand the properties:**\n   -"}
+{"gt": "No", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "No"}
+{"gt": "Yes", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "Yes"}
+{"gt": "decrease", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "decrease"}
+{"gt": "4", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "To solve this problem, we need to use the properties of midpoints and the fact that DE is parallel to AC and BF is parallel to AC.\n\n1. Since D and E are midpoints of AB and BC respectively, DE is parallel to AC and half its length.\n2. Similarly, F is the midpoint of"}
+{"gt": "120\u00b0", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "To solve this problem, we need to understand the geometric properties and the conditions given. We are asked to find the point \\( M \\) on \\( BC \\) and \\( N \\) on \\( CD \\) such that the perimeter of \\( \\triangle AMN \\) is minimized. This typically involves reflecting points across"}
+{"gt": "7", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "To find the length of \\( AC \\) in the isosceles triangle \\( ABC \\), we need to use the fact that the two sides adjacent to the vertex angle \\( C \\) are equal. Therefore, we set the expressions for these sides equal to each other:\n\n\\[ 4x + 1 ="}
+{"gt": "no", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "no"}
+{"gt": "8", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "To solve this problem, we need to understand the relationship between the areas of triangles formed by the medians and midlines in a triangle.\n\nGiven:\n- AD is the median of triangle ABC.\n- E is the midpoint of AD.\n- The area of triangle ABE is 2.\n\nWe need to find the area"}
+{"gt": "horses", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "horses"}
+{"gt": "Yes", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "Yes"}
+{"gt": "Yes", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "Yes"}
+{"gt": "yes", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "yes"}
+{"gt": "10 \\sqrt { 3 }", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "10"}
+{"gt": "0.42", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "To find the ratio of \\(\\tan M\\), we need to use the definition of the tangent function in a right triangle. The tangent of an angle is the ratio of the length of the opposite side to the length of the adjacent side.\n\nIn the given triangle \\(PMN\\):\n- The angle \\(M\\)"}
+{"gt": "shortage", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "shortage"}
+{"gt": "Yes", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "Yes"}
+{"gt": "20\u00b0", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "To solve for the measure of \u2220OAC, we need to use the properties of circles and parallel lines.\n\n1. **Identify the given information:**\n   - Point \\( O \\) is the center of circle \\( \\odot O \\).\n   - Points \\( A \\), \\( B \\), and"}
+{"gt": "LangRoom", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 6, "resp": "LangRoom"}
+{"gt": "decrease", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "decrease"}
+{"gt": "2", "fuzzy_ok": 0, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "To find the length of chord AB in a circle with radius 2 and an inscribed angle \u2220C = 30\u00b0, we can use properties of circles and trigonometry.\n\nGiven:\n- Radius \\( r = 2 \\)\n- Inscribed angle \u2220C = 30\u00b0\n\nSince"}
+{"gt": "4.0", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 7, "resp": "4.0"}
+{"gt": "Frogs", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "Frogs"}
+{"gt": "32", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "To find the length of TX, we need to use the Pythagorean theorem in the right triangle formed by the points X, T, and D.\n\nGiven:\n- \\( EX = 24 \\)\n- \\( DE = 7 \\)\n\nIn the right triangle \\( \\triangle TED \\):\n- \\( TE \\"}
+{"gt": "children's class", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "children's class"}
+{"gt": "40\u00b0", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "To solve for the measure of \u2220DAE, we need to use the properties of congruent triangles and the fact that the sum of angles in a triangle is 180 degrees.\n\nGiven:\n- \u25b3ABD \u2245 \u25b3ACE\n- \u2220AEC = 110\u00b0"}
+{"gt": "6 \\sqrt { 5 }", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "To find \\( z \\), we need to use the Pythagorean theorem in the context of the given right triangle.\n\nThe Pythagorean theorem states that for a right triangle, the square of the length of the hypotenuse (the side opposite the right angle) is equal to the sum of the squares of the"}
+{"gt": "20.25", "fuzzy_ok": 1, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "To find the perimeter of \\(\\triangle DEF\\), we need to use the properties of similar triangles. Given that \\(\\triangle DEF \\sim \\triangle CBF\\), the ratios of corresponding sides are equal.\n\nFirst, let's identify the corresponding sides:\n- \\(DE\\) corresponds to \\(CB\\)\n- \\("}
+{"gt": "no", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 2, "resp": "yes"}
+{"gt": "40\u00b0", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "To solve for the measure of angle \\( A \\) in triangle \\( ABC \\), we can use the properties of isosceles triangles and the angle bisector theorem.\n\nGiven:\n- \\( AB = AC \\)\n- \\( BD \\) is the angle bisector of \\( \\angle ABC \\)\n- \\( \\"}
+{"gt": "9", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "To solve for \\( QR \\), we need to use the properties of similar triangles. The given information suggests that triangle \\( PQR \\) is divided into two smaller triangles by line segment \\( PT \\). Specifically, triangles \\( PQT \\) and \\( PRT \\) appear to be similar to triangle \\( PQR"}
+{"gt": "decrease", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "Decrease"}
+{"gt": "quarter", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 5, "resp": "quarter"}
+{"gt": "no", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "no"}
+{"gt": "Yes", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "Yes"}
+{"gt": "0.6", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "To find \\(\\cos A\\) in the right triangle \\(ABC\\) where \\(\\angle C = 90^\\circ\\), we use the definition of cosine for an angle in a right triangle, which is the ratio of the length of the adjacent side to the length of the hypotenuse.\n\nFirst, we"}
+{"gt": "2", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "To determine the perimeter of triangle \\( \\triangle ABC \\), we need to understand the relationship between the sides of \\( \\triangle ABC \\) and \\( \\triangle ADE \\).\n\nGiven:\n- \\( DE \\) is the midline of \\( \\triangle ABC \\).\n- The perimeter of \\( \\triangle ADE \\"}
+{"gt": "smaller than", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 3, "resp": "smaller than"}
+{"gt": "decrease", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "decrease"}
+{"gt": "60-k", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 5, "resp": "To find \\( x \\) in terms of \\( k \\), we need to analyze the given information and use geometric properties.\n\n1. **Identify the given angles and sides:**\n   - Angle at vertex \\( C \\) is \\( 120^\\circ \\).\n   - Side \\( AC \\) is"}
+{"gt": "No", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "No"}
+{"gt": "No", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 2, "resp": "Yes"}
+{"gt": "\\frac{4}{5}", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "To find the value of \\(\\sin B\\) in the right triangle \\(ABC\\) where \\(\\angle C = 90^\\circ\\), we need to use the definition of the sine function in a right triangle.\n\nThe sine of an angle in a right triangle is defined as the ratio of the length of the"}
+{"gt": "yes", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "yes"}
+{"gt": "8", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "To solve this problem, we need to use the properties of the\u5185\u5fc3 (incenter) and the fact that EF is parallel to BC.\n\nGiven:\n- D is the incenter of triangle ABC.\n- EF || BC.\n- BE + CF = 8.\n\nSince D is the incenter, it is the point"}
+{"gt": "no", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "no"}
+{"gt": "grasshoppers", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "grasshoppers"}
+{"gt": "Yes", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "Yes"}
+{"gt": "80", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "80"}
+{"gt": "16*\\pi/5", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 5, "resp": "The length of an arc in a circle can be calculated using the formula:\n\n\\[ \\text{Arc Length} = \\frac{\\theta}{360^\\circ} \\times 2\\pi r \\]\n\nwhere \\( \\theta \\) is the central angle in degrees and \\( r \\) is the radius of"}
+{"gt": "yes", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "yes"}
+{"gt": "Crickets", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "Crickets"}
+{"gt": "4", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 6, "resp": "5"}
+{"gt": "yes", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "yes"}
+{"gt": "no", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "no"}
+{"gt": "110", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "To solve for \\( x \\), we need to understand the relationship between the central angle and the intercepted arcs in a circle.\n\nGiven:\n- The measure of the minor arc \\(\\widehat{AC}\\) is \\( x \\).\n- The measure of the major arc \\(\\widehat{ADC}\\) is \\("}
+{"gt": "yes", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 2, "resp": "no"}
+{"gt": "PDE-Refiner", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "PDE-Refiner"}
+{"gt": "crickets", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "Crickets"}
+{"gt": "half", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 5, "resp": "half"}
+{"gt": "10", "fuzzy_ok": 1, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "To find the edge length of the rhombus (diamond) \\(ABCD\\) with diagonals \\(AC = 12.0\\) and \\(BD = 16.0\\), we can use the properties of a rhombus.\n\n1. **Identify the properties of the rhombus:"}
+{"gt": "No", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "No"}
+{"gt": "60*\\degree", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 5, "resp": "To solve for the degree measure of angle ABO, we need to analyze the given information and use properties of circles and triangles.\n\n1. **Identify the properties of the circle and triangle:**\n   - Since AC is the diameter of the circle, angle ABC is a right angle (90 degrees) because the"}
+{"gt": "50\u00b0", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "To solve for the measure of \u2220ADB, we need to use properties of circles and tangents.\n\n1. **Identify the given information:**\n   - AB is the diameter of circle O.\n   - Point C is on the circle.\n   - AE is a tangent to the circle at point A."}
+{"gt": "10\u00b0", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "To solve for the measure of \u2220EAC, we need to analyze the given information and use geometric properties.\n\nGiven:\n- \u25b3ABC is an equilateral triangle.\n- DA = DE.\n- \u2220DAB = 20\u00b0.\n\nSince \u25b3ABC is equilateral, all its internal angles are"}
+{"gt": "24", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "To find the perimeter of parallelogram \\(ABCD\\), we need to know the lengths of all its sides. Given that \\(AB = 5\\) and \\(AD = 7\\), and knowing that in a parallelogram, opposite sides are equal, we can determine the lengths of the other two sides"}
+{"gt": "Yes", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "Yes"}
+{"gt": "50\u00b0", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "To solve this problem, we need to use the properties of angles and the fact that the sum of angles around a point is 360 degrees.\n\nGiven:\n- Point A, C, B are on the same straight line.\n- DC is perpendicular to EC (DC \u22a5 EC).\n- \u2220BCD"}
+{"gt": "no", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "no"}
+{"gt": "2\u221a{3}", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "To solve for the length of the line segment \\(CD\\), we need to use the properties of the circle and the given information.\n\n1. **Identify the given information:**\n   - The radius of the circle \\(O\\) is 2.\n   - \\(C\\) is a point on the extended line of"}
+{"gt": "No", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "No"}
+{"gt": "No", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "No"}
+{"gt": "Yes", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "Yes"}
+{"gt": "52", "fuzzy_ok": 1, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "To determine the measure of angle \\( \\angle 2 \\) in the rectangle \\( ABDC \\), we need to understand the properties of angles in a rectangle.\n\n1. **Identify the properties of angles in a rectangle:**\n   - All interior angles of a rectangle are right angles, meaning they each measure \\("}
+{"gt": "No", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "No"}
+{"gt": "8", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "To solve this problem, we need to use the properties of similar triangles. Since \\(DE \\parallel BC\\), triangles \\(ADE\\) and \\(ABC\\) are similar by the AA (Angle-Angle) similarity criterion.\n\nGiven:\n- \\(AD : DB = 1 : 3\\)\n- \\(AE ="}
+{"gt": "3", "fuzzy_ok": 1, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "To find the distance from the center \\( O \\) to the chord \\( AB \\), we can use the Pythagorean theorem in the right triangle formed by the radius of the circle, the perpendicular distance from the center to the chord, and half the length of the chord.\n\nHere's the step-by-step reasoning:"}
+{"gt": "garter snakes would decrease", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "garter snakes would decrease"}
+{"gt": "yes", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "yes"}
+{"gt": "\\frac{4}{5}", "fuzzy_ok": 1, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "To find the value of \\(\\sin B\\) in the right triangle \\(ABC\\) where \\(\\angle C = 90^\\circ\\), \\(AC = 4.0\\), and \\(AB = 5.0\\), we need to use the definition of the sine function in a right triangle."}
+{"gt": "42.2%-62.6%", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 5, "resp": "42.2%-62.6%"}
+{"gt": "3 main veins", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "reticulate"}
+{"gt": "kril", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "krill"}
+{"gt": "No", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "No"}
+{"gt": "yes", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "yes"}
+{"gt": "40\u00b0", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "To solve this problem, we need to use the properties of angles in a circle, specifically the relationship between the central angle and the inscribed angle that subtend the same arc.\n\n1. Identify the given information:\n   - AB is the diameter of the circle.\n   - Point C is a point on the circle."}
+{"gt": "5\u221a{3}m", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "To solve for the height of the tree \\( CD \\), we can use trigonometry. Let's denote the height of the tree \\( CD \\) as \\( h \\).\n\nGiven:\n- The angle of elevation from point \\( A \\) to the top of the tree \\( C \\) is \\( 30"}
+{"gt": "slide", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 3, "resp": "slide"}
+{"gt": "Yes", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "Yes"}
+{"gt": "55\u00b0", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "To solve for the measure of angle BDC, we need to use the properties of parallel lines and the angles formed by a transversal.\n\nGiven:\n- AB || CD (AB is parallel to CD)\n- BD \u22a5 CF (BD is perpendicular to CF)\n- \u2220ABF = 35\u00b0"}
+{"gt": "quarter", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 5, "resp": "quarter"}
+{"gt": "No", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "No"}
+{"gt": "70\u00b0", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "To solve this problem, we need to understand the relationship between the central angle and the inscribed angle that subtend the same arc.\n\nGiven:\n- Points A, B, and C are on the circle.\n- The measure of the inscribed angle \u2220C is 35\u00b0.\n\nThe measure of the central"}
+{"gt": "No", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "No"}
+{"gt": "9\u03c0", "fuzzy_ok": 1, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "To solve the problem, we need to find the area of the ring formed by the two concentric circles. Let's go through the steps:\n\n1. **Identify the given information:**\n   - The chord \\(AB\\) of the larger circle is tangent to the smaller circle at point \\(C\\).\n   -"}
+{"gt": "12", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "To find the perimeter of triangle ABC, we need to understand the relationship between the sides of triangles ABC and BDE.\n\nGiven:\n- D is the midpoint of AB.\n- E is the midpoint of BC.\n- The perimeter of triangle BDE is 6.\n\nSince D and E are midpoints, DE is parallel"}
+{"gt": "3/11", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "6/11"}
+{"gt": "D", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 5, "resp": "C"}
+{"gt": "Yes", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "Yes"}
+{"gt": "yes", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "yes"}
+{"gt": "Insects", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "Mouse and cricket"}
+{"gt": "Yes", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "Yes"}
+{"gt": "16", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "To solve this problem, we need to understand the properties of tangents drawn from an external point to a circle. Specifically, the lengths of the tangents drawn from an external point to a circle are equal.\n\nGiven:\n- \\( PA \\) and \\( PB \\) are tangents to the circle \\( O \\)"}
+{"gt": "no", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "no"}
+{"gt": "yes", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "yes"}
+{"gt": "No", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "No"}
+{"gt": "Yes", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "Yes"}
+{"gt": "6", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "To solve this problem, we need to understand the relationship between the areas of the equilateral triangles constructed on the sides of the right triangle \\( \\triangle ABC \\).\n\nGiven:\n- The area of \\( \\triangle A'BC \\) is 10.\n- The area of \\( \\triangle AB'C \\) is"}
+{"gt": "yes", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "yes"}
+{"gt": "No", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "No"}
+{"gt": "bottom", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "top"}
+{"gt": "Soft MoE", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "Soft MoE"}
+{"gt": "26\u00b0", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "To solve for the measure of angle E in triangle DEF, we need to use the information provided and properties of triangles.\n\nGiven:\n- Triangle ABC is congruent to triangle DEF.\n- CD bisects angle BCA.\n- Angle A = 22\u00b0.\n- Angle CGF = 88\u00b0."}
+{"gt": "no", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "no"}
+{"gt": "2", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 5, "resp": "5"}
+{"gt": "3", "fuzzy_ok": 1, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "To solve for \\( z \\), we need to use the properties of the perpendicular bisectors in a triangle. The point where the perpendicular bisectors intersect is the circumcenter of the triangle, which is equidistant from all three vertices.\n\nGiven:\n- \\( TQ = 2x \\)\n- \\( PT ="}
+{"gt": "frontal lobe", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "frontal lobe"}
+{"gt": "yes", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "yes"}
+{"gt": "yes", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "yes"}
+{"gt": "5.8", "fuzzy_ok": 1, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "To find the length \\( x \\) in the triangle, we can use the Law of Sines. The Law of Sines states that the ratio of the length of a side of a triangle to the sine of the angle opposite that side is the same for all three sides of the triangle.\n\nGiven:\n- Angle \\("}
+{"gt": "Connor", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "Connor"}
+{"gt": "4", "fuzzy_ok": 1, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "To solve for the length of BD in the given rectangle ABCD, we can use the properties of the rectangle and the given angle.\n\n1. **Identify the properties of the rectangle:**\n   - In a rectangle, all angles are right angles (90 degrees).\n   - The diagonals of a rectangle bis"}
+{"gt": "13\u00b0", "fuzzy_ok": 1, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "To solve the problem, we need to understand the geometric transformations and the relationships between the angles in the rotated triangle.\n\n1. **Identify the rotation and the angles involved:**\n   - Triangle \\( \\triangle ABC \\) is rotated clockwise around point \\( A \\) by 90 degrees to form triangle \\( \\"}
+{"gt": "20\u221a{2}\u6d77\u91cc", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "To solve this problem, we need to determine the distance between point B and the island M using the given information.\n\nFirst, let's find the distance AB:\n- The ship sails for 30 minutes (which is 0.5 hours) at a speed of 40 nautical miles per hour.\n-"}
+{"gt": "yes", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "yes"}
+{"gt": "no", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "no"}
+{"gt": "iiki", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "swallow-tanager"}
+{"gt": "2", "fuzzy_ok": 1, "clean_ok": 0, "abstain": 1, "k": 5, "resp": "To solve this problem, we need to use the properties of right triangles and the Pythagorean theorem.\n\nGiven:\n- \\( AC = 6 \\)\n- \\( BC = 3 \\)\n- Point \\( P \\) lies on \\( AB \\) such that \\( CP \\perp AB \\)\n\nSince \\( CP"}
+{"gt": "A", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 5, "resp": "E"}
+{"gt": "no", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "no"}
+{"gt": "No", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "No"}
+{"gt": "2", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 5, "resp": "To solve this problem, we need to understand the relationship between the centers and radii of the two circles.\n\nGiven:\n- \\(P\\) is the center of the larger circle.\n- \\(Q\\) is the center of the smaller circle.\n- The radius of the larger circle is 4.\n- \\(P\\),"}
+{"gt": "38", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "38"}
+{"gt": "no", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "no"}
+{"gt": "62.5", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 5, "resp": "To solve this problem, we need to understand the structure of the larger triangle and how the smaller triangles fit together.\n\n1. **Identify the Structure**: The large triangle is divided into 25 smaller equilateral triangles. This means the large triangle can be divided into 5 rows of smaller triangles, with each row"}
+{"gt": "36", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "To find the area of triangle \\( \\triangle ABC \\), we need to use the given information and properties of triangles.\n\nGiven:\n- \\( BD = 2 \\)\n- \\( DC = 1 \\)\n- \\( S_{\\triangle ACD} = 12 \\)\n\nFirst, let's determine the length"}
+{"gt": "o'clock", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 5, "resp": "o'clock"}
+{"gt": "Yes", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "Yes"}
+{"gt": "2", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "To solve for the length of \\( EF \\) in the given parallelogram \\( ABCD \\), we need to use the properties of the parallelogram and the angle bisectors.\n\nGiven:\n- \\( AB = 3 \\)\n- \\( AD = 4 \\)\n- \\( BE \\) is the angle"}
+{"gt": "57", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "To find the measure of \\(\\angle 14\\), we need to understand the relationship between the angles in the diagram.\n\n1. Identify the type of angle relationships:\n   - \\(\\angle 1\\) and \\(\\angle 14\\) are corresponding angles because they are on the same side of the trans"}
+{"gt": "145\u00b0", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "To solve this problem, we need to use the properties of angles formed by intersecting lines and the definition of angle bisector.\n\nGiven:\n- \u2220AOD = 70\u00b0\n\nStep-by-step solution:\n\n1. **Identify the relationship between the angles:**\n   - Since AB and CD intersect at"}
+{"gt": "3", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "To determine the area of the shaded part in the figure, we need to understand the properties of the parallelogram and the areas involved.\n\nGiven:\n- The total area of parallelogram \\(ABCD\\) is \\(6.0\\).\n- The shaded part consists of two triangles, \\(\\triangle ABE\\)"}
+{"gt": "120\u00b0", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "To solve this problem, we need to use the properties of parallel lines and the angles formed by a transversal.\n\nGiven:\n- \\(a \\parallel b\\)\n- \\(\\angle AFE = 30^\\circ\\)\n\nWe need to find \\(\\angle DHG\\).\n\n### Step-by-Step"}
+{"gt": "\\frac { 5 } { 3 } \\pi", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "To find the measure of the arc \\(\\widehat{\\mathrm{WN}}\\) in the circle, we need to understand the relationship between the triangle \\(\\triangle \\mathrm{IWN}\\) and the circle.\n\nGiven:\n- \\(\\triangle \\mathrm{IWN}\\) is an equilateral triangle.\n-"}
+{"gt": "12", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 5, "resp": "To solve this problem, we need to use the Pythagorean theorem in the right triangle formed by the radius of the circle, the tangent segment, and the line connecting the center of the circle to the point where the tangent touches the circle.\n\nGiven:\n- \\( AB = 8 \\)\n- \\( OB ="}
+{"gt": "25\u00b0", "fuzzy_ok": 1, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "To solve this problem, we need to use properties of circles and parallel lines.\n\n1. **Identify the given information:**\n   - \\( CD \\) is the diameter of circle \\( O \\).\n   - Chord \\( DE \\parallel OA \\).\n   - The measure of \\( \\angle D \\) is"}
+{"gt": "6", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "8"}
+{"gt": "2.4", "fuzzy_ok": 1, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "To find the length of \\( BH \\) in the given\u83f1\u5f62 (rhombus) \\( ABCD \\), we can follow these steps:\n\n1. **Identify the properties of the rhombus:**\n   - All sides of a rhombus are equal.\n   - The diagonals of a rh"}
+{"gt": "B", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 5, "resp": "C"}
+{"gt": "Yes", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "Yes"}
+{"gt": "No", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "No"}
+{"gt": "Yes", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "Yes"}
+{"gt": "yes", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "yes"}
+{"gt": "Yes", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "Yes"}
+{"gt": "No", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "No"}
+{"gt": "a trigonometric function", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "a trigonometric function"}
+{"gt": "quarter", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 5, "resp": "quarter"}
+{"gt": "8", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "To find the hypotenuse \\( h \\) of the right triangle, we can use the sine function. The sine of an angle in a right triangle is defined as the ratio of the length of the opposite side to the length of the hypotenuse.\n\nGiven:\n- The angle \\( \\theta = 60"}
+{"gt": "Yes", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "Yes"}
+{"gt": "3.5", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "To solve for the length of line segment NC, we need to follow these steps:\n\n1. Determine the lengths of the segments involved.\n2. Use the given information to find the required length.\n\nStep 1: Determine the lengths of the segments.\n- Since M is the midpoint of AB, AM = MB = AB"}
+{"gt": "04/02/2005", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 5, "resp": "04/06/2005"}
+{"gt": "No", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "No"}
+{"gt": "5", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 5, "resp": "To find the perimeter of polygon ABCDE, we need to determine the lengths of all its sides.\n\n1. **Identify the side length of the square ABCE:**\n   - The area of square ABCE is given as 1.\n   - Let the side length of the square be \\( s \\)."}
+{"gt": "34m", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "To solve this problem, we need to determine the length of the dam bottom \\( AD \\). We know the following:\n\n- The width of the crest \\( BC = 6.0 \\) meters.\n- The height of the dam \\( AB = 14.0 \\) meters.\n- The slope of the"}
+{"gt": "No", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "No"}
+{"gt": "58", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "58"}
+{"gt": "17", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "To find the perimeter of triangle OAB, we need to determine the lengths of its sides. We know that in a parallelogram, the diagonals bisect each other. Therefore, the diagonals AC and BD intersect at point O such that AO = OC and BO = OD.\n\nGiven:\n- AC ="}
+{"gt": "tokyo", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "tokyo"}
+{"gt": "decrease", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "decrease"}
+{"gt": "55", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "To solve for \\( x \\) in the given circle, we need to use the fact that the intercepted arcs are congruent if and only if the chords are congruent. Here, \\(\\overline{CH} \\cong \\overline{KJ}\\), which means the arcs \\( \\overset{\\"}
+{"gt": "increase", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "increase"}
+{"gt": "No", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "No"}
+{"gt": "increase in phytoplankton", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "increase in phytoplankton"}
+{"gt": "0-5", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 5, "resp": "0-5"}
+{"gt": "Yes", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "Yes"}
+{"gt": "d + e = f + j", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 5, "resp": "c + f = f + b"}
+{"gt": "Grasshoppers will decrease.", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "Grasshoppers will decrease."}
+{"gt": "No", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "No"}
+{"gt": "110\u00b0", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "To solve for the angle \\(\\angle MPB\\), we need to analyze the geometric properties and relationships in the given figure.\n\nGiven:\n- \\(ABCD\\) is a\u83f1\u5f62 (rhombus).\n- \\(M\\) and \\(N\\) are midpoints of \\(BC\\) and \\(CD\\) respectively.\n-"}
+{"gt": "yes", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "yes"}
+{"gt": "no", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "no"}
+{"gt": "27", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "To find the area of the parallelogram \\(ABCD\\), we can use the formula for the area of a parallelogram, which is given by:\n\n\\[ \\text{Area} = \\text{base} \\times \\text{height} \\]\n\nIn this problem, the base \\(BC\\) is"}
+{"gt": "2*\\sqrt{3}", "fuzzy_ok": 1, "clean_ok": 0, "abstain": 0, "k": 5, "resp": "To find the value of \\( x \\) in the given right triangle, we can use trigonometric relationships. The triangle has a 60-degree angle and a 90-degree angle, making it a 30-60-90 triangle.\n\nIn a 30-60-9"}
+{"gt": "2\u221a{2}", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "To solve this problem, we need to analyze the geometric properties and relationships in the given circle and triangle.\n\nGiven:\n- \\( AB = BC = 4 \\)\n- Point \\( D \\) is the midpoint of \\( BC \\)\n\nSince \\( AB = BC \\), triangle \\( ABC \\) is isosceles"}
+{"gt": "1 & 3", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 5, "resp": "1 & 3"}
+{"gt": "No", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 2, "resp": "Yes"}
+{"gt": "C", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 5, "resp": "A"}
+{"gt": "120\u00b0", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "D"}
+{"gt": "\\frac{9}{5}", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "To solve this problem, we need to use the properties of similar triangles. The triangles formed by the light source \\(P\\) and the objects \\(AB\\) and \\(CD\\) are similar because the lines are parallel.\n\nGiven:\n- \\(AB = 2.0\\)\n- \\(CD = 5.0\\"}
+{"gt": "3", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "To find the value of \\( x \\), we need to use the properties of triangles and the given side lengths.\n\nGiven:\n- One side length is \\( 6x + 2 \\)\n- Another side length is \\( 9x - 2 \\)\n- The third side length is 10\n\nSince"}
+{"gt": "No", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "No"}
+{"gt": "No", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "No"}
+{"gt": "16 \\sqrt { 5 }", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "To find \\( y \\), we need to use the Pythagorean theorem in the context of the right triangle formed by the sides of the larger triangle.\n\nThe larger triangle can be divided into two smaller right triangles. The height of the larger triangle is 16, and the base is split into two segments:"}
+{"gt": "No", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "No"}
+{"gt": "yes", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "yes"}
+{"gt": "No", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "No"}
+{"gt": "yes", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "yes"}
+{"gt": "10", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "To solve for \\( x \\) in the given circle diagram, we need to use the properties of angles formed by tangents and chords.\n\nGiven:\n- The angle formed by the tangent and the chord is \\( 30^\\circ \\).\n- The angle subtended by the arc on the circumference is \\( 4"}
+{"gt": "Grasshopper", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "Grasshopper"}
+{"gt": "Yes", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "Yes"}
+{"gt": "No", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "No"}
+{"gt": "32\u00b0", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "To solve this problem, we need to use the properties of parallel lines and angles in a triangle.\n\nGiven:\n- \\( \\angle C = 90^\\circ \\)\n- \\( \\angle B = 58^\\circ \\)\n- \\( a \\parallel b \\)\n\nFirst, let's find \\( \\angle"}
+{"gt": "78", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "To find the perimeter of the parallelogram, we need to add up the lengths of all its sides.\n\nGiven:\n- One side length is 23 ft.\n- The other side length is 16 ft (since opposite sides of a parallelogram are equal).\n\nThe formula for the perimeter \\( P \\"}
+{"gt": "No", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "No"}
+{"gt": "15", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "50"}
+{"gt": "7.5", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "To solve for RW, we need to use the properties of similar triangles. The given triangle RWS is divided into two smaller triangles, RLT and TLS, by the line segment LW.\n\nSince the triangles are similar (as indicated by the equal angles), the ratios of their corresponding sides are equal. Specifically, the ratio"}
+{"gt": "130", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "To solve for \\( m \\widehat{HJ} \\), we need to understand the relationship between the arc lengths and the central angles in the circle.\n\nGiven:\n- \\( FL = 24 \\)\n- \\( HJ = 48 \\)\n- \\( m \\widehat{HP} ="}
+{"gt": "65\u00b0", "fuzzy_ok": 1, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "To solve for the measure of angle \\(\\angle ACB\\), we need to use properties of circles and tangents.\n\n1. **Identify the given information:**\n   - \\(PA\\) and \\(PB\\) are tangents to the circle at points \\(A\\) and \\(B\\) respectively.\n   - \\("}
+{"gt": "\\frac{20}{7}cm", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "To solve for the length of \\( DE \\) in the triangle \\( ABC \\) where \\( DE \\parallel BC \\), we can use the properties of similar triangles.\n\nGiven:\n- \\( AB = 7.0 \\)\n- \\( AC = 5.0 \\)\n- \\( AD = 3.0"}
+{"gt": "Seahorses would decrease", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "Seahorses would decrease"}
+{"gt": "2", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "To solve this problem, we need to use the properties of a tangent and a radius drawn to the point of tangency.\n\nGiven:\n- PA is a tangent to circle O at point A.\n- OP = 4 (the length of the line segment from the center O to point P).\n- \u2220APO ="}
+{"gt": "Population will decrease", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "Population will decrease"}
+{"gt": "a polynomial", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "a polynomial"}
+{"gt": "decrease", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "decrease"}
+{"gt": "7.2", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "7.2"}
+{"gt": "No", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "No"}
+{"gt": "Yes", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "Yes"}
+{"gt": "Increase", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "Increase"}
+{"gt": "(0, 0)", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 3, "resp": "(-1, 0)"}
+{"gt": "no", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "no"}
+{"gt": "Yes", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "Yes"}
+{"gt": "July and August", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 3, "resp": "July and August"}
+{"gt": "Solution A", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 3, "resp": "Solution A"}
+{"gt": "decrease", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "decrease"}
+{"gt": "Yes", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "Yes"}
+{"gt": "40\u00b0", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "To solve for the measure of angle \\( \\angle D \\), we need to use the properties of tangents and angles in a circle.\n\n1. **Identify the given information:**\n   - \\( AB \\) is the diameter of circle \\( O \\).\n   - Point \\( D \\) is on the extended"}
+{"gt": "Yes", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "Yes"}
+{"gt": "no", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "no"}
+{"gt": "18.79", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "To find \\( JQ \\) where \\( Q \\) is the incenter of \\( \\triangle JLN \\), we need to use the fact that the incenter is the point where the angle bisectors of the triangle intersect, and it divides each angle bisector into segments that are proportional to the adjacent sides."}
+{"gt": "40", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "To find the perimeter of the rhombus \\(LMPQ\\), we need to determine the length of each side. Since all sides of a rhombus are equal, we can use the given information about the angles and the side length to find the perimeter.\n\nGiven:\n- \\(MP = 10\\"}
+{"gt": "A", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "C"}
+{"gt": "Yes", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "Yes"}
+{"gt": "18", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "To find the length of \\( CD \\) in \\(\\triangle CDF\\) where \\( K \\) is the centroid and \\( DK = 16 \\), we need to use the properties of the centroid.\n\nThe centroid \\( K \\) divides each median into a ratio of 2:1, with the longer"}
+{"gt": "30\u221a{3}m", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "To solve for the width of the river \\( AB \\), we need to use the given angles and the distance \\( CD \\).\n\nGiven:\n- \\( \\angle ACB = 30^\\circ \\)\n- \\( \\angle ADB = 60^\\circ \\)\n- \\( CD = 60 \\"}
+{"gt": "The number of aquatic crustaceans will d", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "The number of aquatic crustaceans will decrease"}
+{"gt": "100", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "100"}
+{"gt": "12", "fuzzy_ok": 1, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "To solve for the length of AC, we need to use the properties of the triangle and the given information.\n\nGiven:\n- N is the midpoint of BC.\n- AM is the angle bisector of \u2220BAC.\n- BM \u22a5 AM.\n- AB = 8.\n- MN = 2.\n\nSince"}
+{"gt": "2", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 6, "resp": "6"}
+{"gt": "k + p + s", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 5, "resp": "D"}
+{"gt": "no", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "no"}
+{"gt": "4.29", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "To find the length of \\( BD \\) in the circle \\( \\odot B \\), we need to use the properties of the circle and the given information.\n\nGiven:\n- The diameter \\( CE = 13.5 \\).\n- The radius \\( AB = 8 \\).\n\nSince \\( CE \\) is"}
+{"gt": "No", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "No"}
+{"gt": "50\u00b0", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "To solve this problem, we need to use the properties of angles in a circle, specifically the fact that the angle subtended by an arc at the center of the circle is twice the angle subtended by the same arc at any point on the remaining part of the circle.\n\nHere's the step-by-step reasoning:\n\n1"}
+{"gt": "Acuminate", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "Rounded"}
+{"gt": "2:2", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 5, "resp": "3:1"}
+{"gt": "Yes", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 2, "resp": "No"}
+{"gt": "120", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "To find \\( m \\angle NCL \\), we need to use the fact that the sum of the angles around point \\( C \\) is 360 degrees.\n\nGiven:\n- \\( \\angle RCM = (x - 1)^\\circ \\)\n- \\( \\angle MCN = 60"}
+{"gt": "3", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "9"}
+{"gt": "25\u00b0", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "To solve for the degree of \u22201, we need to use the properties of parallel lines and the angles formed by a transversal.\n\nGiven:\n- Line \\(a\\) is parallel to line \\(b\\).\n- Point \\(B\\) is on line \\(b\\).\n- \\(AB \\perp BC\\"}
+{"gt": "7", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "To find the value of \\( t \\) in the parallelogram, we need to use the property that the diagonals of a parallelogram bisect each other. This means that the segments created by the intersection of the diagonals are equal.\n\nGiven:\n- The length of one segment of diagonal \\( WX \\"}
+{"gt": "0.96", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "To find \\(\\cos A\\) in the right triangle \\(ABC\\), we use the definition of cosine for angle \\(A\\):\n\n\\[\n\\cos A = \\frac{\\text{adjacent}}{\\text{hypotenuse}}\n\\]\n\nIn this triangle:\n- The adjacent side to angle \\(A\\) is"}
+{"gt": "Yes", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "Yes"}
+{"gt": "44", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "To find the perimeter of the parallelogram, we need to know the lengths of all its sides. The given information includes two sides and an angle.\n\n1. Identify the given sides:\n   - One side is 12 meters.\n   - The other side is 10 meters (the height of the paralle"}
+{"gt": "The population of tuna will increase", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "The population of tuna will increase"}
+{"gt": "No", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "No"}
+{"gt": "Superior lobes", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "Inferior lobes"}
+{"gt": "D", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 6, "resp": "F"}
+{"gt": "Left", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 5, "resp": "Bottom"}
+{"gt": "Yes", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "Yes"}
+{"gt": "semionotus", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "Semionotus"}
+{"gt": "No", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "No"}
+{"gt": "salami", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "salami"}
+{"gt": "\\frac{4}{5}", "fuzzy_ok": 1, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "To solve this problem, we need to determine the coordinates of points \\(P\\), \\(A\\), and \\(B\\) and then find the tangent of angle \\(\\angle BAP\\).\n\n1. **Determine the coordinates of point \\(A\\):**\n   - Point \\(P\\) is at the origin \\"}
+{"gt": "no", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "no"}
+{"gt": "No", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "No"}
+{"gt": "yes", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "yes"}
+{"gt": "red", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 3, "resp": "red"}
+{"gt": "(b)", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 5, "resp": "(b)"}
+{"gt": "Yes", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "Yes"}
+{"gt": "12", "fuzzy_ok": 1, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "To find the perimeter of the rhombus \\(ABCD\\), we need to determine the lengths of its sides. Given that \\(\\angle BAD = 120^\\circ\\) and the length of the diagonal \\(AC = 3.0\\), we can use properties of the rhombus and trig"}
+{"gt": "Fish", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "Fish"}
+{"gt": "14", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "To determine the value of \\( x \\) such that lines \\( a \\) and \\( b \\) are parallel, we need to use the property that corresponding angles formed by a transversal intersecting two parallel lines are equal.\n\nIn the given diagram, the angles marked as \\( (4x + 11"}
+{"gt": "Simple", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "Simple"}
+{"gt": "Octopus", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "Octopus"}
+{"gt": "no", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "no"}
+{"gt": "Yes", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 2, "resp": "No"}
+{"gt": "yes", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "yes"}
+{"gt": "135", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "To find the measure of angle \\( \\angle S \\) in trapezoid \\( QRS T \\), we need to analyze the given information and use properties of trapezoids and midpoints.\n\nGiven:\n- \\( A \\) and \\( B \\) are midpoints of the non-parallel sides \\("}
+{"gt": "Yes", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "Yes"}
+{"gt": "D", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "B"}
+{"gt": "90", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "90"}
+{"gt": "11", "fuzzy_ok": 1, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "To solve for \\( S_2 \\), we need to use the relationship between the areas of the squares constructed on the sides of the right triangle.\n\nGiven:\n- \\( S_1 = 5 \\)\n- \\( S_3 = 16 \\)\n\nIn a right triangle, the area of the square constructed"}
+{"gt": "decrease", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "increase"}
+{"gt": "yes", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "yes"}
+{"gt": "octopus", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "octopus"}
+{"gt": "140\u00b0", "fuzzy_ok": 1, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "To determine the measure of angle AOC, we need to use the relationship between the central angle and the inscribed angle that subtend the same arc.\n\nGiven:\n- \u2220ABC = 70\u00b0\n\nThe central angle AOC subtends the same arc as the inscribed angle ABC. The measure of a"}
+{"gt": "yes", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "yes"}
+{"gt": "Sun", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "Sun"}
+{"gt": "No", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "No"}
+{"gt": "MuBERT", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 5, "resp": "MuBERT"}
+{"gt": "Around 31%", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "Around 31%"}
+{"gt": "40", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "57"}
+{"gt": "55\u00b0", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "To solve for the measure of \u2220OAB, we need to use the properties of circles and angles.\n\n1. **Identify the given information:**\n   - \u2220C = 35\u00b0\n   - O is the center of the circle.\n   - A, B, and C are points on"}
+{"gt": "Yes", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "Yes"}
+{"gt": "obtuse", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "Obtuse"}
+{"gt": "60\u00b0", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "To determine the measure of angle AOC, we need to use the relationship between the central angle and the inscribed angle that subtend the same arc.\n\nGiven:\n- \u2220ABC = 30\u00b0\n\nThe inscribed angle \u2220ABC and the central angle \u2220AOC subtend the same arc AC"}
+{"gt": "Yes", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 2, "resp": "No"}
+{"gt": "No", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "No"}
+{"gt": "lizard", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "lizard"}
+{"gt": "\\frac{1}{3}", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "To solve the problem, we need to use the properties of similar triangles. Since \\(DE \\parallel BC\\), triangles \\(ADE\\) and \\(ABC\\) are similar by the AA (Angle-Angle) similarity criterion.\n\nGiven:\n- \\(AD = 1.0\\)\n- \\(DB = 2.0"}
+{"gt": "No", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "No"}
+{"gt": "yes", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "yes"}
+{"gt": "It would also decrease.", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "It would also decrease."}
+{"gt": "\u221a{2}", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "To solve for the minimum value of the line segment \\(PQ\\), we need to analyze the geometric configuration and use trigonometric relationships.\n\nGiven:\n- \\(\\triangle ABC\\) is a right triangle with \\(\\angle C = 90^\\circ\\).\n- \\(\\angle A = 30^\\"}
+{"gt": "21.6", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "21.6"}
+{"gt": "LLaVA-13B (LLaMA-2)", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 7, "resp": "MM-ReAct-GPT-4"}
+{"gt": "yes", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "yes"}
+{"gt": "19", "fuzzy_ok": 1, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "To solve this problem, we need to use the properties of the perpendicular bisector and the given information about the triangle.\n\nGiven:\n- \\( AB = 6 \\)\n- The perimeter of \\( \\triangle ACE \\) is 13.\n- \\( DE \\) is the perpendicular bisector of \\( AB \\)."}
+{"gt": "119\u00b0", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "To find the measure of \u2220BFC, we need to use the properties of angles in a triangle and the fact that F is the intersection of the angle bisectors.\n\nGiven:\n- CG \u22a5 AB (CG is perpendicular to AB)\n- \u2220ACG = 32\u00b0\n\nSince CG is perpendicular"}
+{"gt": "50\u00b0", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "To solve for the measure of \u2220BAD, we need to use properties of circles and triangles.\n\n1. **Identify the given information:**\n   - AB is the diameter of the circle.\n   - Point D is a point on the circle.\n   - \u2220ACD = 40\u00b0.\n\n2"}
+{"gt": "decrease", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "decrease"}
+{"gt": "2", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "To solve for the length of \\( BE \\) in the given parallelogram \\( ABCD \\), we need to use the properties of parallelograms and the fact that \\( DE \\) is a diagonal.\n\nGiven:\n- \\( AD = 6 \\)\n- \\( AB = 4 \\)\n- \\( DE"}
+{"gt": "yes", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "yes"}
+{"gt": "105", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "To find the measure of \\(\\angle 6\\), we need to understand the relationship between the angles formed by the transversal \\(t\\) intersecting lines \\(m\\) and \\(n\\).\n\nGiven:\n- \\(m \\angle 9 = 75^\\circ\\)\n\nSince \\(\\angle 9"}
+{"gt": "octopus", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "octopus"}
+{"gt": "115\u00b0", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "To find the measure of \u2220AED, we can use the properties of parallel lines and the sum of angles in a quadrilateral.\n\nGiven:\n- AB || CD (AB is parallel to CD)\n- BC || DE (BC is parallel to DE)\n- \u2220A = 45\u00b0\n- \ufffd"}
+{"gt": "positive", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "negative"}
+{"gt": "12.75", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "To solve for \\( x \\) in the given circle, we need to use the fact that the sum of the angles subtended by the same arc in a circle is equal. Here, the angles \\( 3x^\\circ \\) and \\( (5x - 12)^\\circ \\) are subt"}
+{"gt": "Fish", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "Fish"}
+{"gt": "All of above", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "All of above"}
+{"gt": "36\u00b0", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "To find the measure of angle \u2220ADE in a regular pentagon, we can use the properties of a regular polygon and its circumscribed circle.\n\n1. **Identify the central angle**: A regular pentagon has 5 sides, so the measure of each central angle (the angle subtended by each side"}
+{"gt": "Yes", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "Yes"}
+{"gt": "R, D, N", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "R, D, N"}
+{"gt": "smaller than", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 3, "resp": "smaller than"}
+{"gt": "yes", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "yes"}
+{"gt": "118\u00b0", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "To solve this problem, we need to use the properties of angles formed by a transversal intersecting two parallel lines.\n\nGiven:\n- Lines \\(a\\) and \\(b\\) are parallel.\n- \\(\\angle 1 = 62^\\circ\\).\n\nWe need to find the measure of \\(\\angle"}
+{"gt": "No", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "No"}
+{"gt": "No", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "No"}
+{"gt": "No", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "No"}
+{"gt": "No", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "No"}
+{"gt": "25\u00b0", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "To solve for the measure of \u2220DEF, we need to use the properties of parallel lines and the angles formed by a transversal.\n\nGiven:\n- AB || CD (AB is parallel to CD)\n- BE \u22a5 AF (BE is perpendicular to AF)\n- \u2220B = 65\u00b0"}
+{"gt": "No", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "No"}
+{"gt": "No", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "No"}
+{"gt": "15\u00b0", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "To find the measure of \u2220EAD, we need to follow these steps:\n\n1. **Find the measure of \u2220BAC**:\n   - The sum of the angles in a triangle is 180\u00b0.\n   - Given \u2220B = 40\u00b0 and \u2220C ="}
+{"gt": "49", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "To find the measure of arc \\( \\widehat{PQ} \\), we need to understand the relationship between the central angle and the arcs it intercepts.\n\nGiven:\n- The measure of arc \\( \\widehat{PQR} = 98^\\circ \\).\n\nSince \\( \\widehat{PQR"}
+{"gt": "purple and grey", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 3, "resp": "blue and orange"}
+{"gt": "No", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "No"}
+{"gt": "yes", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "yes"}
+{"gt": "No", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "No"}
+{"gt": "28\u00b0", "fuzzy_ok": 1, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "To solve this problem, we need to determine the measure of \u2220AOB given the ratios and the angle between the bisectors.\n\nLet's denote the measures of \u2220AOB, \u2220BOC, and \u2220COD as 2x, 3x, and 4x respectively, where x"}

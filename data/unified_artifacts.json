@@ -1,0 +1,362 @@
+[
+  {
+    "benchmark": "mmmu",
+    "model": "gemma-4-e4b",
+    "non_compliance": 0.2733,
+    "artifact": 0.04,
+    "family": "parse+random",
+    "cohort": "firing",
+    "venue": "CVPR'24 Oral"
+  },
+  {
+    "benchmark": "mmmu",
+    "model": "llama-3.2-11b",
+    "non_compliance": 0.2067,
+    "artifact": 0.0867,
+    "family": "parse+random",
+    "cohort": "firing",
+    "venue": "CVPR'24 Oral"
+  },
+  {
+    "benchmark": "mmmu",
+    "model": "pixtral-12b",
+    "non_compliance": 0.16,
+    "artifact": 0.0267,
+    "family": "parse+random",
+    "cohort": "firing",
+    "venue": "CVPR'24 Oral"
+  },
+  {
+    "benchmark": "mmmu",
+    "model": "qwen2.5-vl-7b",
+    "non_compliance": 0.04,
+    "artifact": 0.0067,
+    "family": "parse+random",
+    "cohort": "firing",
+    "venue": "CVPR'24 Oral"
+  },
+  {
+    "benchmark": "mmmu",
+    "model": "qwen3-vl-8b",
+    "non_compliance": 0.1733,
+    "artifact": 0.0467,
+    "family": "parse+random",
+    "cohort": "firing",
+    "venue": "CVPR'24 Oral"
+  },
+  {
+    "benchmark": "scienceqa",
+    "model": "gemma-4-e4b",
+    "non_compliance": 0.1983,
+    "artifact": 0.0617,
+    "family": "parse+random",
+    "cohort": "firing",
+    "venue": "NeurIPS'22"
+  },
+  {
+    "benchmark": "scienceqa",
+    "model": "llama-3.2-11b",
+    "non_compliance": 0.845,
+    "artifact": 0.3033,
+    "family": "parse+random",
+    "cohort": "firing",
+    "venue": "NeurIPS'22"
+  },
+  {
+    "benchmark": "scienceqa",
+    "model": "pixtral-12b",
+    "non_compliance": 0.3367,
+    "artifact": 0.1183,
+    "family": "parse+random",
+    "cohort": "firing",
+    "venue": "NeurIPS'22"
+  },
+  {
+    "benchmark": "scienceqa",
+    "model": "qwen2.5-vl-7b",
+    "non_compliance": 0.2267,
+    "artifact": 0.07,
+    "family": "parse+random",
+    "cohort": "firing",
+    "venue": "NeurIPS'22"
+  },
+  {
+    "benchmark": "scienceqa",
+    "model": "qwen3-vl-8b",
+    "non_compliance": 0.0733,
+    "artifact": 0.0267,
+    "family": "parse+random",
+    "cohort": "firing",
+    "venue": "NeurIPS'22"
+  },
+  {
+    "benchmark": "omnimedvqa",
+    "model": "gemma-4-e4b",
+    "non_compliance": 0.01,
+    "artifact": 0.005,
+    "family": "snap",
+    "cohort": "firing",
+    "venue": "CVPR'24"
+  },
+  {
+    "benchmark": "omnimedvqa",
+    "model": "qwen2.5-vl-7b",
+    "non_compliance": 0.015,
+    "artifact": 0.0133,
+    "family": "snap",
+    "cohort": "firing",
+    "venue": "CVPR'24"
+  },
+  {
+    "benchmark": "omnimedvqa",
+    "model": "qwen3-vl-8b",
+    "non_compliance": 0.01,
+    "artifact": 0.01,
+    "family": "snap",
+    "cohort": "firing",
+    "venue": "CVPR'24"
+  },
+  {
+    "benchmark": "omnimedvqa",
+    "model": "pixtral-12b",
+    "non_compliance": 0.3917,
+    "artifact": 0.0833,
+    "family": "snap",
+    "cohort": "firing",
+    "venue": "CVPR'24"
+  },
+  {
+    "benchmark": "omnimedvqa",
+    "model": "llama-3.2-11b",
+    "non_compliance": 0.0633,
+    "artifact": 0.0183,
+    "family": "snap",
+    "cohort": "firing",
+    "venue": "CVPR'24"
+  },
+  {
+    "benchmark": "pmcvqa",
+    "model": "gemma-4-e4b",
+    "non_compliance": 0.045,
+    "artifact": 0.015,
+    "family": "snap",
+    "cohort": "firing",
+    "venue": "Comm.Med.'24"
+  },
+  {
+    "benchmark": "pmcvqa",
+    "model": "llama-3.2-11b",
+    "non_compliance": 0.1167,
+    "artifact": 0.02,
+    "family": "snap",
+    "cohort": "firing",
+    "venue": "Comm.Med.'24"
+  },
+  {
+    "benchmark": "pmcvqa",
+    "model": "pixtral-12b",
+    "non_compliance": 0.6067,
+    "artifact": 0.0967,
+    "family": "snap",
+    "cohort": "firing",
+    "venue": "Comm.Med.'24"
+  },
+  {
+    "benchmark": "pmcvqa",
+    "model": "qwen2.5-vl-7b",
+    "non_compliance": 0.0,
+    "artifact": 0.0,
+    "family": "snap",
+    "cohort": "firing",
+    "venue": "Comm.Med.'24"
+  },
+  {
+    "benchmark": "pmcvqa",
+    "model": "qwen3-vl-8b",
+    "non_compliance": 0.005,
+    "artifact": 0.0017,
+    "family": "snap",
+    "cohort": "firing",
+    "venue": "Comm.Med.'24"
+  },
+  {
+    "benchmark": "pope",
+    "model": "gemma-4-e4b",
+    "non_compliance": 0.0513,
+    "artifact": 0.0173,
+    "family": "default-class",
+    "cohort": "firing",
+    "venue": "EMNLP'23"
+  },
+  {
+    "benchmark": "pope",
+    "model": "qwen2.5-vl-7b",
+    "non_compliance": 0.0,
+    "artifact": 0.0,
+    "family": "default-class",
+    "cohort": "firing",
+    "venue": "EMNLP'23"
+  },
+  {
+    "benchmark": "pope",
+    "model": "qwen3-vl-8b",
+    "non_compliance": 0.0033,
+    "artifact": 0.0027,
+    "family": "default-class",
+    "cohort": "firing",
+    "venue": "EMNLP'23"
+  },
+  {
+    "benchmark": "pope",
+    "model": "pixtral-12b",
+    "non_compliance": 0.0513,
+    "artifact": 0.0253,
+    "family": "default-class",
+    "cohort": "firing",
+    "venue": "EMNLP'23"
+  },
+  {
+    "benchmark": "pope",
+    "model": "llama-3.2-11b",
+    "non_compliance": 0.0033,
+    "artifact": 0.0027,
+    "family": "default-class",
+    "cohort": "firing",
+    "venue": "EMNLP'23"
+  },
+  {
+    "benchmark": "mmad",
+    "model": "gemma-4-e4b",
+    "non_compliance": 0.0,
+    "artifact": 0.0,
+    "family": "snap",
+    "cohort": "firing",
+    "venue": "ICLR'25"
+  },
+  {
+    "benchmark": "mmad",
+    "model": "llama-3.2-11b",
+    "non_compliance": 0.3695,
+    "artifact": 0.2198,
+    "family": "snap",
+    "cohort": "firing",
+    "venue": "ICLR'25"
+  },
+  {
+    "benchmark": "mmad",
+    "model": "pixtral-12b",
+    "non_compliance": 0.2928,
+    "artifact": 0.212,
+    "family": "snap",
+    "cohort": "firing",
+    "venue": "ICLR'25"
+  },
+  {
+    "benchmark": "mmad",
+    "model": "qwen2.5-vl-7b",
+    "non_compliance": 0.0,
+    "artifact": 0.0,
+    "family": "snap",
+    "cohort": "firing",
+    "venue": "ICLR'25"
+  },
+  {
+    "benchmark": "mmad",
+    "model": "qwen3-vl-8b",
+    "non_compliance": 0.0,
+    "artifact": 0.0,
+    "family": "snap",
+    "cohort": "firing",
+    "venue": "ICLR'25"
+  },
+  {
+    "benchmark": "mathvista",
+    "model": "gemma-4-e4b",
+    "non_compliance": 0.0278,
+    "artifact": 0.0037,
+    "family": "snap(+extract buffer)",
+    "cohort": "defused",
+    "venue": "ICLR'24 Oral"
+  },
+  {
+    "benchmark": "mathvista",
+    "model": "qwen2.5-vl-7b",
+    "non_compliance": 0.0278,
+    "artifact": 0.0111,
+    "family": "snap(+extract buffer)",
+    "cohort": "defused",
+    "venue": "ICLR'24 Oral"
+  },
+  {
+    "benchmark": "mathvista",
+    "model": "qwen3-vl-8b",
+    "non_compliance": 0.013,
+    "artifact": 0.0037,
+    "family": "snap(+extract buffer)",
+    "cohort": "defused",
+    "venue": "ICLR'24 Oral"
+  },
+  {
+    "benchmark": "mathvista",
+    "model": "pixtral-12b",
+    "non_compliance": 0.0426,
+    "artifact": 0.0167,
+    "family": "snap(+extract buffer)",
+    "cohort": "defused",
+    "venue": "ICLR'24 Oral"
+  },
+  {
+    "benchmark": "mathvista",
+    "model": "llama-3.2-11b",
+    "non_compliance": 0.0352,
+    "artifact": 0.0074,
+    "family": "snap(+extract buffer)",
+    "cohort": "defused",
+    "venue": "ICLR'24 Oral"
+  },
+  {
+    "benchmark": "mathvision",
+    "model": "gemma-4-e4b",
+    "non_compliance": 0.61,
+    "artifact": 0.0,
+    "family": "abstain",
+    "cohort": "defused",
+    "venue": "NeurIPS'24 D&B"
+  },
+  {
+    "benchmark": "mathvision",
+    "model": "qwen2.5-vl-7b",
+    "non_compliance": 0.565,
+    "artifact": 0.0,
+    "family": "abstain",
+    "cohort": "defused",
+    "venue": "NeurIPS'24 D&B"
+  },
+  {
+    "benchmark": "mathvision",
+    "model": "qwen3-vl-8b",
+    "non_compliance": 0.61,
+    "artifact": 0.0,
+    "family": "abstain",
+    "cohort": "defused",
+    "venue": "NeurIPS'24 D&B"
+  },
+  {
+    "benchmark": "mathvision",
+    "model": "pixtral-12b",
+    "non_compliance": 0.695,
+    "artifact": 0.0,
+    "family": "abstain",
+    "cohort": "defused",
+    "venue": "NeurIPS'24 D&B"
+  },
+  {
+    "benchmark": "mathvision",
+    "model": "llama-3.2-11b",
+    "non_compliance": 0.535,
+    "artifact": 0.0,
+    "family": "abstain",
+    "cohort": "defused",
+    "venue": "NeurIPS'24 D&B"
+  }
+]

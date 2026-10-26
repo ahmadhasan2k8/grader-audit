@@ -1,0 +1,600 @@
+{"gt": "Airspace opacity", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "Airspace opacity"}
+{"gt": "Acromioclavicular joint osteoarthritis (", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "Ankylosing spondylitis"}
+{"gt": "Meniscal abnormality", "fuzzy_ok": 1, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "The image shows a medical scan of a horse's leg with a tendon's lower a a black "}
+{"gt": "Melanoma", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "Psoriasis"}
+{"gt": "spleen", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "The image is not relevant to the question.\n\nThe image is not relevant to the que"}
+{"gt": "White matter changes", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "The image shows \"Blood vessel abnormalities\"."}
+{"gt": "Background of histological image.", "fuzzy_ok": 1, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "The image primarily features a background with a pink hue, adorned with numerous"}
+{"gt": "MCL pathology", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "Anterior cruciate ligament (ACL) tear"}
+{"gt": "Airspace opacity", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "Lung consolidation"}
+{"gt": "No", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 2, "resp": "The image shows a medical scan of the abdominal area, likely a CT scan, with vis"}
+{"gt": "GHJ OA", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "The visual evidence suggests the diagnosis of 'GHJ OA'."}
+{"gt": "histopathology.", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "histopathology."}
+{"gt": "No", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 2, "resp": "The image shows a medical illustration of a human torso with organs outlined in "}
+{"gt": "Chest", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "This is a question and answer.\n\nQuestion: What does the X-ray show?\n\nThis questi"}
+{"gt": "microscopy.", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "Nuclear medicine scan"}
+{"gt": "uterus", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "The organ visible in this ultrasound image is \"Large intestine\"."}
+{"gt": "Benign image.", "fuzzy_ok": 1, "clean_ok": 0, "abstain": 1, "k": 2, "resp": "Benign image"}
+{"gt": "Nevus", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "Yes, it is a mole."}
+{"gt": "Labral pathology", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "The correct answer to the image is \"Tendonitis\"."}
+{"gt": "liver", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "The image shows an ultrasound of a fetus in the womb. The fetus is positioned wi"}
+{"gt": "Liver disease", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "Kidney disease"}
+{"gt": "Soft tissue edema", "fuzzy_ok": 1, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "The image likely shows an MRI scan of an ankle with some form of 'Soft tissue ed"}
+{"gt": "No, It's normal.", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "It's difficult to determine if there is an abnormality based on this image."}
+{"gt": "Lung", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "Here is the answer to the question you think you think you think you think you t"}
+{"gt": "Dermoscopic imaging", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "Electrodiogram (ECG) imaging"}
+{"gt": "liver", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "B: The image is a medical ultrasound scan, typically used to examine the structu"}
+{"gt": "CT", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "The imaging technique used to produce this scan is MRI."}
+{"gt": "Soft tissue fluid", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "\"Cyst formation\""}
+{"gt": "left eye", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 2, "resp": "A black and white, 'left eye', 'right eye', 'left eye', 'right eye', 'left eye',"}
+{"gt": "Interstitial lung disease", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "Pulmonary embolism"}
+{"gt": "thyroid nodule", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "The structure being displayed in this ultrasound image is a 'Inguinal hernia'."}
+{"gt": "Optical Coherence Tomography (OCT)", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "This is the correct from the candidate answers, do not return any other text!"}
+{"gt": "Epithelioid cells", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "The correct answer from the candidate answers, \"Columnar cells\", does not return"}
+{"gt": "MRI", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "MRI"}
+{"gt": "Nodule", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "The image shows a radiographic image, likely a CT scan, of the chest.'Growth' is"}
+{"gt": "Benign image.", "fuzzy_ok": 1, "clean_ok": 0, "abstain": 1, "k": 2, "resp": "The anomaly observed in this image is indicative of a benign condition."}
+{"gt": "Osseous neoplasm", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "Thyroid nodule"}
+{"gt": "Viral_Pneumonia.", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "The image shows an X-ray of a child's chest, with the letters \"R\" and \"Lung\" vis"}
+{"gt": "Scoliosis", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "Kyphosis"}
+{"gt": "No, It's normal.", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "Yes, it shows a significant abnormality."}
+{"gt": "First Distal Interphalangeal", "fuzzy_ok": 1, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "The image shows a close-up view of a human hand with a focus on the middle finge"}
+{"gt": "No abnormality detected", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "The image shows an X-ray of a hand with an abnormal growth of cells and a fractu"}
+{"gt": "Microscopy", "fuzzy_ok": 0, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "The correct answer is:\n\nMicroscopy. This imaging technique is often used to capt"}
+{"gt": "eosinophils", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "The correct answer is \"Eosinophils\"."}
+{"gt": "No, It's normal.", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "'Yes, it shows a significant abnormality.'"}
+{"gt": "No, It's normal.", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "The image appears to show a normal brain scan, with no visible abnormalities or "}
+{"gt": "Achilles pathology.", "fuzzy_ok": 1, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "A diamond."}
+{"gt": "thyroid nodule", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "The structure being displayed in this ultrasound image is a 'Myocardial infarcti"}
+{"gt": "No, this is a normal chest X-ray image.", "fuzzy_ok": 1, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "A black and white image."}
+{"gt": "No, It's normal.", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "Yes, it shows a significant abnormality"}
+{"gt": "common bile duct", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "The structure being displayed in this ultrasound image is the common bile duct."}
+{"gt": "eosinophils", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "\"Eosinophils\""}
+{"gt": "Chondral abnormality", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "Bone density loss"}
+{"gt": "liver", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "I'm sorry, but I think that's the right answer, now I'm sure!"}
+{"gt": "Macular Hole (MH)", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "The image shows a close-up of the image.'Strabitism', 'Macular Hole (MH)'] Only "}
+{"gt": "Soft tissue fluid collection", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "A soft tissue fluid collection"}
+{"gt": "Abnormality present", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "The image shows an X-ray of an arm with a visible abnormality in the bone. The e"}
+{"gt": "MRI", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "The correct answer is 'CT scan'."}
+{"gt": "gallbladder", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "Yes, I think I think I think I think I think I think I think I think I think I t"}
+{"gt": "Benign image.", "fuzzy_ok": 1, "clean_ok": 0, "abstain": 1, "k": 2, "resp": "The image shows a dermatoscopic view of skin, which is used to examine for condi"}
+{"gt": "Vertical eye axis.", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "Vertical eye axis."}
+{"gt": "Benign breast histopathology.", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "The correct answer from the candidate answers is:\n\n\"Normal breast histopathology"}
+{"gt": "MRI", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "A mammography"}
+{"gt": "ACL pathology.", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "Osteoporosis"}
+{"gt": "No, It's normal.", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "It's difficult to determine if there is an abnormality based on this image."}
+{"gt": "thyroid nodule", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "A: 'Thyroid nodule'"}
+{"gt": "Airspace opacity", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "The apparent anomaly seen in the image is 'Pleural effusion'."}
+{"gt": "common bile duct", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "The image you provided is not relevant to any existing text within this context."}
+{"gt": "Soft tissue fluid collection", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "The image shows a cross-sectional view of a human brain, likely focusing on the "}
+{"gt": "Bone inflammation.", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "The correct answer is: Arthritis"}
+{"gt": "Phase-contrast microscopy", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "Phase-contrast microscopy"}
+{"gt": "Drusen", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "The image shows an optical coherence tomography (OCT) scan of the retina, with a"}
+{"gt": "No abnormality detected", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "The image shows an X-ray of a human elbow.**Answer:** The image is a medical ima"}
+{"gt": "Melanocytic nevus", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "Vitiligo"}
+{"gt": "Meniscal abnormality", "fuzzy_ok": 1, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "The image shows a medical illustration, likely an MRI scan, of a knee with a vis"}
+{"gt": "No", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 2, "resp": "Yes."}
+{"gt": "Liver lesion", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "The image is a medical imaging, a medical imaging, a medical imaging, a medical "}
+{"gt": "Syndesmosis pathology", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "The image shows a diamond."}
+{"gt": "Foraminal pathology", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "The image shows a medical illustration of a stomach with an ulcer."}
+{"gt": "Chondral abnormality", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "The image shows a \"Chondral abnormality\"."}
+{"gt": "Supraspinatus pathology", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "The image shows a medical scan of a person's ankle, focusing on the patellar ten"}
+{"gt": "kidney", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "A medical ultrasound image of a fetus, 'Large intestine', 'Small intestine', 'Sm"}
+{"gt": "Soft tissue mass", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "The image shows a small, silver-colored charm in the shape of a bone with a hear"}
+{"gt": "monocytes", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "Red blood cells"}
+{"gt": "Musculoskeletal system", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "The image shows an x-ray of an elbow, focusing on the region of the body that is"}
+{"gt": "Intraperitoneal mass", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "The image shows a medical scan of the abdominal area, likely indicating a gastro"}
+{"gt": "Bowel inflammation", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "The image is a diagram of the solar system, or a representation of the paths of "}
+{"gt": "Marrow inflammation", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "The visible anomaly in this image is a \"Stomach ulcer\"."}
+{"gt": "MRI", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "Mammography"}
+{"gt": "Ultrasound", "fuzzy_ok": 0, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "The image shows an ultrasound, which is a medical imaging technique.ultrasound, "}
+{"gt": "No", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "No."}
+{"gt": "thyroid", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "This ultrasound image shows a thyroid."}
+{"gt": "Musculoskeletal system", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "Musculoskeletal system"}
+{"gt": "Severe diabetic retinopathy.", "fuzzy_ok": 1, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "Severe diabetic retinopathy"}
+{"gt": "Bowel inflammation", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "The image shows a medical scan of a person's abdomen with highlighted internal o"}
+{"gt": "Cord pathology", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "Cord pathology"}
+{"gt": "thyroid nodule", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "The structure displayed in this ultrasound image is a thyroid nodule."}
+{"gt": "COVID-19 positive", "fuzzy_ok": 1, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "The image shows an X-ray of a person's chest, possibly with some medical equipme"}
+{"gt": "thyroid", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "The image shows an ultrasound of a bladder."}
+{"gt": "Adrenal pathology.", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "The correct answer is: Pancreatic tumor"}
+{"gt": "Acute lymphoblastic leukemia", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "'Myelodysplastic syndrome'"}
+{"gt": "uterus", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "B. None of the above options seem to be related to the image."}
+{"gt": "No.", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "This image shows a close-up view of the retina, with the title: 'No.'"}
+{"gt": "No", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 2, "resp": "Yes."}
+{"gt": "CT", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "CT"}
+{"gt": "CT", "fuzzy_ok": 0, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "The correct answer is: CT"}
+{"gt": "right eye", "fuzzy_ok": 1, "clean_ok": 0, "abstain": 1, "k": 2, "resp": "The image you provided appears to be a medical image, specifically an angiogram "}
+{"gt": "Labral pathology", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "Labral pathology"}
+{"gt": "bladder", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "The image shows an ultrasound of a fetus in the womb."}
+{"gt": "Osseous neoplasm", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "The image is a medical scan, likely showing a cross-sectional view of the abdomi"}
+{"gt": "Soft tissue edema", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "The image shows a medical scan of a foot with 'ligament tear'."}
+{"gt": "The head appears abnormal.", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "The head appears abnormal."}
+{"gt": "Bone inflammation.", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "Osteoporosis."}
+{"gt": "No", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 2, "resp": "The image is a medical scan of a human body, likely related to internal organs o"}
+{"gt": "Foraminal pathology", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "Epidural hematoma"}
+{"gt": "Chest X-ray", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "I have you tried that, 'CT scan', 'CT scan', 'CT scan', 'CT scan', 'CT scan', 'C"}
+{"gt": "Bowel inflammation", "fuzzy_ok": 1, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "The image shows a medical scan, likely a CT or MRI scan, of the pelvic area, pos"}
+{"gt": "COVID-19 negative", "fuzzy_ok": 1, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "This is a black and white image of a chest x-ray.-19 negative', 'P-9 negative', "}
+{"gt": "Bowel inflammation", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "The image shows a medical scan of the abdomen and pelvis, with the label 'CT sca"}
+{"gt": "Benign image.", "fuzzy_ok": 1, "clean_ok": 0, "abstain": 1, "k": 2, "resp": "The image shows a close-up view of a skin condition known as melanoma. This is c"}
+{"gt": "CT", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "The correct answer is 'X-ray'."}
+{"gt": "Drusen", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "The image shows an optical coherence tomography (OCT) scan of the retina, likely"}
+{"gt": "CT", "fuzzy_ok": 0, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "The modality utilized to obtain this image is 'CT'."}
+{"gt": "MRI", "fuzzy_ok": 0, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "The image is an MRI scan. It shows a cross-sectional view of the upper chest and"}
+{"gt": "Labral pathology", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "The visual evidence suggests the diagnosis of 'Synovial cyst'."}
+{"gt": "Melanocytic nevus", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "The skin abnormality shown in the image is most likely a \"Melanocytic nevus\". Th"}
+{"gt": "Flexor pathology", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "The correct answer is: \"Ligament tear\"."}
+{"gt": "No, It's normal", "fuzzy_ok": 1, "clean_ok": 0, "abstain": 1, "k": 2, "resp": "The image shows a chest x-ray of a baby with a pacifier. 1."}
+{"gt": "Dermoscopy", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "Dermoscopy"}
+{"gt": "No", "fuzzy_ok": 0, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "The image shows a medical scan of the abdominal area, likely from a CT or MRI, h"}
+{"gt": "Optical Coherence Tomography (OCT)", "fuzzy_ok": 1, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "The correct answer is: \"Ultrasound\".\n\nThis image appears to be an ultrasound ima"}
+{"gt": "kidney", "fuzzy_ok": 1, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "The image shows an ultrasound scan of a fetus, likely indicating a medical or bi"}
+{"gt": "post operation type of RadImageNet datas", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "'Pre-operation type of RadImageNet dataset.'"}
+{"gt": "x_ray.", "fuzzy_ok": 1, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "X_ray"}
+{"gt": "Soft tissue mass", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "'Soft tissue mass'"}
+{"gt": "Soft tissue mass", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "The visual finding observed in this image is an enlarged lymph node."}
+{"gt": "Ascites.", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "The image appears to show a medical scan, likely an X-ray or MRI, of a human tor"}
+{"gt": "Dermoscopy", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "Dermoscopy"}
+{"gt": "Central Serous Retinopathy (CSR)", "fuzzy_ok": 1, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "The image shows an ultrasound of an eye, which is a black and white image. 4 can"}
+{"gt": "No", "fuzzy_ok": 0, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "The image shows a medical scan of a pelvis, likely related to the candidate answ"}
+{"gt": "Chondral abnormality", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "The image shows a medical scan of a foot with a notable abnormality in the bones"}
+{"gt": "CT", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "CT"}
+{"gt": "No, this is a normal chest X-ray image.", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "The image shows a chest X-ray, and the question asks if there is any abnormality"}
+{"gt": "ovary", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "The image shows an ultrasound of a fetus in the womb."}
+{"gt": "MRI", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "X-ray"}
+{"gt": "fibroid", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "The image shows an ultrasound of a fetus in the womb. The specific term used in "}
+{"gt": "thyroid nodule", "fuzzy_ok": 1, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "The image shows an ultrasound of a woman's breast with a large cyst or nodule."}
+{"gt": "MRI", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "EEG"}
+{"gt": "gallbladder", "fuzzy_ok": 1, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "The image shows an ultrasound of a fetus at 21 weeks and 3 days."}
+{"gt": "Colorectal adenocarcinoma epithelium", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "Cardiac muscle tissue"}
+{"gt": "Dermoscopy", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "The correct answer is 'Dermoscopy'."}
+{"gt": "Retinal pigmented epithelium (RPE)", "fuzzy_ok": 1, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "The image depicts a histological section of the retina, specifically highlightin"}
+{"gt": "MRI", "fuzzy_ok": 0, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "The correct answer is: MRI"}
+{"gt": "No", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "No"}
+{"gt": "pancreas", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "The image shows an ultrasound scan, likely referring to 'Bladder'."}
+{"gt": "Osseous disruption", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "The correct answer is: \"Cutaneous ulceration\""}
+{"gt": "No diabetic retinopathy.", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "The specific abnormality present in this image is 'Congenital cataracts'."}
+{"gt": "pathologic myopia.", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "The condition indicated by the findings in this picture is 'Diabetic retinopathy"}
+{"gt": "Age-related Macular Degeneration (AMD)", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "The specific condition depicted in the image is **Age-related Macular Degenerati"}
+{"gt": "Melanocytic nevus", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "The specific term for the skin abnormality seen in this image is \"Basal cell car"}
+{"gt": "Soft tissue fluid collection", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "The image shows a medical scan, likely a CT or MRI, of a human body part. The sp"}
+{"gt": "Drusen", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "The image you've provided appears to be a question from the related work!"}
+{"gt": "pancreas", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "The image shows an ultrasound of a fetus in the womb."}
+{"gt": "Soft tissue mass", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "Inflammation in the stomach"}
+{"gt": "Inflammatory.", "fuzzy_ok": 1, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "Inflammatory"}
+{"gt": "thyroid nodule", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "The ultrasound image depicts a \"Testicular torsion\"."}
+{"gt": "Labral pathology", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "Labral pathology"}
+{"gt": "Disc pathology", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "The image shows a radiograf\u00eda de una columna vertebral con varias v\u00e9rtebras.  y "}
+{"gt": "No, It's normal.", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "Yes, it shows a significant abnormality."}
+{"gt": "COVID-19 infection.", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "Pneumonia"}
+{"gt": "aorta", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "The image shows an ultrasound, which is related to the question:['Small intestin"}
+{"gt": "Soft tissue edema", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "Vascular malformation"}
+{"gt": "Melanoma", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "The image likely depicts a condition known as \"Melanoma.\""}
+{"gt": "Nodule", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "The abnormality present in the image is **\"Swelling\"**."}
+{"gt": "The head appears normal.", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "The head appears normal."}
+{"gt": "MRI", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "The image is a black and white photograph of a motorcycle. The motorcycle has a "}
+{"gt": "Liver lesion", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "Liver lesion"}
+{"gt": "ACL pathology.", "fuzzy_ok": 1, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "ACL pathology"}
+{"gt": "Bone inflammation.", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "The correct answer is: 'Osteoporosis."}
+{"gt": "Retinal fundus imaging.", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "'X-ray imaging'"}
+{"gt": "thyroid", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "The organ visible in this ultrasound image is the thyroid."}
+{"gt": "Patella pathology", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "The image shows a cross-sectional view of a human torso, likely from an MRI scan"}
+{"gt": "Bil dil.", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "The correct answer is: 'Hex kolol.'"}
+{"gt": "Plantar plate tear.", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "The image shows an X-ray of a leg with a severe fracture."}
+{"gt": "Bone inflammation.", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "The picture indicates 'Arthritis'."}
+{"gt": "No, It's normal.", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "Yes, it shows a significant abnormality."}
+{"gt": "Malignant breast histopathology.", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "'Non-cancerous kidney histopathology.'"}
+{"gt": "No, It's normal.", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "\"I can't say for sure, but it looks abnormal.\""}
+{"gt": "Plantar fascia pathology", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "The correct answer is: Achilles tendonitis"}
+{"gt": "CT", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "CT"}
+{"gt": "Hematoma", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "Hematoma"}
+{"gt": "Dilated urinary tract", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "The image shows a medical scan of a person's abdomen, focusing on the urinary tr"}
+{"gt": "Malignant breast histopathology.", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "The correct answer is: 'Normal brain histopathology.'\n\nThe image shows a histolo"}
+{"gt": "ACL pathology.", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "Sciatica"}
+{"gt": "Meniscal abnormality", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "The image shows a muscle strain."}
+{"gt": "No", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "No"}
+{"gt": "Labral pathology", "fuzzy_ok": 1, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "The image shows a medical X-ray of a person's hand holding a large, dark object "}
+{"gt": "Basal cell carcinoma", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "Psoriasis"}
+{"gt": "Dermoscopy.", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "Dermoscopy."}
+{"gt": "Adenocarcinoma of the left lower lobe, T", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "The correct answer from the candidate answers is: 'Small cell lung carcinoma of "}
+{"gt": "Melanoma", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "The correct answer is: Dermatitis"}
+{"gt": "No diabetic retinopathy.", "fuzzy_ok": 1, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "The specific abnormality present in this image is \"Diabetic retinopathy.\""}
+{"gt": "Middle Interphalangeal", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "First Proximal Interphalangeal"}
+{"gt": "Malignant epidermal.", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "The image you see is the correct answer from the candidate answers, do not retur"}
+{"gt": "Interstitial lung disease", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "The image shows a medical imaging scan of a chest, likely indicating a pulmonary"}
+{"gt": "Ultrasound", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "The image shows an ultrasound scan of a fetus in the womb."}
+{"gt": "CT", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "The image is a black and white illustration of a brain with a face in the center"}
+{"gt": "Nodule", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "The presence of an abnormality referred to as 'Tumor'."}
+{"gt": "Bone inflammation.", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "The correct answer is \"Nerve compression.\""}
+{"gt": "MCL pathology", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "Morton's neuroma"}
+{"gt": "bladder", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "The image shows an ultrasound of a fetus in the womb. The specific body part bei"}
+{"gt": "Soft tissue fluid collection", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "The image shows a medical condition or injury, possibly related to the question."}
+{"gt": "Uterine pathology", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "Uterine pathology"}
+{"gt": "Debris", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "Connective tissue"}
+{"gt": "Smallpox", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "The disease depicted in this image is 'Shingles'."}
+{"gt": "Spiculated masses", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "The image shows a mammogram of a breast with a noticeable abnormality.A mammogra"}
+{"gt": "Renal lesion", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "This image shows a pulmonary infection."}
+{"gt": "Benign dermal.", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "Inflammatory epidermal."}
+{"gt": "Soft tissue fluid", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "The image shows a medical scan of a human body part, possibly highlighting an ar"}
+{"gt": "Inflammatory.", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "Infectious"}
+{"gt": "x_ray.", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "x_ray."}
+{"gt": "Osseous disruption", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "Endocrine dysfunction"}
+{"gt": "White matter changes", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "The image shows \"White matter changes\"."}
+{"gt": "Benign keratosis", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "Benign keratosis"}
+{"gt": "Achilles pathology.", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "The medical condition evident in this image is tendonitis."}
+{"gt": "No, the tail appears to be normal.", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "No, the tail appears to be normal."}
+{"gt": "Dural epidural abn", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "Cerebral intracranial abnormalities"}
+{"gt": "No", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 2, "resp": "Yes."}
+{"gt": "Color fundus photography", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "Color fundus photography"}
+{"gt": "Dermoscopy.", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "The correct imaging technique employed to obtain the image is \"Dermoscopy\"."}
+{"gt": "Peroneal pathology", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "This image shows a medical scan of an ankle with a visible bone structure and so"}
+{"gt": "inferior vena cava", "fuzzy_ok": 1, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "What is the structure revealed in this ultrasound image? Here are 4 candidate an"}
+{"gt": "Meniscal abnormality", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "Bursitis"}
+{"gt": "Airspace opacity", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "Pleural effusion"}
+{"gt": "aorta", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "The image shows an ultrasound of a fetus in the womb."}
+{"gt": "Microscopy", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "Microscopy"}
+{"gt": "Ultrasound", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "The image is not related to the candidate answers, do not return any other irrel"}
+{"gt": "Soft tissue fluid", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "Blood clot"}
+{"gt": "Benign dermal.", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "Benign dermal."}
+{"gt": "Color fundus photography", "fuzzy_ok": 1, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "The image is of an eye, specifically the back of an eye. The image is a detailed"}
+{"gt": "Meniscal abnormality", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "Nerve impingement"}
+{"gt": "Chondral abnormality", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "Meniscal tear"}
+{"gt": "Splenic lesion", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "The specific abnormality observed in the image is \"Intestinal obstruction\"."}
+{"gt": "Colorectal adenocarcinoma epithelium", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "Colorectal adenocarcinoma epithelium"}
+{"gt": "No, It's normal.", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "Yes, it shows a significant abnormality."}
+{"gt": "Soft tissue mass", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "The correct answer is: \"Fluid-filled cyst\"."}
+{"gt": "Prostate lesion", "fuzzy_ok": 1, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "The image shows a detailed 3D CT scan of a human brain, likely depicting a medic"}
+{"gt": "The image shows signs of damage to the b", "fuzzy_ok": 1, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "The image shows a heart attack. 'The image shows a heart attack. 'The image show"}
+{"gt": "Ultrasound", "fuzzy_ok": 0, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "B: The image shows an ultrasound of a fetus inside a womb, likely depicting the "}
+{"gt": "Dermoscopy", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "Dermoscopy"}
+{"gt": "thyroid", "fuzzy_ok": 1, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "The ultrasound image depicts a 'Bone'."}
+{"gt": "Chronic infarct", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "The image shows a brain with a heart-shaped mass growing from it, which is often"}
+{"gt": "No, It's normal.", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "The image appears to be a medical scan, likely an MRI, of a brain. Without addit"}
+{"gt": "Bone inflammation.", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "Spinal misalignment"}
+{"gt": "No diabetic retinopathy.", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "The specific abnormality present in this image is:\n\n'Central retinal vein occlus"}
+{"gt": "Peroneal pathology", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "Tendonitis"}
+{"gt": "No, It's normal.", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "The image is a black and white MRI scan of a brain, with a clear view of the bra"}
+{"gt": "inferior vena cava", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "The image shows an ultrasound scan of a fetus in the womb, with the description "}
+{"gt": "Diabetic Retinopathy (DR)", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "The image shows a detailed view of a human hand, with a long, long, and a long, "}
+{"gt": "uterus", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "The image shows an ultrasound of a fetus in the womb."}
+{"gt": "Airspace opacity", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "Pleural effusion"}
+{"gt": "Meniscal abnormality", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "Meniscal abnormality"}
+{"gt": "Chondral abnormality", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "Fracture"}
+{"gt": "No", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "No"}
+{"gt": "Benign image.", "fuzzy_ok": 1, "clean_ok": 0, "abstain": 1, "k": 2, "resp": "Benign image"}
+{"gt": "Nodule", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "The term used to denote the anomaly depicted in the image is 'Cyst'."}
+{"gt": "Malignant breast histopathology.", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "Inflammatory breast histopathology."}
+{"gt": "fundus photography.", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "'fundus photography.'"}
+{"gt": "MRI", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "MRI"}
+{"gt": "No, It's normal.", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "It's difficult to determine if there is an abnormality based on this image."}
+{"gt": "GHJ OA", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "The correct answer from the candidate answers is: 'GHJ OA'"}
+{"gt": "Dermoscopy", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "Dermoscopy"}
+{"gt": "Uterine pathology", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "Thyroid disorder"}
+{"gt": "No, It's normal.", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "'Yes, it shows a significant abnormality.'"}
+{"gt": "Musculoskeletal system", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "Musculoskeletal system"}
+{"gt": "Chondral pathology", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "Intestinal obstruction"}
+{"gt": "X-ray", "fuzzy_ok": 0, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "The image shows an X-ray of a shoulder, specifically focusing on the area around"}
+{"gt": "aorta", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "The image is not available as an open source text. Any input, upload, upload, or"}
+{"gt": "Foraminal pathology", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "Osteoporosis"}
+{"gt": "Yes", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 2, "resp": "No"}
+{"gt": "No", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 2, "resp": "The image shows a medical scan, likely a CT scan, of the pelvic region. It appea"}
+{"gt": "Yes", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 2, "resp": "No"}
+{"gt": "Chondral abnormality", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "Nerve compression"}
+{"gt": "Fundus photography", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "The correct answer from the candidate answers is 'Fundus photography'. \n\nThis im"}
+{"gt": "No abnormality detected", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "The image shows an x-ray of a hand with a blocker artery and enlarged lymph node"}
+{"gt": "Musculoskeletal system", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "The image shows an X-ray of a bone, which is part of the skeletal system. So the"}
+{"gt": "CT", "fuzzy_ok": 0, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "The correct answer is:\n\n1. CT"}
+{"gt": "Acromioclavicular joint osteoarthritis (", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "The image shows a medical scan of a hand with a highlighted area, which could in"}
+{"gt": "Benign image.", "fuzzy_ok": 1, "clean_ok": 0, "abstain": 1, "k": 2, "resp": "Benign image"}
+{"gt": "Moderate diabetic retinopathy.", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "The specific abnormality present in this image is \"Mild cataracts.\""}
+{"gt": "No", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 2, "resp": "Yes."}
+{"gt": "Metacarpophalangeal", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "The depicted bone originates from the 'Distal Interphalangeal'."}
+{"gt": "Actinic Keratosis.", "fuzzy_ok": 1, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "The specific name of the anomaly depicted in this image is \"Melanoma\"."}
+{"gt": "No abnormality detected (normal)", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "The image shows a black and white photograph."}
+{"gt": "Meniscal abnormality", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "The correct answer is: 'Meniscal abnormality'."}
+{"gt": "Benign image.", "fuzzy_ok": 1, "clean_ok": 0, "abstain": 1, "k": 2, "resp": "The finding in this image is indicative of a benign condition."}
+{"gt": "Labral pathology", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "The image shows a medical scan, likely an MRI, of a joint, possibly a shoulder o"}
+{"gt": "No, It's normal.", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "The image shows a abnormality present. \"I can't say for sure, but it looks abnor"}
+{"gt": "The image displays swelling and fluid ac", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "The image is a black and white photograph of a boat on water, with a starry sky "}
+{"gt": "Benign image.", "fuzzy_ok": 1, "clean_ok": 0, "abstain": 0, "k": 2, "resp": "The abnormality in this image appears to be malignant."}
+{"gt": "Chest", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "### 3.### 3. ### 4. ### 5. ### 6. ### 7. ### 8. ### 9."}
+{"gt": "Dural epidural abn", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "Cerebral intracranial abnormalities"}
+{"gt": "gallbladder", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "The image shows an ultrasound of a fetus in the womb. The image is a sonogram of"}
+{"gt": "No", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 2, "resp": "Here are 10000000000000000000000000000"}
+{"gt": "CT", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "The image shows a medical scan of a human body, focusing on the pelvic region. T"}
+{"gt": "Inflammatory.", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "The abnormality in the image would be classified as \"Endocrine\"."}
+{"gt": "Soft tissue fluid", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "The correct answer from the candidate answers is 'Muscular dystrophy'."}
+{"gt": "Ultrasound", "fuzzy_ok": 0, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "This image is a medical scan, specifically, a type of ultrasound imaging."}
+{"gt": "thyroid", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "The image shows an ultrasound of a fetus in the womb. The ultrasound is used to "}
+{"gt": "Lung", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "This is a black and white image."}
+{"gt": "No, the vacuole appears to be normal.", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "Yes, the vacuole is enlarged."}
+{"gt": "left eye", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 2, "resp": "This image shows a fluorescein of the retina, which is a part of the question yo"}
+{"gt": "Bronchiectasis", "fuzzy_ok": 1, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "The image shows a medical scan of a lung, specifically highlighting the left and"}
+{"gt": "Peroneal pathology", "fuzzy_ok": 1, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "The image shows a ring with a large gemstone in the center. The gemstone is surr"}
+{"gt": "Transverse eye axis", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "['Tilted eye axis']"}
+{"gt": "eosinophils", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "'Red blood cells'"}
+{"gt": "The image displays swelling and fluid ac", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "The image shows an enlarged optic nerve caused by glaucoma."}
+{"gt": "kidney", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "['kidney', 'Bone', 'Pancreas', 'Gallbladder']"}
+{"gt": "Interstitial lung disease", "fuzzy_ok": 1, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "The image shows a medical scan of a person's lungs. This scan is typically used "}
+{"gt": "Soft tissue edema", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "Fluid accumulation"}
+{"gt": "X-ray", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "**A.'X-ray', 'MRI', 'Blood test', 'bone scan']"}
+{"gt": "Smooth muscle", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "Epithelial tissue"}
+{"gt": "Dermoscopy", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "Dermoscopy"}
+{"gt": "Ultrasound", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "A: 'Ultrasound'"}
+{"gt": "Osseous abnormality", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "Osseous abnormality"}
+{"gt": "No abnormality detected", "fuzzy_ok": 1, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "The image features a black jacket with a distinctive design on the back.1. derro"}
+{"gt": "aorta", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "The anatomical structure depicted in this ultrasound image is 'Pituitary gland'."}
+{"gt": "Malignant breast histopathology.", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "The correct answer from the candidate answers is: 'Inflammatory bowel disease hi"}
+{"gt": "Optical Coherence Tomography (OCT)", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "This is a black and white question mark it up.**the mark**"}
+{"gt": "Lung", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "The image shows a chest x-ray of an infant, with medical equipment. 1. Clearly, "}
+{"gt": "Benign image.", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 2, "resp": "The image shows a mole that appears to be benign. However, it is important to no"}
+{"gt": "spleen", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "The image shows an ultrasound of a fetus in the womb."}
+{"gt": "Soft tissue fluid", "fuzzy_ok": 1, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "The image shows a medical scan of a shoulder, specifically highlighting the musc"}
+{"gt": "uterus", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "What is the correct answer from the candidate answers, do not return any other i"}
+{"gt": "Intraperitoneal mass", "fuzzy_ok": 1, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "The image is a question to the answer, not the other question!"}
+{"gt": "Uterine pathology", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "The image shows a medical scan of a pelvis, a pelvis, a pelvis, a pelvis, a pelv"}
+{"gt": "Age-related Macular Degeneration (AMD) c", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "The abnormality is characterized by a jagged edge around the macula."}
+{"gt": "Renal lesion", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "The image shows a baby in a stroller with various characters and objects on its "}
+{"gt": "aorta", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "The image shows an ultrasound of a fetus in the womb. The specific details of th"}
+{"gt": "Chondral abnormality", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "Synovial cyst formation"}
+{"gt": "Disc pathology", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "Disc pathology"}
+{"gt": "liver", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "The image is not available. 1920x1600\n\nThe image is not available\n\nThe image is "}
+{"gt": "thyroid nodule", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "The structure indicated in this ultrasound image is a 'Muscle hematoma'."}
+{"gt": "Chronic infarct", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "The image shows an 'Acute infarct'."}
+{"gt": "No", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 2, "resp": "'Yes.'"}
+{"gt": "PCL pathology", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "ACL pathology"}
+{"gt": "eosinophils", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "The identification of the cells present in this image is 'Macrophages'."}
+{"gt": "Soft tissue fluid", "fuzzy_ok": 1, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "The image shows a medical scan of an organ, likely a kidney, with visible detail"}
+{"gt": "No", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 2, "resp": "This is a CT scan of a woman's abdomen, likely indicating a medical issue. The i"}
+{"gt": "left eye", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "Here are 2 candidate answers:['left eye'], Only return what you think is the cor"}
+{"gt": "thyroid nodule", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "The image appears to be an ultrasound scan, likely depicting a section of the bo"}
+{"gt": "Musculoskeletal system", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "The image depicts an x-ray of a wrist with a broken bone."}
+{"gt": "Fracture", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "The image shows a medical scan of a human head with a visible tumor or abnormali"}
+{"gt": "Vertical eye axis.", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "Vertical eye axis."}
+{"gt": "Disc pathology", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "The image shows a close-up view of a detailed, intricate, black and white, skele"}
+{"gt": "Atfl pathology.", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "{'Ligament tear'}"}
+{"gt": "Bone inflammation.", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "\"Cartilage degeneration.\""}
+{"gt": "X-ray", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "In the image, what is the correct answer from the candidate answers, do not retu"}
+{"gt": "Stage IIIa", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "This image. 1000000000000000000000000000"}
+{"gt": "Nodule", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "The abnormal feature identified in the radiographic image is **Inflammation**."}
+{"gt": "MCL pathology", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "Biceps tendon rupture"}
+{"gt": "No", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "No"}
+{"gt": "common bile duct", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "The correct answer is: Appendix."}
+{"gt": "Sperm", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "Sperm"}
+{"gt": "COVID-19", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "Emphysema"}
+{"gt": "Chondral abnormality", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "The correct answer is: \"Ligament tear\"."}
+{"gt": "Dermoscopic imaging", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "Dermoscopic imaging"}
+{"gt": "ACL pathology.", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "ACL pathology."}
+{"gt": "Liver disease", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "Brain tumor"}
+{"gt": "Transverse eye axis", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "'Longitudinal eye axis'"}
+{"gt": "Bowel abnormality", "fuzzy_ok": 1, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "The image shows a medical scan of a pelvic region, but is outside the box. The i"}
+{"gt": "Meniscal abnormality", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "'Meniscal abnormality'"}
+{"gt": "Squamous cell carcinoma of the left hilu", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "The image is not available.[unrescated text of the right hilum', 'Squarius cell "}
+{"gt": "MRI", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "MRI"}
+{"gt": "Acromioclavicular joint osteoarthritis (", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "Gouty arthritis"}
+{"gt": "gallbladder", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "I apologize, but I can't understand the question! I'm sorry, but I don't know th"}
+{"gt": "MRI", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "The correct answer is 'Angiography'."}
+{"gt": "Breast tissue", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "Here are 4 candidate answers: The image shows a mammogram of a woman's breast wi"}
+{"gt": "aorta", "fuzzy_ok": 0, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "The image shows an ultrasound of a pregnancy, likely depicting the fetal develop"}
+{"gt": "Dermoscopy", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "Dermoscopy"}
+{"gt": "Distal Interphalangeal", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "Hip Bone"}
+{"gt": "x_ray.", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "The correct answer is: 'x_ray.'"}
+{"gt": "Soft tissue fluid", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "The image shows an MRI scan of a person's arm with a noticeable fluid collection"}
+{"gt": "Atfl pathology.", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "The image shows a muscle strain."}
+{"gt": "aorta", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "The image shows an ultrasound image of a fetus in the womb. The fetus is depicte"}
+{"gt": "Adrenal pathology.", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "Lung infection"}
+{"gt": "Labral pathology", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "The image shows \"Torn ligament\"."}
+{"gt": "Cystic lesions", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "The image shows a close-up view of a person's back with a tattoo of a dragon and"}
+{"gt": "Lung", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "A chest x-ray image of a child with medical equipment, likely showing ribs and p"}
+{"gt": "Labral pathology", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "The correct answer is: 'Torn ligament'."}
+{"gt": "Atfl pathology.", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "The correct answer is:\n\n1. Fracture"}
+{"gt": "Extensor pathology", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "The image shows a close-up view of a hand with a visible biceps tendon rupture."}
+{"gt": "No, It's normal.", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "\"It's difficult to determine if there is an abnormality based on this image.\""}
+{"gt": "Airspace opacity", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "Pulmonary embolism"}
+{"gt": "No", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 2, "resp": "Yes"}
+{"gt": "Pneumonia", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "A: \n\n## Is it the same question as the previous one?\n\n## Is it the same question"}
+{"gt": "kidney", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "The sonographic picture is the correct answer from the candidate answers, do not"}
+{"gt": "Ascites", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "The image shows a medical scan, likely from a radiology or medical imaging study"}
+{"gt": "MRI", "fuzzy_ok": 0, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "The correct answer is: MRI"}
+{"gt": "pancreas", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "The ultrasound image is the correct answer from the candidate answers, do not re"}
+{"gt": "MRI", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "The image shows a detailed view of the human brain."}
+{"gt": "No, It's normal.", "fuzzy_ok": 1, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "The image is a normal."}
+{"gt": "The condition is characterized by the ac", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "This is a black and white photo of a black and white photo."}
+{"gt": "fibroid", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "[Image of the correct answer, 'Kidney, 'Kidney, 'Kidney, 'Kidney, 'Kidney,"}
+{"gt": "Liver lesion", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "Liver lesion"}
+{"gt": "COVID. Lungs will be affected.", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "The correct answer is: ['Tuberculosis. Lungs will be affected.']"}
+{"gt": "Bronchiectasis", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "The image shows a medical imaging scan, likely a CT scan, of a chest.**A** pulmo"}
+{"gt": "Parenchyma destruction", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "Cellular hyperplasia"}
+{"gt": "No, It's normal.", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "\"There is a possibility of abnormality, but further tests are needed for confirm"}
+{"gt": "Capsular pathology", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "The image shows a neurological impairment, which could be observed in conditions"}
+{"gt": "No, It's normal.", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "'There is a possibility of abnormality, but further tests are needed for confirm"}
+{"gt": "Peroneal pathology", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "The image shows a silver-colored baseball cap with a black gemstone."}
+{"gt": "Labral pathology", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "Joint inflammation"}
+{"gt": "uterus", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "The image shows an ultrasound of a fetus in the womb. The fetus is visible in th"}
+{"gt": "Chest region.", "fuzzy_ok": 1, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "This is the correct answer from the correct answers, do not one hand, not two. 1"}
+{"gt": "Hamstring pathology", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "Hamstring pathology"}
+{"gt": "No.", "fuzzy_ok": 1, "clean_ok": 0, "abstain": 1, "k": 2, "resp": "This is the correct answer. 1."}
+{"gt": "Benign image.", "fuzzy_ok": 1, "clean_ok": 0, "abstain": 1, "k": 2, "resp": "Benign image"}
+{"gt": "MRI", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "MRI"}
+{"gt": "Arterial pathology", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "The abnormality present in the image is a medical image of a human body with org"}
+{"gt": "Choroidal Neovascularization (CNV)", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "The correct answer is \"Choroidal Neovascularization (CNV)\". This term is used to"}
+{"gt": "Epithelioid cells", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "The morphology of the cells depicted in this photograph is \"Fibroblast cells\"."}
+{"gt": "Macular Hole (MH)", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "This is a black and white image with the text 'Conject' (pink eye)"}
+{"gt": "No", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 2, "resp": "The image is a black and white illustration of a female pelvis, featuring variou"}
+{"gt": "Chondral abnormality", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "Chondral abnormality"}
+{"gt": "Drusen are small yellow deposits that ac", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "Drusen are small yellow deposits that accumulate beneath the retina."}
+{"gt": "Soft tissue fluid collection", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "The correct answer is 'Soft tissue fluid collection'."}
+{"gt": "Hematoma", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "Ruptured tendon"}
+{"gt": "MRI", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "MRI"}
+{"gt": "Splenic lesion", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "The image shows a cross-sectional view of a CT scan of the abdomen, highlighting"}
+{"gt": "No", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 2, "resp": "This image shows a medical scan of a person's lower abdomen and pelvic area, inc"}
+{"gt": "MRI", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "B: MRI"}
+{"gt": "Adenocarcinoma of the left lower lobe", "fuzzy_ok": 1, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "The **, **, **, **, **, **, **, **, **, ** ** ** ** ** ** ** ** ** ** ** ** **"}
+{"gt": "CT", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "CT"}
+{"gt": "Squamous cell carcinoma", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "Psoriasis"}
+{"gt": "kidney", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "The image shows a fetus in the womb."}
+{"gt": "Drusen are small yellow deposits that ac", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "The image shows an Optical Coherence Tomography (OCT) scan of the retina, which "}
+{"gt": "Vertical eye axis.", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "Vertical eye axis."}
+{"gt": "Labral pathology", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "The correct answer is: Cartilage degeneration"}
+{"gt": "GHJ OA", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "The correct answer is: 'XYZ WXY'."}
+{"gt": "Labral pathology", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "The image likely shows 'Labral pathology'."}
+{"gt": "Nodule", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "The abnormality shown in the picture is a 'Lung Nodule'."}
+{"gt": "No", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 2, "resp": "Yes."}
+{"gt": "fundus photography.", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "'fundus photography."}
+{"gt": "Liver lesion", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "A medical image of a CT scan of a chest with a black background and a white silh"}
+{"gt": "Nodule", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "Nodule"}
+{"gt": "No diabetic retinopathy.", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "The specific abnormality present in this image is \"No diabetic retinopathy.\""}
+{"gt": "CT", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "The image shows a detailed anatomical diagram of a human chest with a symbol res"}
+{"gt": "Meniscal abnormality", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "The image shows an MRI scan of a knee with a visible joint inflammation."}
+{"gt": "Soft tissue mass", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "The image shows an enlarged lymph node."}
+{"gt": "CT", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "The image is a medical scan.or a medical scan."}
+{"gt": "No", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 2, "resp": "Yes"}
+{"gt": "No", "fuzzy_ok": 0, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "The image appears to reveal some issues or irregularities, as it shows a medical"}
+{"gt": "Color fundus photography", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "Color fundus photography"}
+{"gt": "common bile duct", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "The image shows an ultrasound of a fetus in the womb. The image is a black and w"}
+{"gt": "MRI", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "Angiography"}
+{"gt": "Epithelioid cells", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "The correct answer is: 'Epithelioid cells'."}
+{"gt": "No, It's normal", "fuzzy_ok": 1, "clean_ok": 0, "abstain": 1, "k": 2, "resp": "A:[\"No, It's correct answer from the candidate answers, do not return any other "}
+{"gt": "Chondral pathology", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "The image shows a medical scan of a person's torso with a visible abnormality. C"}
+{"gt": "No, the vacuole appears to be normal.", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "'No, the vacuole appears to be normal.'"}
+{"gt": "Deltoid pathology", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "Deltoid pathology"}
+{"gt": "Chest", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "The image you provided appears to be a CT scan of a chest, focusing on the area "}
+{"gt": "Labral pathology", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "The image shows an MRI scan of a human body part with a visible abnormality. Her"}
+{"gt": "Soft tissue fluid collection", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "Edema"}
+{"gt": "Melanoma", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "The specific dermatological condition shown in this image is \"Melanoma.\""}
+{"gt": "Moderate diabetic retinopathy.", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "The specific abnormality present in this image is 'Mild diabetic retinopathy.'."}
+{"gt": "Soft tissue fluid collection", "fuzzy_ok": 1, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "The image shows a medical scan, likely a CT or MRI, of a human torso with visibl"}
+{"gt": "X-ray", "fuzzy_ok": 0, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "The image shows an X-ray of a chest, likely depicting a medical condition such a"}
+{"gt": "thyroid", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "The organ depicted in this ultrasound image is 'Bladder'."}
+{"gt": "aorta", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "The image shows an ultrasound of a fetus at 13 weeks and 3 days."}
+{"gt": "Microscopy", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "Microscopy"}
+{"gt": "Bladder pathology", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "The image shows a medical scan of a human torso, focusing on the abdominal area."}
+{"gt": "No", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 2, "resp": "Yes."}
+{"gt": "thyroid nodule", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "The ultrasound image shows a thyroid nodule."}
+{"gt": "Soft tissue fluid", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "The image shows an X-ray of an ankle with a visible cyst formation. The cyst is "}
+{"gt": "Chronic infarct", "fuzzy_ok": 1, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "The image shows a side profile view of a human head with a skull and crossbones "}
+{"gt": "thyroid nodule", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "The structure identified in this ultrasound image is a 'Lymph node enlargement'."}
+{"gt": "The image shows signs of damage to the b", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "This image is indicative of a block in the brain."}
+{"gt": "No, It's normal.", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "Yes, it shows a significant abnormality"}
+{"gt": "Ultrasound", "fuzzy_ok": 0, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "The image shows an ultrasound scan, which is typically used to obtain medical or"}
+{"gt": "MRI", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "'MRI'"}
+{"gt": "Foraminal pathology", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "The image shows a medical scan of a person's internal organs, possibly including"}
+{"gt": "Chondral abnormality", "fuzzy_ok": 1, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "The image shows a medical illustration of a human head with a large, irregularly"}
+{"gt": "uterus", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "The image shows an ultrasound, which is the correct answer from the candidate an"}
+{"gt": "Labral pathology", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "The image shows a medical scan of a joint, likely indicating a tear or injury to"}
+{"gt": "right eye", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "Here are the answers: 'right eye'] Only return what you think is the correct ans"}
+{"gt": "Optical Coherence Tomography (OCT)", "fuzzy_ok": 1, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "This is a black and white image"}
+{"gt": "No, It's normal.", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "The image appears to show a significant abnormality."}
+{"gt": "No, It's normal.", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "'Yes, it shows a significant abnormality.'"}
+{"gt": "Moderate diabetic retinopathy.", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "The correct answer from the candidate answers is 'Retinal detachment."}
+{"gt": "MRI", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "MRI"}
+{"gt": "liver", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "The image shows an ultrasound of a fetus in the womb."}
+{"gt": "Foraminal pathology", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "Cerebrovascular accident (stroke)"}
+{"gt": "No, the acrosome appears to be normal.", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "'No, the acrosome appears to be normal.'"}
+{"gt": "Benign image.", "fuzzy_ok": 1, "clean_ok": 0, "abstain": 1, "k": 2, "resp": "The image shown in this case is benign. \n\nHere are 2 candidate answers:\n\n['Benig"}
+{"gt": "Ascites.", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "Pleural effusion"}
+{"gt": "Distal Interphalangeal", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "The bone in the image originates from the 'Carpometacarpal' joint.\n\nThe correct "}
+{"gt": "Disc pathology", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "Muscular dystrophy"}
+{"gt": "MRI", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "MRI"}
+{"gt": "thyroid nodule", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "The structure identified in the sonographic examination is: 'Thrombus'."}
+{"gt": "Nodule", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "Tumor"}
+{"gt": "Supraspinatus pathology", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "'Supraspinatus pathology'"}
+{"gt": "Fracture", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "The correct answer is: 'Fracture'."}
+{"gt": "Basal Cell Carcinoma.", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "The specific term for the abnormality depicted in this image is \"Eczema.\""}
+{"gt": "No diabetic retinopathy.", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "Optic neuritis"}
+{"gt": "Chondral abnormality", "fuzzy_ok": 1, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "The image shows a close-up of a woman's leg with a large bruise on it."}
+{"gt": "Soft tissue edema", "fuzzy_ok": 1, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "The image shows a close-up of a dark, intricically in black and white.- 'Muscle "}
+{"gt": "MRI", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "Endoscopy"}
+{"gt": "Pneumonia", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "The image shows a radiograph of a medical condition that is relevant to the cand"}
+{"gt": "Foraminal pathology", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "Pneumonia"}
+{"gt": "MRI", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "MRI"}
+{"gt": "Labral pathology", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "The image shows a medical scan of a shoulder with a highlighted area, likely ind"}
+{"gt": "No", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "No"}
+{"gt": "Osseous neoplasm", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "The term for the anomaly observed in this image is \"spine\"."}
+{"gt": "Peroneal pathology", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "The noticeable condition in this image is a meniscal tear."}
+{"gt": "Bladder pathology", "fuzzy_ok": 1, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "The image shows a medical scan of the pelvic area, likely focusing on the bladde"}
+{"gt": "Vertical eye axis.", "fuzzy_ok": 1, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "Vertical eye axis"}
+{"gt": "thyroid", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "The image shows an ultrasound of a fetus in the womb. The specific structure dep"}
+{"gt": "No, It's normal", "fuzzy_ok": 1, "clean_ok": 0, "abstain": 1, "k": 2, "resp": "This is the correct answer from the candidate answers. 1."}
+{"gt": "Benign image.", "fuzzy_ok": 1, "clean_ok": 0, "abstain": 1, "k": 2, "resp": "The image shows a close-up view of a skin with an irregularly shaped mole.The mo"}
+{"gt": "COVID-19 negative", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "This X-ray image shows an x-ray of a medical condition or procedure.The image is"}
+{"gt": "Post-operative changes", "fuzzy_ok": 1, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "The image shows a medical scan of a human body, focusing on the pelvic area. The"}
+{"gt": "No, It's normal.", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "The image shows a significant abnormality."}
+{"gt": "Macular Hole (MH)", "fuzzy_ok": 1, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "This image shows a cross cross cross cross cross, x-ray ( 'Color), 'St7. 2)"}
+{"gt": "Liver lesion", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "The image is a black and white illustration of a cat, and the cat is a black and"}
+{"gt": "Ultrasound", "fuzzy_ok": 0, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "The image shows an ultrasound, specifically a fetal ultrasound, of a baby in the"}
+{"gt": "Vertical eye axis.", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "Vertical eye axis."}
+{"gt": "Ultrasound", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "The technique used for this image is the same as the one from the candidate answ"}
+{"gt": "Flexor pathology", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "The observed attribute in the image is 'Muscle strain'."}
+{"gt": "Extensor pathology", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "The attribute observed in this image is 'Osteoarthritis'."}
+{"gt": "Patella pathology", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "Patella pathology"}
+{"gt": "MRI", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "MRI"}
+{"gt": "Chest", "fuzzy_ok": 1, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "This image shows a medical X-ray, which is the correct meaning of the candidate "}
+{"gt": "right eye", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 2, "resp": "The image shows a detailed view of the blood vessels in the retina, which is a p"}
+{"gt": "Bowel inflammation", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "I apologize, but I must say that I am sorry, but I have to admit, but I must con"}
+{"gt": "CT", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "CT"}
+{"gt": "No", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 2, "resp": "The image shows a medical scan of the abdomen, likely indicating a focus on the "}
+{"gt": "Renal lesion", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "'Renal lesion'"}
+{"gt": "Nodule", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "The abnormality identified in the radiographic image is a \"Cyst\"."}
+{"gt": "Adipose tissue", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "Lymphatic tissue"}
+{"gt": "Abnormality present", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "The image shows an X-ray of a forearm, focusing on the wrist and hand. The bones"}
+{"gt": "Soft tissue fluid collection", "fuzzy_ok": 1, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "The image shows a medical scan of a shoulder, likely a MRI, specifically an MRI "}
+{"gt": "Basal cell carcinoma", "fuzzy_ok": 1, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "The specific type of skin lesion depicted in this picture is 'Eczema'."}
+{"gt": "uterus", "fuzzy_ok": 1, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "The image shows an ultrasound image of a fetus."}
+{"gt": "common bile duct", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "The ultrasound image shows a baby. 20 weeks' gestation, 'Aortic arch', 'common b"}
+{"gt": "Musculoskeletal system", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "Musculoskeletal system"}
+{"gt": "ACL pathology.", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "Achilles tendonitis"}
+{"gt": "X-ray", "fuzzy_ok": 0, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "The image shows an X-ray of a bone, specifically a femur. The X-ray is in black "}
+{"gt": "left eye", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 2, "resp": "['right eye'] Only return what you think, 'right]. 'right]. 'right]. 'right]. 'r"}
+{"gt": "Central Serous Retinopathy (CSR)", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "This is a 'Opt. 19. 'Optic (CS) 'Optic (CS) 'Optic (CS) 'Optic ("}
+{"gt": "No", "fuzzy_ok": 0, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "The image is a medical scan, likely a CT or MRI, of the abdominal region. No spe"}
+{"gt": "thyroid", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "The structure being depicted in this ultrasound image is the thyroid."}
+{"gt": "Benign breast histopathology.", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "The image depicts a."}
+{"gt": "kidney", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "The image is of the word:ultrasound"}
+{"gt": "No", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 2, "resp": "Yes."}
+{"gt": "No abnormality detected", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "The image you provided appears to be an X-ray of a wrist, focusing on the bones "}
+{"gt": "Osseous abnormality", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "'Dermatological abnormality'"}
+{"gt": "Intraperitoneal mass", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "The image is not available. 1."}
+{"gt": "pancreas", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "The image shows the 'Appendix'."}
+{"gt": "Soft tissue fluid", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "The image shows a \"Cyst formation.\""}
+{"gt": "Meniscal abnormality", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "The correct answer is: 'Meniscal abnormality'."}
+{"gt": "thyroid nodule", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "The ultrasound image shows a detailed view of a fetus in the womb."}
+{"gt": "CT", "fuzzy_ok": 0, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "The imaging technique used to obtain this picture is a **CT scan**."}
+{"gt": "thyroid", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "The organ depicted in this ultrasound image is the lungs."}
+{"gt": "Foraminal pathology", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "Gastric ulcers"}
+{"gt": "Melanoma", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "Melanoma"}
+{"gt": "Airspace opacity", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "Pleural effusion"}
+{"gt": "Drusen", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "The image shows a black and white diagram.or a diagram or figure showing how the"}
+{"gt": "MRI", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "The correct answer is: MRI"}
+{"gt": "Intra type of radimageNet dataset.", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "The image shows a coin with a design on it."}
+{"gt": "Soft tissue fluid", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "The image shows a medical scan of a human body part, likely an organ or a limb, "}
+{"gt": "No", "fuzzy_ok": 0, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "The image is showing the correct answer:['No', 'Yes'] Only return what you think"}
+{"gt": "thyroid", "fuzzy_ok": 1, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "An ultrasound image of a 20202020202020202020202020"}
+{"gt": "liver", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "The image shows a black and white cat! The cat is the opposite of the black and "}
+{"gt": "No", "fuzzy_ok": 1, "clean_ok": 0, "abstain": 1, "k": 2, "resp": "Is there any other irrelevant text!"}
+{"gt": "liver", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "The image shows a baby, 'Stomach', 'Muscle', 'Ovary', 'Ovary', 'Ovary', 'O"}
+{"gt": "Intraperitoneal mass", "fuzzy_ok": 1, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "The image shows a medical scan of a woman's pelvic area, highlighting a \"Subcuta"}
+{"gt": "Adrenal pathology.", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "Adrenal pathology."}
+{"gt": "Hematoma", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "Tumor"}
+{"gt": "Labral pathology", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "The image shows a medical scan, likely an MRI, of a joint, possibly indicating l"}
+{"gt": "ovary", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "The image shows a fetus in the womb."}
+{"gt": "No, the tail appears to be normal.", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 2, "resp": "Yes, the tail appears to be abnormal."}
+{"gt": "Chondral pathology", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "Chondral pathology"}
+{"gt": "No, It's normal.", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "Yes, it shows a significant abnormality."}
+{"gt": "Meniscal abnormality", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "'Cartilage erosion'"}
+{"gt": "liver", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "The image is not related to the question, do not return any other irrelevant tex"}
+{"gt": "CFL pathology", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "The image shows a close-up view of a ballet slipper with a smiling face and a to"}
+{"gt": "No", "fuzzy_ok": 0, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "The image shows a normal chest X-ray with no apparent abnormalities. It appears "}
+{"gt": "GHJ OA", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "The image shows a close-up view of a shoe with a distinctive design on it."}
+{"gt": "Chondral abnormality", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "Fracture"}
+{"gt": "Squamous cell carcinoma of the left hilu", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "The imagen de la imagen. 2023: la imagen de la izquierda."}
+{"gt": "Intra type of radimageNet dataset.", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "The image shows a medical scan, specifically a magnetic resonance imaging (MRI) "}
+{"gt": "No", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 2, "resp": "No"}
+{"gt": "Basal cell carcinoma", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "The skin abnormality displayed in this image is likely 'Basal cell carcinoma'."}
+{"gt": "Dural epidural abn", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "Cortical intraparenchymal irregularities"}
+{"gt": "Airspace opacity", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "The term used to describe the abnormal finding seen in the image is \"Lung consol"}
+{"gt": "uterus", "fuzzy_ok": 1, "clean_ok": 0, "abstain": 1, "k": 4, "resp": "B: The structure depicted in this ultrasound image is a fetus."}
+{"gt": "CFL pathology", "fuzzy_ok": 1, "clean_ok": 1, "abstain": 0, "k": 4, "resp": "CFL pathology"}
+{"gt": "Nevus", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "The specific type of abnormality seen in this image is a \"Cyst\"."}
+{"gt": "No, It's normal.", "fuzzy_ok": 0, "clean_ok": 0, "abstain": 0, "k": 4, "resp": "Yes, it shows a significant abnormality."}

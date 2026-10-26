@@ -1,0 +1,105 @@
+{
+  "MMAD": {
+    "repo": "https://github.com/jam-cc/MMAD",
+    "commit": "1490f887b9570613565fa6a7b15d5f81aa183c54",
+    "fabricating_code": "evaluation/examples/GPT4/gpt4o.py:174-186 (get_close_matches cutoff=0.0)",
+    "scorer": "evaluation/examples/helper/summary.py:14 caculate_accuracy_mmad",
+    "metric": "plain accuracy = mean(gpt_answer==correct_answer) over DS-MVTec Anomaly Detection (n=1670)",
+    "truncation_needs_rerun": "NO",
+    "per_model": {
+      "pixtral-12b": {
+        "official_fuzzy": 0.6539,
+        "official_strict": 0.4419,
+        "official_inflation": 0.212,
+        "fabricated_pct": 29.3,
+        "reimpl_fuzzy": 0.6557,
+        "reimpl_strict": 0.4437,
+        "reimpl_inflation": 0.212,
+        "reimpl_abstain": 0.2928
+      },
+      "llama-3.2-11b": {
+        "official_fuzzy": 0.7413,
+        "official_strict": 0.5216,
+        "official_inflation": 0.2198,
+        "fabricated_pct": 36.9,
+        "reimpl_fuzzy": 0.7413,
+        "reimpl_strict": 0.5216,
+        "reimpl_inflation": 0.2198,
+        "reimpl_abstain": 0.3695
+      },
+      "gemma-4-e4b": {
+        "official_fuzzy": 0.7359,
+        "official_strict": 0.7359,
+        "official_inflation": 0.0,
+        "fabricated_pct": 0.0,
+        "reimpl_fuzzy": 0.7359,
+        "reimpl_strict": 0.7359,
+        "reimpl_inflation": 0.0,
+        "reimpl_abstain": 0.0
+      },
+      "qwen2.5-vl-7b": {
+        "official_fuzzy": 0.7713,
+        "official_strict": 0.7713,
+        "official_inflation": 0.0,
+        "fabricated_pct": 0.0,
+        "reimpl_fuzzy": 0.7713,
+        "reimpl_strict": 0.7713,
+        "reimpl_inflation": 0.0,
+        "reimpl_abstain": 0.0
+      },
+      "qwen3-vl-8b": {
+        "official_fuzzy": 0.8365,
+        "official_strict": 0.8365,
+        "official_inflation": 0.0,
+        "fabricated_pct": 0.0,
+        "reimpl_fuzzy": 0.8365,
+        "reimpl_strict": 0.8365,
+        "reimpl_inflation": 0.0,
+        "reimpl_abstain": 0.0
+      }
+    }
+  },
+  "MathVista": {
+    "repo": "https://github.com/lupantech/MathVista",
+    "commit": "53d525874bdde205128e6b160b7357a88277d479",
+    "fabricating_code": "evaluation/calculate_score.py:17-24 get_most_similar (no threshold) + :55-61 snap branch",
+    "scorer": "evaluation/calculate_score.py:main (normalize_extracted_answer)",
+    "metric": "testmini multi_choice accuracy (n=540)",
+    "truncation_needs_rerun": "YES (containment/clean reference and Levenshtein snap both depend on full response; 80-char truncation flips 28-90 abstain decisions/model)",
+    "per_model_official_fuzzy": {
+      "gemma-4-e4b": 0.3741,
+      "qwen2.5-vl-7b": 0.6056,
+      "qwen3-vl-8b": 0.5981,
+      "pixtral-12b": 0.3648,
+      "llama-3.2-11b": 0.3556
+    },
+    "snap_rate_pct": {
+      "gemma-4-e4b": 99.6,
+      "qwen2.5-vl-7b": 96.3,
+      "qwen3-vl-8b": 96.9,
+      "pixtral-12b": 99.6,
+      "llama-3.2-11b": 100.0
+    },
+    "reimpl_artifact_fuzzy_minus_clean": {
+      "gemma-4-e4b": 0.1556,
+      "qwen2.5-vl-7b": 0.0574,
+      "qwen3-vl-8b": 0.05,
+      "pixtral-12b": 0.1352,
+      "llama-3.2-11b": 0.1167
+    },
+    "offline_artifact_on_truncated_resp": {
+      "gemma-4-e4b": 0.187,
+      "qwen2.5-vl-7b": 0.0759,
+      "qwen3-vl-8b": 0.063,
+      "pixtral-12b": 0.1852,
+      "llama-3.2-11b": 0.1944
+    },
+    "truncation_abstain_flips": {
+      "gemma-4-e4b": 62,
+      "qwen2.5-vl-7b": 28,
+      "qwen3-vl-8b": 32,
+      "pixtral-12b": 57,
+      "llama-3.2-11b": 90
+    }
+  }
+}

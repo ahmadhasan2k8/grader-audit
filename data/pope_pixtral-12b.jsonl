@@ -1,0 +1,1500 @@
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a snowboard in the image. The snowboard is positioned"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no backpack in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a person in the image. The person is wearing a red"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no car in the image. The image shows a person skiing"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a skier in the image. The skier is wearing a red"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no dog in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a truck in the image. It is parked in the background"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a car in the image. It is parked on the street"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a person in the image. A woman is holding an umbrella"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no dining table in the image. The image features a woman"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is an umbrella in the image. It is being held by a"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a handbag in the image. It is located near the"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a person in the image. The person is located in the"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a dining table in the image. The dining table is located"}
+{"gold": 1, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no bicycle in the image."}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no motorcycle in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a car in the image. The car is white with red"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a truck in the image. The truck is white with red"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a person in the image. It shows a red double-de"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a dining table in the image. The image features a red"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a plant in the image. The image features a red double"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a double-decker bus in the image. The bus is"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a car in the image. It appears to be a double"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a red double-decker bus in the image. The bus"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a traffic light in the image, located at the coordinates ["}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a bus in the image, and it is driving down a"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a person in the image, sitting in the back of a"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no dining table in the image. The image shows a car"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a car in the image, and it is decorated with Christmas"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a truck in the image, and it is decorated with Christmas"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a dog in the image. It is a small white dog"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no person visible in the image. The image primarily features a"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a dining table in the image. The table is where the"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no chair visible in the image."}
+{"gold": 1, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no bed visible in the image. The image primarily features a"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a book in the image. The book is open and lies"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a person in the image. The person appears to be enjoying"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no car in the image. The image shows a man eating"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a spoon in the image. The spoon is being held by"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a cup in the image. It is located on the right"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a fork in the image. The fork is being held by"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a dining table in the image. The table is covered with"}
+{"gold": 1, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no TV in the image."}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a person in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a toaster in the image."}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no book in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a microwave in the image."}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a bottle in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there are several backpacks visible in the image. They are worn by"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a handbag in the image. It is located in the"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there are several people in the image. They are dressed in winter clothing"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no car in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a ski in the image. The ski is being used by"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a snowboard in the image. It is located towards the"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a bird in the image. It is a seagull"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a handbag in the image. It is located near the"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a person in the image. The person is riding a motor"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a car in the image. It is a small car on"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a boat in the image. It is a small boat with"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a chair in the image. It is located on the left"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": null, "default": 1, "resp": "The image features a lively and colorful scene with a group of people, presumabl"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": null, "default": 1, "resp": "The image features a lively and colorful scene from the movie \"A Bug's Life"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": null, "default": 1, "resp": "The image depicts a lively and colorful scene from the movie \"A Bug's Life"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": null, "default": 1, "resp": "The image features a lively and colorful scene from the movie \"A Bug's Life"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": null, "default": 1, "resp": "The image features a lively and colorful scene from the movie \"A Bug's Life"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": null, "default": 1, "resp": "The image features a lively and colorful scene from the movie \"A Bug's Life"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a group of people pushing a large vehicle, specifically a bus"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a handbag in the image. The image features a vintage"}
+{"gold": 1, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there isn't a person in the image."}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a car in the image. The car is a vintage-style"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a bus in the image. The bus is a charter bus"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a traffic light in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a person in the image. The person is wearing a black"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no car in the image. The image shows a man wearing"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a dining table in the image. The man is standing near"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a cup in the image. It is located on the left"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a chair in the image. It is located on the left"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no couch in the image. The image shows a man wearing"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a person in the image. It is a young girl."}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a car in the image, which is a toy car."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a sandwich in the image. A young girl is holding a"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a bowl in the image. It is located towards the right"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a hot dog in the image, which the little girl is"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a handbag in the image. It is located on the"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there are two people in the image. They are playing a game of"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no dining table in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a car in the image. It is located on the right"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a truck in the image. It is located on the right"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a frisbee in the image. The frisbee"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no dog in the image."}
+{"gold": 1, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no knife visible in the image."}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no cup visible in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there are three people in the image. One person is dressed in a"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no car in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a cake in the image. It is a wedding cake,"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a bottle in the image. It is located towards the left"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a person in the image. The person appears to be a"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no car in the image."}
+{"gold": 1, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no remote in the image."}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no TV in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a handbag in the image. The handbag is located"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a backpack in the image. It is located at the bottom"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a baseball glove in the image. The baseball glove is worn"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a sports ball in the image. The image features a baseball"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there are multiple people in the image. It appears to be a group"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no car in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a baseball bat in the image. The batter is holding it"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a bench in the image. It is located on the left"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a sink in the image."}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a bottle in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a bench in the image."}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no person in the image."}
+{"gold": 1, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no toilet in the image."}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a vase in the image. It is located on the left"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a person in the image. The person is a woman with"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no car in the image. The image features a woman with"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a teddy bear in the image."}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no bed visible in the image. The image features a woman"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a teddy bear in the image."}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no couch in the image. The image features a woman with"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a bowl in the image. It is located at the top"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a cup in the image. It is located towards the top"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a spoon in the image. It is located towards the top"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a bottle in the image. It is located towards the top"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a sandwich in the image. It is cut in half and"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a fork in the image. It is located towards the top"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there are multiple dogs in the bed."}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a person in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a cat in the image."}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a couch."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a bed."}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a TV in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a TV in the image. It is located on the left"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no person in the image. It only shows a desk with"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a computer mouse in the image. It is located on the"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a book in the image. It is located on the desk"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a laptop in the image. It is sitting on the desk"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a bottle in the image. It is located on the desk"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a sink in the image. It is located to the right"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no person in the image. It only shows a bathroom with"}
+{"gold": 1, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no toothbrush in the image."}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a cup in the image. It is located on the counter"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a bottle in the image. It is located on the counter"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no dining table in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": null, "default": 1, "resp": "The image shows a WestJet aircraft on the tarmac. The aircraft is predominantly"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": null, "default": 1, "resp": "The image shows a WestJet aircraft on a runway at night. The aircraft is"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": null, "default": 1, "resp": "The image shows a WestJet aircraft on a runway at night. The aircraft is"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": null, "default": 1, "resp": "The image shows a WestJet aircraft on a tarmac. The aircraft is stationary"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": null, "default": 1, "resp": "The image shows a WestJet aircraft on a tarmac. The aircraft is stationary"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": null, "default": 1, "resp": "The image shows a WestJet aircraft on the tarmac. The aircraft is predominantly"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a backpack on the back of the person who is cross-country"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a handbag in the image. The person skiing is wearing"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a person in the image. The person is cross-country skiing"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no car in the image. The image features a person on"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a person on skis in the image, and they are"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no snowboard in the image. The person is skiing on"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a TV in the image."}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no dining table visible in the image."}
+{"gold": 1, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no person in the image."}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no car in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a couch in the image. It is an orange couch."}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a chair in the image. It is an orange-colored chair"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a truck in the image. It is seen on the road"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a car in the image. It is located on the road"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a person in the image. The person is standing on the"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no dining table in the image. The image shows a winding"}
+{"gold": 1, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no cow in the image. The image features a caravan"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no bicycle in the image. The image shows a road with"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a dog in the image. The dog is seen through the"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a frog in the image. The frog is perched on"}
+{"gold": 1, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no truck in the image. There is a car."}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no traffic light in the image."}
+{"gold": 1, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no person in the image."}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no dining table in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a sink in the image. It is a bathroom sink where"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no person in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a toothbrush in the image. It is located on the"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a cup in the image. It is located on the counter"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a bottle in the image. It is located on the counter"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no dining table in the image. The image shows two cats"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a person in the image. The person is standing to the"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no car in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a bicycle in the image. It is located on the left"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a motorcycle in the image. It is located on the left"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is an umbrella in the image. It is a large, colorful"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a handbag in the image. It is located on the"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a person in the image, who is performing a trick on"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no car in the image. Instead, there is a man"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a bicycle in the image, and a man is riding it"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a motorcycle in the image, and a man is riding it"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a skateboard in the image, and a person is riding"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a bench in the image, and it is located on the"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a laptop in the image, which is placed on a desk"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no person visible in the image. The image shows a desk"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a remote in the image. It is located on the desk"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no couch in the image. The image features a desk with"}
+{"gold": 1, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no dining table in the image. Instead, the image features"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a cup in the image. It is located on the right"}
+{"gold": 1, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no snowboard in the image. There is a person on"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a skis in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a person in the image."}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no car in the image."}
+{"gold": 1, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no surfboard in the image. There is a wakeboard"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a bird in the image. It is flying in the sky"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no handbag visible in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a person in the image. The person is standing on the"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no car in the image. The image features a boat on"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a boat in the image. It is sitting on the beach"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no chair in the image. The image shows a boat on"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a dog in the image. A woman is walking the dog"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a truck in the image. It is located on the right"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a person in the image. The person is walking down the"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no dining table in the image. The image features a person"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a car in the image. It is located on the right"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no bus in the image. The image features a person walking"}
+{"gold": 1, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no person in the image. The image shows a toy car"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no dining table visible in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a skateboard in the image. It is a toy skate"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a bicycle in the image. It is a small toy bicycle"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a car in the image. It is a toy car,"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a truck in the image. It is a toy truck,"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a person in the image. The person is holding a knife"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a car in the image. It appears to be a black"}
+{"gold": 1, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no fork in the image."}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a dining table in the image. The table has a large"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a knife in the image. It is being held by a"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no spoon in the image."}
+{"gold": 1, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no TV in the image. The image shows a desk with"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no chair visible in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a person in the image. They are sitting at a desk"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no car in the image. The image shows a person using"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a mouse in the image, which is located near the keyboard"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a cell phone in the image. It is located on the"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a TV in the image, located at the coordinates [0"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no dining table in the image. The image shows a group"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a backpack in the image."}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a handbag in the image. It is located near the"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a person in the image. The person is standing near the"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no car in the image. The image shows a group of"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, the image shows the interior of a vehicle, possibly a camper or"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a person in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, the image shows the interior of a train car.or a train car"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, the image shows the interior of a truck.truck."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a bed.in the image?"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a book in the image."}
+{"gold": 1, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no traffic light in the image. Instead, there is a"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a bus in the image, located on the street."}
+{"gold": 1, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no truck in the image. The image features a street with"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no motorcycle in the image. The image features a street with"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a clock in the image. It is hanging over a street"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no chair visible in the image. The image primarily features a"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a person in the image. The person is leaning over a"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no car in the image. The image shows a man sitting"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a bottle in the image. It is located on the right"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a spoon in the image, which is located on the table"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a dining table in the image where a man is sitting and"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no laptop in the image. The focus is on a man"}
+{"gold": 1, "pope": 1, "logit": 0, "strict": null, "default": 1, "resp": "Abria the on player in the image?"}
+{"gold": 0, "pope": 1, "logit": 0, "strict": null, "default": 1, "resp": "Abria the on player in the image?"}
+{"gold": 1, "pope": 1, "logit": 0, "strict": null, "default": 1, "resp": "A brad, \n\nA group of in the image?"}
+{"gold": 0, "pope": 1, "logit": 0, "strict": null, "default": 1, "resp": "A the girl ons can be used for players playing a soccer game."}
+{"gold": 1, "pope": 1, "logit": 0, "strict": null, "default": 1, "resp": "A the girl on a le the girl on a group of a soccer game in"}
+{"gold": 0, "pope": 1, "logit": 0, "strict": null, "default": 1, "resp": "A the girl in a girl in the girl in the image?"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a truck in the image."}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no traffic light in the image. The image shows a couple"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a person in the image. The person is riding a bike"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no dining table in the image. The image features a couple"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a motorcycle in the image. It is parked near a small"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a bicycle in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a backpack in the image. It is located on the back"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no handbag in the image. The image shows a group"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there are several people in the image. They are a group of mount"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no car in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there are skis in the image. Several people in the group are"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no snowboard in the image. The image shows a group"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a couch in the image. It is positioned in front of"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a person in the image. They are holding a vase with"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a chair in the image. It is positioned to the left"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a dining table in the image. It appears to be made"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a vase in the image. It is a decorative glass vase"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a potted plant in the image. It is located on"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a person in the image. The person is a baby."}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no car in the image. The image features a baby sitting"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a suitcase in the image. A baby is sitting inside"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a backpack in the image. A baby is sitting inside the"}
+{"gold": 1, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no handbag in the image. The image features a baby"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no dining table visible in the image. The image shows a"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a chair in the image. It is located towards the right"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a dining table in the image. It is located towards the"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a person in the image. The person is riding a horse"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no car in the image. The image features a horse and"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a horse in the image. It is a white horse with"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a dog in the image. The dog is located near the"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there are bananas in the image. They are placed in a wooden"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no person visible in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a spoon in the image. It is located on the counter"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a cup in the image. It is located on the counter"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a bowl in the image. It contains bananas."}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no sandwich visible in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a vase in the image. The vase is located on the"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no dining table in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a sink in the image. The sink is located on the"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a bottle in the image. It is located on the floor"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a potted plant in the image. It is located in"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no person in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a baseball glove in the image. The woman is holding a"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a baseball bat in the image. The woman is holding it"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a person in the image. The person is a woman wearing"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no car in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a sports ball in the image. A woman is holding a"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a tennis racket in the image. A woman is holding"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a person in the image. The person is visible through the"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no dining table in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a car in the image. It is visible behind the bus"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a truck in the image. It is a modified school bus"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a bus in the image. It is a large, modified"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no traffic light in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a person in the image. The person is located towards the"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no car in the image. The image primarily features a display"}
+{"gold": 1, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no dining table visible in the image. The image primarily features"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a cup in the image. It is located towards the top"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a handbag in the image. It is located towards the"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a backpack visible in the image. It is located towards the"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a person in the image. The person is a young girl"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no dining table in the image. The image features a young"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is an orange in the image. A young girl is holding a"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no bowl in the image. The image shows a young girl"}
+{"gold": 1, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no car in the image."}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no truck in the image. The image features a young girl"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a person in the image. An elderly man is sitting at"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no car in the image. The image shows an elderly man"}
+{"gold": 1, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no wine glass in the image. The image shows an elderly"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a cup in the image. It is located on the dining"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a bottle in the image. It is located on the left"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a spoon in the image. It is located on the dining"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a backpack in the image. It is located on the bed"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no person in the image. It shows a neatly made bed"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a bed in the image. It is a neatly made bed"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no dining table in the image."}
+{"gold": 1, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no book in the image."}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no TV in the image."}
+{"gold": 1, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no traffic light in the image."}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no truck in the image. There is a bus and several"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there are multiple people in the image. They are depicted as small figures"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a dining table in the image. It is located on the"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there are several backpacks in the image. They are being carried by"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a bus in the image. The bus is prominently featured in"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a person in the image. The person is lying on the"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no car in the image. Only a motorcycle and a person"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a motorcycle in the image. It is a black and purple"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no truck in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a motorcycle in the image. The motorcycle is black and is"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a bus in the image. The bus is lying on the"}
+{"gold": 1, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there isn't a person visible in the image. The image primarily showc"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a car visible in the image. It is located on the"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a dining table in the image. The table is filled with"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a cup in the image. It is located on the right"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a refrigerator in the image. It is located on the right"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a bottle in the image. The bottle is located near the"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a sandwich in the image. It is a large sandwich filled"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a cup in the image. It is located towards the top"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a carrot in the image, which is part of the"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a bowl in the image, which is filled with a variety"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a broccoli in the image, which is part of"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no knife visible in the image. The focus is on the"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a person in the image. The person is standing near a"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a chair in the image. It is located towards the right"}
+{"gold": 1, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no car in the image. The image features a bus and"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a truck in the image. It is a double-decker"}
+{"gold": 1, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no dining table in the image. The image features a double"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a cup in the image. It is located near the bottom"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there are several people in the image. They are in a green boat"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no car in the image. There is a group of people"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a boat in the image. It is a green boat with"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no bird visible in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a handbag in the image. It appears to be a"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a backpack in the image. It is located on the right"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a person in the image. The person is skateboarding on"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no car in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a bench in the image. A person is also seen riding"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no dining table in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a skateboard in the image. A person is riding the"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no bicycle in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a spoon in the image. It is located on the right"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a bowl in the image. It is located on the top"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a bottle in the image. The bottle is located on top"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no person in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a refrigerator in the image."}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no chair in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a sink in the image. It is located on the left"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a bottle in the image. It is located near the sink"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a potted plant in the image. It is located on"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no person in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a toilet in the image. It is located to the right"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a vase in the image. It is located on the counter"}
+{"gold": 1, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no backpack in the image. The image features a living room"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no person in the image. It features a living room with"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a clock in the image. It is located on the wall"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no car in the image. The image shows a living room"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a couch in the image. It is located in the living"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no TV visible in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a person in the image. The person is a girl who"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no dining table in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a car in the image. The car is parked near a"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a truck in the image. The truck is parked near a"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a frisbee in the image. The frisbee"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no dog in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a person in the image. They are laying on a bed"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no car in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a bed in the image. The bed has a black and"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there isn't a book. It's a picture of a couple dressed"}
+{"gold": 1, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no tie in the image. The image depicts a couple lying"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there isn't a dining table in the image. It is a glass"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a TV in the image, and it is displaying a video"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no chair in the image. The image features a computer monitor"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a person in the image. They are holding a Wii remote"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no car in the image. The image features a large computer"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a remote control in the image, and it is being used"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a couch in the image. It is located towards the right"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there are multiple chairs in the image. They are arranged in rows,"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no dining table in the image. The image shows a room"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a person in the image. The person is standing in a"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no car in the image. The image shows a room with"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a remote control in the image. It is located towards the"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a TV in the image. It is located towards the left"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a person in the image. The person appears to be a"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no car in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a sports ball in the image. It is a tennis ball"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no baseball glove in the image. There is a tennis ra"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a tennis racket in the image. The man is holding"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no chair visible in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a person in the image. The person appears to be an"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a handbag in the image. It is located near the"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a truck visible in the image. It appears to be parked"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no traffic light visible in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a laptop in the image. It is located on the counter"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no TV visible in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a chair in the image. It is located to the left"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no dining table in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a person in the image."}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no car in the image."}
+{"gold": 1, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no couch in the image."}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no TV in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a person in the image. The person is a woman with"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no car in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a clock in the image. It is located on the wall"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a chair in the image. It is located on the left"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a couch in the image. It is a large, dark"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a baseball glove in the image. The baseball glove is located"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no dog in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a person in the image. The person is a baseball player"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no car in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a sports ball in the image. It is located near the"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is not a tennis racket in the image. There is a"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a snowboard in the image. The snowboard is being"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a backpack in the image. The backpack is located in the"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a person in the image. The person is standing on sk"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no car in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a ski in the image. The image shows a person skiing"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no dog in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a person in the image. A young child is sitting at"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no car in the image. The image features a young girl"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a bowl in the image. The little girl is eating grapes"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no dining table visible in the image. The image shows a"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a pair of scissors in the image. They are located"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no sandwich in the image. The image shows a young girl"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a chair in the image. The chair is located towards the"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no dining table visible in the image. The image shows an"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a person in the image. The person is an older man"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no car in the image. The image shows an elderly man"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is an airplane in the image. The context and the presence of"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no truck in the image. The image shows a man sitting"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a dog in the image. The dog is being held by"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no car in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a person in the image. The person is standing on the"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no dining table visible in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a backpack in the image. It is being worn by one"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no handbag visible in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a person in the image. The person is walking a dog"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no car in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a horse in the image. The horse is walking along the"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a dog in the image. The dog is walking alongside a"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a sheep in the image. The sheep is standing on the"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no truck in the image. The image depicts a beach scene"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a person in the image."}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there isn't a car in the image."}
+{"gold": 1, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there isn't a laptop or any other electronic device visible in the image"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there isn't a TV.in the image."}
+{"gold": 1, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no dining table in the image."}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a cup in the image."}
+{"gold": 1, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no bird in the image."}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no boat in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a person in the image. The person is riding a bike"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a dining table in the image. It is located on the"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a handbag in the image. It is located on the"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a backpack in the image. It is located on the left"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a backpack in the image. The backpack is located on the"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there are several people wearing blue outfits and overalls in the image"}
+{"gold": 1, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no truck in the image."}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a car in the image. The car is visible in the"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there are people in the image. The image features a group of individuals"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a cup in the image. The cup is located on the"}
+{"gold": 1, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there are no vases in the image."}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no dining table in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a bowl in the image. It is the fourth object from"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a cup in the image. It is the fourth object from"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a toilet in the image. It is the fourth item from"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no sink in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there are two people in the image. They are standing near a body"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no car in the image. The image features two people in"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is an orange object in the image. It appears to be an"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no dining table in the image. The image features two people"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a frisbee in the image. One of the individuals"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no dog in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a TV in the image, which is sitting on top of"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no person in the image. The image shows a computer desk"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a mouse on the desk in the image."}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no chair visible in the image. The focus is on the"}
+{"gold": 1, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no laptop in the image. Instead, there is a desktop"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no cell phone in the image. The image features a computer"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a chair in the image. It is located at the top"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no person visible in the image. The image primarily features a"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is broccoli in the image. It is part of the"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a dining table in the image, with a plate of food"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a carrot in the image, which is part of the"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a bowl in the image, which contains rice."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there are two people in the image. One person is wearing a red"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no car in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a bench in the image. The two men are sitting on"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no dining table in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a clock in the image. It is located towards the right"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a bench in the image. The two men are sitting on"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a sink in the image, located inside the small bathroom."}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a bottle visible in the image. It is located near the"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a person in the image. They are visible in the reflection"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no car in the image. The image shows a bathroom with"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a toilet in the image, located in the small bathroom."}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no vase in the image. The image shows a bathroom with"}
+{"gold": 1, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no truck in the image. The image primarily features an airplane"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a car in the image. The car is located near the"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a person in the image. The person is located near the"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no dining table visible in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is an airplane in the image. The airplane is prominently displayed an"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no backpack visible in the image. The image primarily features an"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a traffic light in the image. The traffic light is located"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no bus in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a truck in the image. The truck is parked on the"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no motorcycle in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a person in the image. The person is located on the"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no dining table visible in the image."}
+{"gold": 1, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no dog in the image. The image features a large sandwich"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no person visible in the image. The image primarily features a"}
+{"gold": 1, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no bowl visible in the image."}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a cup in the image. It is located on the left"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a sandwich in the image. It is a large, over"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a dining table in the image. The table is visible in"}
+{"gold": 1, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no spoon in the image. The image shows a person using"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no cup visible in the image."}
+{"gold": 1, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no bowl in the image. The image shows a pot of"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no dining table visible in the image. The focus is on"}
+{"gold": 1, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no person visible in the image. However, there is a"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no car in the image. The image shows a pot of"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a dog in the image. The dog is sitting in the"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a truck in the image, which has a dog wearing a"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a person in the image. The person is sitting in the"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no dining table in the image. The image features a man"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a car in the image. It is a blue car with"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a bus in the image, and it is behind the blue"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a person in the image. The person is lying in bed"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no car in the image. The image features a man in"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a bed in the image. The man is laying in bed"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no dining table in the image. The image features a man"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a cat in the image, and it is lying on the"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no couch in the image. Instead, there is a bed"}
+{"gold": 1, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no person in the image. The image shows a street with"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no dining table in the image. The image features a city"}
+{"gold": 1, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no car in the image. The image features a bus and"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no truck in the image. Instead, there is a bus"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a bus in the image. It is a city bus driving"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a traffic light in the image. It is located on the"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a sink in the image. It is located under a large"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no person visible in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a toilet in the image. It is located on the right"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no vase in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a bottle in the image. It is located on the sink"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no dining table in the image. It shows a bathroom with"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a person in the image. The person is seen riding a"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a dining table in the image. It is located on the"}
+{"gold": 1, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no bicycle in the image."}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no bus in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a car in the image. The car is visible in the"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no truck in the image. The image shows a line of"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a backpack in the image. It is located on the right"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a handbag in the image. It is located towards the"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there are several people in the image. They are all dressed in costumes"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no car in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there are skis in the image. A group of people are standing"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no snowboard in the image. The image features a group"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a TV in the image. It is located to the left"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no person in the image."}
+{"gold": 1, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no couch in the image."}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no dining table in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a boat in the image. It is a model boat placed"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no car in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a motorcycle in the image. It is parked next to a"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no person in the image. It features a motorcycle with a"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a bicycle in the image. It is parked next to a"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no bus in the image. The image features a motorcycle with"}
+{"gold": 1, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no car in the image. The image features a motorcycle with"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no truck in the image. The image features a motorcycle with"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a person in the image. The person is a woman who"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no car in the image. The image shows a person cooking"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a bowl in the image. It is located on the counter"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no dining table visible in the image. The focus is on"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a spoon in the image. It is located on the counter"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a bottle in the image. It is located on the counter"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a couch in the image. The dog is lying on a"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no person in the image. Only a dog is present."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a bed in the image. The dog is lying on a"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no book in the image."}
+{"gold": 1, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no cat in the image. It features a dog."}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a chair in the image. The dog is lying on a"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a snowboard in the image. It is located towards the"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a surfboard in the image. It is being held by"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a backpack in the image. It is located in the upper"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a handbag in the image. It is located towards the"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there are people in the image. They are dressed in ski gear and"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no car in the image. The image features people in ski"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a bowl in the image. A cat is drinking from a"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a cup in the image. It is located towards the left"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a cat drinking from a toilet in the image. The cat"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a cat drinking from a toilet bowl in the image. The"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a cat in the image. The cat is drinking water from"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a cat in the image. The cat is drinking water from"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a spoon in the image. It is located on the desk"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a bowl in the image. It is located on the desk"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a laptop in the image, and it is sitting on a"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no person in the image. The image shows a computer desk"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a remote in the image. It is located on the desk"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a couch in the image, located to the right of the"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a person in the image. The person is standing near the"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a car in the image. The car is visible in the"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a bicycle in the image. The handlebars of the bicycle"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a motorcycle in the image. The handlebars of the motorcycle"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a potted plant in the image. The plant is located"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no dining table in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there are multiple people in the image. They are gathered around a fence"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no car in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a dining table in the image. It is located on the"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a cup in the image. It is located on a table"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a chair in the image. It is located on the right"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no couch in the image."}
+{"gold": 1, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no traffic light visible in the image. The focus is on"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a truck in the image, and it is seen from the"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a person in the image. A woman is riding a bike"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a dining table in the image, located on the right side"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a backpack in the image. It is being carried by a"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a handbag in the image. It is located near the"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a person in the image. The person is seen from the"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no car in the image. The image shows a person on"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a bicycle in the image. It is positioned on the right"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a motorcycle in the image. It is positioned on the right"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there are multiple sheep in the image. They are seen walking along a"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no truck in the image. The image shows a person on"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a person visible in the image. The person is seen on"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no car in the image. The image shows a cozy"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a remote in the image. The remote is placed on the"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a chair in the image. It is located on the right"}
+{"gold": 1, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no dining table in the image. There is a TV tray"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a cup in the image. It is located on the right"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there are two white teddy bears. They are decorated with crowns"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a person in the image. They are wearing crowns and"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there are two bears in the image."}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a table in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there are two teddy bears in the image. They are positioned next"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a bed in the image. It appears to be a celebration"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": null, "default": 1, "resp": "The image features a slice of chocolate cake on a green plate with a fork insert"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": null, "default": 1, "resp": "The image features a slice of chocolate cake on a plate. The plate has a"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": null, "default": 1, "resp": "The bottle is a Guinness Extra Stout."}
+{"gold": 0, "pope": 1, "logit": 1, "strict": null, "default": 1, "resp": "The image features a slice of chocolate cake on a plate. The plate has a"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": null, "default": 1, "resp": "The image features a slice of chocolate cake on a plate. The plate has a"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": null, "default": 1, "resp": "The image features a slice of chocolate cake on a plate. The plate has a"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a backpack in the image. It is located near the center"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no skis in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there are multiple people in the image. They are seen boarding a large"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no car in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is an airplane in the image. It is a large military aircraft"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no truck in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a TV in the image. It is located on the right"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no person in the image. It features a living room with"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a couch in the image. It is a large, light"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a book in the image. It is located on the coffee"}
+{"gold": 1, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no dining table in the image."}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a cup in the image. It is located on the right"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a person in the image. The person is a child who"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no car in the image. The image shows children and a"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a bowl in the image. It is located towards the right"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a cup in the image. It is located towards the right"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a fork in the image. It is located near the pizza"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no knife visible in the image. The image primarily shows children"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a backpack in the image. It is placed on the floor"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no person in the image."}
+{"gold": 1, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no bench in the image."}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no chair in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a laptop in the image. It is located towards the left"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a TV in the image. It is located towards the right"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a person in the image. The person is riding a bike"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no dining table in the image. The image features a man"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a bicycle in the image. A man is riding the bicycle"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no motorcycle in the image. The image features a man riding"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a car in the image. It is visible on the left"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a truck in the image. It is visible on the left"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a spoon in the image. It is located on the counter"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no person in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a bowl in the image. It is located on the counter"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no dining table in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a bottle in the image. It is located on the counter"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no chair in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a banana in the image. A person is holding a banana"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no bowl in the image. The image features a person holding"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a person in the image. The person is holding a yellow"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no car in the image. The image features a person holding"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a handbag in the image. It is located on the"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a backpack visible in the image. It is located on the"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a backpack in the image. The backpack is worn by the"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a handbag in the image. The woman is wearing a"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a person in the image. The person is a woman standing"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no car in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a sheep in the image. The sheep is standing near a"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a truck in the image. It is located in the background"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a chair in the image. It is located on the left"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no person in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a clock in the image. It is located on the night"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no dining table in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a bed in the image. It is a large bed with"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no cat in the image."}
+{"gold": 1, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no person in the image."}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no dining table in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there are multiple motorcycles in the image."}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no truck in the image."}
+{"gold": 1, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there are only motorcycles in the image."}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no bus in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there are two people in the image. One is a man and the"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no car in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a knife in the image. It is located on the cake"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a dining table in the image. It is located towards the"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a vase in the image. It is located towards the right"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a potted plant in the image. It is located on"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a toothbrush in the image. A baby is holding the"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no sink visible in the image. The image primarily features a"}
+{"gold": 1, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no couch in the image. There is a bed, however"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no chair visible in the image. The image primarily features a"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a person in the image. It is a baby."}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a car in the image. The baby is sitting in a"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a traffic light in the image. It is located on the"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no person in the image."}
+{"gold": 1, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no train visible in the image."}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no car in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a stop sign in the image. It is located at the"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no truck in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a toaster in the image. It is a small to"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no TV in the image. The image shows a toaster"}
+{"gold": 1, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no person visible in the image. The image shows a to"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no car in the image. The image features a toaster"}
+{"gold": 1, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no microwave in the image. The image shows a toaster"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a bottle in the image. It is located near the top"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a person in the image. They are a young boy who"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no car in the image. The image features a young boy"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a couch in the image, and a young boy is sleeping"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a chair in the image. It is located near the couch"}
+{"gold": 1, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no dining table in the image. The focus is on a"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a bottle in the image. It is located near the person"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a handbag in the image. It is placed on the"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no person in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a potted plant in the image. It is located on"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a vase in the image. It is located on the counter"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a dining table in the image. It is a small,"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no cup in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a dog in the image. The dog is wearing a blue"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no car in the image. The image features a dog playing"}
+{"gold": 1, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no person in the image. Only a dog is present."}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no dining table in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a frisbee in the image. A dog is jumping"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no orange in the image. The image features a dog wearing"}
+{"gold": 1, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no clock in the image."}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no person in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a bed in the image."}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no book in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, the image appears to show a remote and cozy interior space, likely"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a TV in the image. It is mounted on the wall"}
+{"gold": 1, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no bottle in the image. The image features two cats,"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no person in the image. Only two cats are present."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a cat in the image. It is sitting on a toilet"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no couch in the image. The image features two cats,"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a toilet in the image. It is a white toilet."}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a sink in the image, and two cats are sitting on"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a fire hydrant in the image. It is located in"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no person in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there are several cars in the image. They are parked in the parking"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no truck in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a stop sign in the image. It is located near the"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no traffic light in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a TV in the image."}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no dining table visible in the image. The focus is on"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a person in the image. They are holding a Wii remote"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no car in the image. The image shows a person holding"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a remote in the image. A person is holding a Wii"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no couch in the image. The image shows a person holding"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a boat in the image. It appears to be a red"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a person in the image. They are lying on a red"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a dog in the image. The dog is lying down in"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a car in the image. It appears to be an old"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a cat in the image. The cat is sitting on top"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a couch in the image. It is an old, red"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a person in the image. The person is standing near the"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no car in the image. The image features a market with"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a broccoli in the image. It is part of"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a bowl in the image. It is located towards the right"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a handbag in the image. It is located towards the"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a backpack in the image. It is located towards the left"}
+{"gold": 1, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no chair in the image."}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no dining table in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there are two people in the image. One person is crouched"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no car in the image."}
+{"gold": 1, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no sports ball in the image."}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no baseball glove in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a car in the image. It is located at the bottom"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a truck in the image. It is located on the right"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a person in the image. The person is performing a skate"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no dining table in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a skateboard in the image. The skateboard is being"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no bicycle in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a person in the image. A woman is sitting at a"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no car in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a spoon in the image. It is located near the center"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no oven in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a bowl in the image. It is located on the table"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no banana in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a TV in the image. It is placed on a makes"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no person in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a chair in the image. It is a unique, rep"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no dining table in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a couch in the image. It is an old TV set"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no book in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a truck in the image. It is located on the right"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a car in the image. It is located on the right"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a person in the image. The person is walking on a"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no dining table in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is an umbrella in the image. A woman is holding a blue"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a handbag in the image. The handbag is being"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a person in the image. A young girl is sitting at"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no car in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a dining table in the image. The table is wooden and"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a bottle in the image. The bottle is located towards the"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a chair in the image. The chair is located to the"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no couch in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": null, "default": 1, "resp": "The image is a black and white photograph of a person's hands typing on a"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": null, "default": 1, "resp": "The image is a black and white photograph of a person's hands typing on a"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": null, "default": 1, "resp": "The image is a black and white photograph of a person typing on a computer keybo"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": null, "default": 1, "resp": "The image is a black and white photograph of a person's hands typing on a"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": null, "default": 1, "resp": "The image is a black and white photograph of a person's hands typing on a"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": null, "default": 1, "resp": "The image is a black and white photograph of a person's hands typing on a"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a person in the image. The person is a woman."}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no car in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a handbag in the image. The woman is holding a"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no backpack in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a cell phone in the image. The woman is holding a"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no dining table in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a person in the image. They are playing disc golf."}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no car in the image. The image features two men playing"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a bottle in the image. It is located towards the right"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no dining table in the image. The image features two men"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a frisbee in the image. It is located near"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no dog in the image. There are two men playing fr"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a TV in the image. It is a large screen TV"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no dining table in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there are four people in the image. They are sitting on a couch"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no car in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a couch in the image. It is located on the right"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no vase in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a motorcycle in the image. It is a unique and colorful"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a bicycle in the image. It's parked on the side"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a person in the image. The image shows a colorful,"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a dining table in the image. It appears to be a"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a car in the image. It's a vibrant, colorful"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a truck in the image. It is a colorful, cartoon"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a sink in the image. It is located on the right"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no person visible in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there are several bottles in the image. They are located on the counter"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no dining table in the image. It features a bathroom with"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a toilet in the image. It is located to the left"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no vase in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a dog in the image. The dog is sitting in the"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a firetruck in the image. It's a vintage"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a truck in the image. The image features a vintage fire"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no traffic light visible in the image. This is a black"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a person in the image. The image features a vintage fire"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, the image does not contain a dining table."}
+{"gold": 1, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no vase in the image. Instead, there is a bottle"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no potted plant in the image. Instead, there is"}
+{"gold": 1, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no bird in the image. Instead, there is a flower"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no person in the image. The image features a bird of"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a bottle in the image. It is holding a flower."}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no cup in the image. Instead, there is a bottle"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a teddy bear in the image. It is a large"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a large stuffed bear in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a person in the image. The person is lying on the"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no car in the image. The image features a person's"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a book in the image. It is located on the left"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a TV in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a sink in the image. It is located on the left"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no bottle in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a person in the image. The person is reflected in the"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no car in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a potted plant in the image. It is located on"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no dining table in the image. It shows a bathroom with"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is broccoli in the image. It is part of the"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no bowl in the image. The food is presented on a"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a carrot in the image, which is part of the"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no person in the image. The image features a plate of"}
+{"gold": 1, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no bed in the image. The image features a plate of"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no book in the image. The image features a plate of"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a traffic light in the image. It is located at the"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a person in the image. The person is walking down the"}
+{"gold": 1, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no car in the image. The image shows an empty street"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no truck in the image. The image shows a street with"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a fire hydrant in the image. It is located on"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a stop sign in the image. It is located on the"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a vase in the image. It is located on the left"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no potted plant in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a bed in the image. It has a wooden frame and"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no person in the image. The image shows a bedroom setting"}
+{"gold": 1, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no dining table in the image. The image shows a bed"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a cup in the image. It is located on the left"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a pizza in the image. It is a large pizza with"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a cup in the image. It is located towards the top"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a person in the image, but only a small part of"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no car in the image. The image features a pizza with"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a dining table in the image. The pizza is placed on"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a chair in the image. It is located at the top"}
+{"gold": 1, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no person in the image."}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no car in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there are multiple cups in the image. Specifically, there are four cups"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no bottle in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a cake in the image. It is a square-shaped cake"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no spoon in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a person sitting on a chair with tennis equipment, including a"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a person sitting on a chair with a tennis racketet"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a handbag. Could you please provide more information about the"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a person sitting on a chair with a tennis racketet"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a bottle. The image features a person sitting on a chair"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a dining table in the image. Could you please provide more"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a bowl in the image. It is located on the right"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a cup in the image. It is located on the right"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a person in the image. The person is partially visible,"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no car in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a laptop in the image. It is placed on a large"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a dining table in the image. It is covered with a"}
+{"gold": 1, "pope": 1, "logit": 0, "strict": null, "default": 1, "resp": "The image shows two young women playing soccer, with one player in a blue and"}
+{"gold": 0, "pope": 1, "logit": 0, "strict": null, "default": 1, "resp": "The image shows two female soccer players in action, with one player wearing a b"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": null, "default": 1, "resp": "The image shows two female soccer players in action, with one player wearing a b"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": null, "default": 1, "resp": "The image shows two female soccer players in action, with one player wearing a b"}
+{"gold": 1, "pope": 1, "logit": 0, "strict": null, "default": 1, "resp": "The image depicts a dynamic moment in a soccer game between two players, one in"}
+{"gold": 0, "pope": 1, "logit": 0, "strict": null, "default": 1, "resp": "The image shows two female soccer players in action, one player in a blue unifor"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a teddy bear in the image. It is located on"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a teddy bear in the image, located on the bed"}
+{"gold": 1, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no person visible in the image. The image shows a children"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no car in the image. The image features a child's"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a bed in the image. It is a children's bedroom"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no dining table in the image. The image features a child"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a motorcycle in the image. It is parked in a driveway"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no person visible in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a car in the image. It is parked behind the motorcycle"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no truck in the image. There is a car parked behind"}
+{"gold": 1, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no bicycle in the image. There is a motorcycle and a"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no bus in the image. There is a car and a"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there are people in the image. It shows a group of individuals,"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a car in the image. It is located on the left"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a handbag in the image. It is located towards the"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a backpack in the image. It is located towards the right"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a dining table in the image. It is a long table"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a cup in the image. It is located on the table"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there are donuts in the image. The image displays a variety of"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no spoon visible in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a cake in the image. It is located in the middle"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no cup visible in the image."}
+{"gold": 1, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no person in the image."}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no car in the image. The image shows a display of"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a backpack in the image. It is located near the bottom"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a handbag in the image. The handbag is located"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there are people in the image. One person is sitting on a bench"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a dining table in the image. It appears to be a"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a car in the image. The car is multicolored"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a truck in the image. It is located towards the bottom"}
+{"gold": 1, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no banana in the image. The image features a plate of"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no bowl in the image. The image shows a plate of"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a person in the image, who is eating food with chop"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no car in the image. The image shows a plate of"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a fork in the image, and it is being used to"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no cup in the image. The image shows a plate of"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a sink in the image. The sink is located to the"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no toilet in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a person in the image. The person appears to be an"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no car in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a bottle in the image. The bottle is located on the"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no dining table in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": null, "default": 1, "resp": "A person's hand is shown pressing a button on a black parking meter. The"}
+{"gold": 0, "pope": 1, "logit": 0, "strict": null, "default": 1, "resp": "A person's hand is pressing a button on a parking meter. parking meter."}
+{"gold": 1, "pope": 1, "logit": 0, "strict": null, "default": 1, "resp": "A person's hand is pressing a button on a black parking meter. parking meter"}
+{"gold": 0, "pope": 1, "logit": 0, "strict": null, "default": 1, "resp": "A person's hand is pressing a button on a black parking meter. The parking"}
+{"gold": 1, "pope": 1, "logit": 0, "strict": null, "default": 1, "resp": "A person's hand is shown pressing a button on a black parking meter. The"}
+{"gold": 0, "pope": 1, "logit": 0, "strict": null, "default": 1, "resp": "A person's hand is shown pressing a button on a black parking meter. The"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a person in the image. A man is sitting on the"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no car in the image. The image shows a man and"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a couch in the image. It is located under the window"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a chair in the image. It is located on the right"}
+{"gold": 1, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no laptop visible in the image. The image shows a man"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a dining table in the image. It is located under the"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a backpack in the image. It is located near the center"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a bus in the image. It is a large blue bus"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there are several people in the image. They are dressed in various uniforms"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no car in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a handbag in the image. It is being carried by"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no dining table in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a spoon in the image. The spoon is located on the"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no oven in the image. The image shows a table setting"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a bowl in the image. It is located on the right"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no banana in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a person in the image. The image shows a person's"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no car in the image. The image shows a group of"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a person in the image. The person appears to be a"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no car in the image. The image features a man with"}
+{"gold": 1, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no bed visible in the image. The focus is on a"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a book in the image. It is located on a shelf"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a remote in the image. It is located near the person"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a TV in the image, located in the top left corner"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a backpack in the image. The backpack is being worn by"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a handbag in the image. It is located near the"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a person in the image. The person is riding a bike"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no dining table in the image. Instead, there is a"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a traffic light in the image."}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no bus in the image. There is a girl riding a"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a traffic light in the image. It is located above the"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no person in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a train in the image. It is a yellow and green"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no truck in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a yellow and green trolley car in the image."}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no bicycle in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a backpack in the image. It is located behind the man"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a handbag in the image. It is located on the"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there are two people in the image: a man and a young child"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no car in the image."}
+{"gold": 1, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no couch in the image."}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a chair in the image. It is located on the left"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a TV in the image. It is located on a dress"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no person in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a backpack in the image. It is located near the bed"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a handbag in the image. The handbag is located"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a chair in the image. It is located near the bed"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a dining table in the image. It is located on the"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a person in the image. The person is a baseball player"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no car in the image."}
+{"gold": 1, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no sports ball in the image."}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no tennis racket in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a bottle in the image. The bottle is located near the"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no dining table in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a spoon in the image. It is located on the right"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a bowl in the image. It is located towards the right"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a person in the image."}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no car in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a bottle in the image."}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a chair in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a banana in the image. It is located on the table"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no orange in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there are three people in the image. They appear to be a woman"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no car in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a spoon in the image. It is located in the bowl"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is an oven in the image. It is located on the right"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there are three people in the image."}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no car in the image."}
+{"gold": 1, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no sports ball in the image."}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is not a baseball glove in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a tennis racket in the image. The image shows a"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no chair in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a person in the image."}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a car in the image. The image features a green bus"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a motorcycle in the image. It is parked on the side"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a bicycle in the image. The bicycle is parked on the"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a bus in the image. The bus is prominently displayed on"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is traffic in the image. The image shows a bus and a"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": null, "default": 1, "resp": "The image shows a long yellow train with a lot of people. 20"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": null, "default": 1, "resp": "The image shows a long yellow train with the words \"G\" on the side"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": null, "default": 1, "resp": "The image shows a yellow and black train on tracks with people standing on a pla"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": null, "default": 1, "resp": "The image shows a long yellow train with the words \"chugga\" on"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": null, "default": 1, "resp": "The image features a train in the image?"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": null, "default": 1, "resp": "The image features a long yellow train with a lot of people. 19"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a bowl in the image. The bowl is located towards the"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a person in the image. The person is partially visible,"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a broccoli in the image. The broccoli"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no carrot in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a dining table in the image. The table is covered with"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a chair in the image. The chair is located on the"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a person in the image. The person is wearing a black"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no car in the image."}
+{"gold": 1, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no sports ball visible in the image."}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no tennis racket in the image. The image features a"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a baseball bat in the image. The person is holding it"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a baseball glove in the image. The baseball glove is worn"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a truck in the image. It is located towards the right"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a car in the image. It is located in the top"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a bowl in the image. It is located towards the top"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a cup in the image. It is located towards the top"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a person in the image. The person is located towards the"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a chair in the image. It is located towards the right"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a traffic light in the image. It is located on the"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no person in the image."}
+{"gold": 1, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no truck in the image."}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no motorcycle in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there are multiple cars in the image. They are seen driving and parked"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no bus in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a bowl in the image. It is located on the right"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no dining table in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a spoon in the image. It is located on the counter"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no person in the image."}
+{"gold": 1, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no sandwich in the image."}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a fork in the image. It is located on the counter"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there are several people in the image. They appear to be gathered in"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no car in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a bicycle in the image. It is positioned on the left"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a motorcycle in the image. It is located on the left"}
+{"gold": 1, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no dining table in the image."}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a chair in the image. It is located towards the right"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a chair in the image. It is located on the right"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no person in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a clock in the image. It is a large, orn"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no car in the image."}
+{"gold": 1, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no dining table in the image."}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no cup in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a pizza in the image. It appears to be a unique"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no person visible in the image. The image primarily shows a"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a cup in the image. It is located towards the top"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a bottle in the image. It is located towards the top"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a dining table in the image. It is visible in the"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no chair in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a person in the image. The person is a woman standing"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a car in the image. It is located in the background"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a handbag in the image. The handbag is being"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no backpack in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a cell phone in the image. The woman is holding a"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no dining table in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a chair in the image. The child is sitting in a"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no couch in the image. The image shows a young child"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a person in the image. It is a young child,"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no car in the image. The image shows a young child"}
+{"gold": 1, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no cell phone in the image. The child is holding a"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no handbag in the image. The image features a young"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a chair in the image."}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a dining table in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a person in the image."}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no car in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a bench in the image."}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a backpack in the image. The image shows a person wearing"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a person in the image. They are holding a giant car"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no car in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a spoon in the image. It is located in the top"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a cup in the image. It is located on the left"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a bowl in the image. It is located on the left"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no dining table in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a pizza in the image, and it is covered in cheese"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no person visible in the image. The image primarily features a"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a cup in the image. It is located towards the top"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a bottle in the image. It is located towards the top"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a dining table in the image, and a pizza is placed"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no chair visible in the image. The image primarily features a"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a truck in the image. It is a large, vintage"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no car in the image. There is a truck."}
+{"gold": 1, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no bed in the image."}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no book in the image."}
+{"gold": 1, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no person in the image."}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a dining table in the image. It is located on the"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a person in the image. The person is wearing a black"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no car in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a dining table in the image. It is located towards the"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a cup in the image. It is located towards the right"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a donut in the image. The donut is located"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a spoon in the image. It is located near the center"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a vase in the image. It is a large, green"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no potted plant in the image."}
+{"gold": 1, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no person in the image."}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no car in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a dining table in the image. The table is visible in"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no cup in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a refrigerator in the image, located in the kitchen area."}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a bottle in the image. It is located near the top"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a couch in the image. It is located in the living"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no person in the image. It features a room with a"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a bed in the image. It is a white bed situated"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a book in the image. It is located on the right"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a backpack in the image. The backpack is being carried by"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there are several umbrellas in the image. They are visible"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a truck in the image. The truck is visible on the"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no traffic light in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there are several people in the image. They include a man in a"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no dining table in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there are several people in the image. They are gathered around a large"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no car in the image. The image shows a group of"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a bowl in the image. It is located towards the right"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a dining table in the image. It is situated in the"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a spoon in the image. It is located near the bottom"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a bottle in the image. It is located towards the right"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a person in the image. The person is sitting on a"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no car in the image. The image features a man sitting"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a handbag in the image. It is located near the"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a backpack in the image. It is located near the person"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a suitcase in the image. It is located near the"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a bottle in the image. It is located near the person"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": null, "default": 1, "resp": "This image shows a military tank with various objects on top of it."}
+{"gold": 0, "pope": 1, "logit": 1, "strict": null, "default": 1, "resp": "This image features a train with various objects on it, including a clock, a"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": null, "default": 1, "resp": "This image features a train with various objects on it, including a clock, and"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": null, "default": 1, "resp": "This image features a large military tank, which is decorated with various objec"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": null, "default": 1, "resp": "This image features a large military tank, which is decorated with various objec"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": null, "default": 1, "resp": "B. It appears to be a train."}
+{"gold": 1, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no truck in the image."}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no person in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a clock on the building."}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no chair in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a car in the image. It is located on the right"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no bus in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a vase in the image. It is a green vase with"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no potted plant in the image. Instead, there is"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a book in the image. It is a Gourmet"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no person in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a dining table in the image. It is a wooden table"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no cup in the image. There is a vase with flowers"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there are people in the image."}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no dining table in the image."}
+{"gold": 1, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no car in the image."}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no truck in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a kite in the image. The kite is shaped"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is an umbrella in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a banana in the image. It is sitting on a shelf"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no dining table in the image. The image features a kitchen"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a spoon in the image. It is located on the right"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no person in the image. It features a kitchen counter with"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a bowl in the image, located on the counter."}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no knife in the image. The image features a kitchen counter"}
+{"gold": 1, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no person in the image. The image features a hot dog"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no car in the image. The image features a hot dog"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a bowl in the image. It contains a hot dog with"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no spoon in the image. The image features a hot dog"}
+{"gold": 1, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no sandwich in the image. The image features a hot dog"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no fork in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a backpack in the image. The backpack is located on the"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there isn't a handbag in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a person in the image."}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no car in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a skis in the image. The skis are being"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there are skis in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a chair in the image. The dog is sitting on a"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no person visible in the image. Only a dog is present"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a dog in the image. It is a large dog with"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no car in the image. The image features a dog lying"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a couch in the image. The dog is sitting on the"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a TV in the image. It is located towards the top"}
+{"gold": 1, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no truck in the image."}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no traffic light in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there are two people in the image."}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no dining table in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a bicycle in the image. The bicycle is located at the"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no bus in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a spoon in the image. It is located at the top"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a bowl in the image. It is located towards the top"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a dining table in the image."}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is not a person in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a knife in the image. It is located at the top"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no bottle in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a truck in the image. It is located on the right"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no traffic light in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a clock in the image. It is located on the side"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no dining table in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a person in the image. The person is located near the"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a handbag in the image. It is located near the"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a traffic light in the image. It is located on the"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no car in the image."}
+{"gold": 1, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no person in the image."}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no dining table in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a train in the image. The train is yellow and black"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no truck in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a pizza in the image. It is placed on a counter"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no person visible in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a bottle in the image. It is located towards the right"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a cup in the image. It is located towards the right"}
+{"gold": 1, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no oven in the image."}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a spoon in the image. It is located near the center"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a clock in the image. It is located on the wall"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a chair in the image. It is located towards the right"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there are two people in the image. One person is a woman with"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no car in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a bottle in the image. It is located on the right"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no dining table visible in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there are two people in the image. One person is holding a large"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no car in the image."}
+{"gold": 1, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no orange in the image."}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no dining table visible in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is an umbrella in the image. It is located towards the left"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a handbag in the image. The handbag is located"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": null, "default": 1, "resp": "The image depicts a bedroom suite in the Hotel Kimball, Da'Ville"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": null, "default": 1, "resp": "The image depicts a vintage-style bedroom suite in a hotel, specifically the Hot"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a bed in the image. The bed is located in the"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": null, "default": 1, "resp": "The image depicts a vintage-style bedroom suite in a hotel, specifically the Hot"}
+{"gold": 1, "pope": 1, "logit": 0, "strict": null, "default": 1, "resp": "The image depicts a bedroom suite in the Hotel KIMBALL, DA V"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": null, "default": 1, "resp": "The image depicts a vintage bedroom suite in the Hotel KIMBALL, DA"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a laptop in the image. It is positioned to the left"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no TV in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a dining table in the image. The laptop and keyboard are"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no person visible in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a chair visible in the image. It is partially visible on"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no couch in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there are several chairs in the image. People are seated in them,"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no dining table in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there are multiple people in the image. They are seated in a lecture"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no car in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a laptop in the image. It is being held by a"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no TV in the image."}
+{"gold": 1, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no TV in the image. The image shows a computer desk"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no person visible in the image. It only shows a desk"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a mouse on the desk in the image."}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no book visible in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a laptop on the desk in the image."}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a bottle in the image. It is located on the desk"}
+{"gold": 1, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no person in the image."}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no car in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a cell phone in the image. It is located on the"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no dining table in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a bus in the image. The bus is white and labeled"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no traffic light visible in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a handbag in the image. It is located near the"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no person in the image."}
+{"gold": 1, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no dining table in the image."}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a cup in the image. It is located on the right"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a suitcase in the image. It is located on the"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a backpack in the image. It is located on the right"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": null, "default": 1, "resp": "The image shows a pile of apples in the image?"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": null, "default": 1, "resp": "The image shows a person in the image?"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": null, "default": 1, "resp": "The image shows a truck in the image? There is a truck in the image"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": null, "default": 1, "resp": "The image"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": null, "default": 1, "resp": "The image shows a view from inside a building, through a window, which is"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": null, "default": 1, "resp": "the image? 13. 10000000"}
+{"gold": 1, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no truck in the image. There is a bicycle, however"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no person in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a couch in the image. It appears to be a blue"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no TV in the image."}
+{"gold": 1, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no car in the image."}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no bus in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": null, "default": 1, "resp": "A \"C the train train of Greggs40 blue and white and yellow"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": null, "default": 1, "resp": "A train station."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": null, "default": 1, "resp": "A with multiple units C length station. \n\ns approaching train,"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": null, "default": 1, "resp": "A with multiple locomotives. \n\ns several C347, pulling into"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": null, "default": 1, "resp": "A \"C the trains \n\nA leading 33C657"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": null, "default": 1, "resp": "A \"C the trains \n\nA leading 33C160"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a person in the image. The person is wearing a cow"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a car in the image. It is located on the left"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a horse in the image. The horse is bucking and"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no dog in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a cow in the image. It is wearing a black leather"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a bicycle in the image. The bicycle is located on the"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a broccoli in the image, which is part of"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a bowl in the image. It is filled with vegetables."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a fork in the image. It is placed on the plate"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no person visible in the image. The image shows a plate"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a laptop in the image, located in the background."}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a TV in the image, located at the top left corner"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a backpack in the image. It is located in the top"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no person in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a handbag in the image. It is located in the"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no dining table in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a knife in the image. It is located towards the left"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a cup in the image. The cup is located towards the"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a traffic light in the image. It is located towards the"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a car in the image. It is partially visible behind the"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a person in the image. The person is a police officer"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no dining table visible in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a tie in the image. The tie is located at the"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a cup in the image. It is being held by a"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a bowl in the image. It is located on the table"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a cup in the image. It is located on the table"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a dining table in the image. It is set up outside"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no person in the image. The image features a table with"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a chair in the image. It is described as a \""}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no couch in the image. The image features a table with"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a person in the image. A young woman is standing next"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no car in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a handbag in the image. The woman is carrying a"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a backpack in the image. The backpack is worn by the"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, the woman in the image is holding a cell phone to her ear."}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no dining table in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a backpack visible in the image. It is located towards the"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a handbag in the image. It is located on the"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a person in the image, walking down the street with a"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no car in the image. The image features a horse-d"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a dog in the image, walking down the street with a"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no truck in the image. The image features a street with"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a backpack visible in the image. The person is carrying it"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there are no skis in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a person in the image. The person is walking and holding"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no dining table in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a handbag in the image. The person is carrying a"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no chair in the image."}
+{"gold": 1, "pope": 1, "logit": 0, "strict": null, "default": 1, "resp": "A black and white photo of a vintage suitcase sitting on a table with a"}
+{"gold": 0, "pope": 1, "logit": 0, "strict": null, "default": 1, "resp": "A black and white photograph captures a nostalgic scene of a vintage suitcase"}
+{"gold": 1, "pope": 1, "logit": 0, "strict": null, "default": 1, "resp": "A black and white photo of a picnic scene. featuring a vintage suitcase,"}
+{"gold": 0, "pope": 1, "logit": 0, "strict": null, "default": 1, "resp": "A black and white photograph captures a nostalgic scene of a vintage suitcase"}
+{"gold": 1, "pope": 1, "logit": 0, "strict": null, "default": 1, "resp": "A black and white photo of a vintage suitcase and a picnic table set up"}
+{"gold": 0, "pope": 1, "logit": 0, "strict": null, "default": 1, "resp": "A black and white photo of a vintage suitcase, brown leather couch, a"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a vintage truck in the image. The truck appears to be"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a traffic light in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a vintage car show or gathering. Is it parked in front"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a bus in the image. It appears to be a vintage"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a car show or exhibition of some kind. Is it a"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a dining table in the image. The image features a vintage"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a clock in the image, and it is located on the"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no person in the image. It only features a teddy"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a bed in the image. It is a small bed with"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a book in the image. It is sitting on a pillow"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a bottle in the image. It is located near the top"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no dining table in the image. Instead, there is a"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a TV in the image."}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no dining table in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there are two sinks in the image."}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a bottle in the image. It is located near the toilet"}
+{"gold": 1, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no person in the image."}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no car in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a bowl in the image. It is located towards the left"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no dining table in the image. The image features a young"}
+{"gold": 1, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no scissors in the image."}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a bottle in the image. It is located on the left"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a person in the image. The person appears to be a"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no car in the image."}
+{"gold": 1, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no TV in the image. Instead, there is a cat"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no person in the image. Only a cat is present,"}
+{"gold": 1, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no laptop in the image. Instead, there is a desktop"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no mouse in the image. Instead, there is a cat"}
+{"gold": 1, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no dining table in the image. Instead, the image features"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a cup in the image. It is located on the right"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a spoon in the image, which is placed next to the"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no cup in the image. The image features a piece of"}
+{"gold": 1, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no orange in the image. Instead, the image features a"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no person in the image. The image features a piece of"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a cake in the image. It is a piece of cake"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a dining table in the image, with a piece of cake"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a sink in the image. It is located on the right"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a bottle in the image. It is located towards the right"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a bowl in the image. It is located towards the left"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a cup in the image. It is located towards the right"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is an oven in the image. It is located on the right"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no person visible in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a person in the image. The person is sitting on a"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no car in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a motorcycle in the image. The motorcycle is positioned prominentl"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no bicycle in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a parking meter in the image. It is located on the"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no truck in the image."}
+{"gold": 1, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no traffic light in the image."}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no car in the image."}
+{"gold": 1, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no toothbrush in the image."}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a sink in the image. It is located to the right"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a person in the image. The person is sitting on the"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a dining table in the image. It is located on the"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there are several chairs in the image. People are sitting on them in"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a dining table in the image. It is a long communal"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there are multiple people in the image. They appear to be part of"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no car in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there are books in the image. They are located on the bookshel"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no TV in the image."}
+{"gold": 1, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no snowboard in the image."}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a backpack in the image. It is located towards the left"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there are skis in the image. Two pairs of skis can"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no dog in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there are multiple people in the image. They are depicted as small,"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no car in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a person in the image. The person is riding a motorcycle"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no dining table in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a motorcycle in the image. It is located in the center"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a truck in the image. It is located towards the right"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a car in the image. It is located towards the right"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a bus in the image. It is located towards the right"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a snowboard in the image, and it is being used"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there are no skis in the image. Instead, the people are"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a backpack in the image. It is located near the person"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a handbag in the image. It is located near the"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a person in the image. The person is standing on a"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no car in the image. The image features a group of"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a baseball glove in the image. The glove is being held"}
+{"gold": 0, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a baseball bat in the image. The man in the middle"}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there are four people in the image."}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no car in the image."}
+{"gold": 1, "pope": 1, "logit": 1, "strict": 1, "default": 1, "resp": "Yes, there is a sports ball in the image. The image features a group"}
+{"gold": 0, "pope": 0, "logit": 0, "strict": 0, "default": 0, "resp": "No, there is no tennis racket in the image. It shows three baseball"}
