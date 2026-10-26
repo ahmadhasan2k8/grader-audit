@@ -39,7 +39,7 @@ what specific models answered on specific items and should not be read as genera
 
 ## Distribution & license
 Code under MIT; released labels and derived data under CC-BY-4.0. Underlying benchmark datasets and models
-remain under their own licenses. The repository is at https://github.com/ahmadhasan2k8/same-outputs-different-scores and is provided at
+remain under their own licenses. The repository is at https://github.com/ahmadhasan2k8/grader-audit and is provided at
 camera-ready.
 
 ## Maintenance
